@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Logs
+logs/
+*.log
+
+# IDE/project files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Env files
+.env
+.env.test
+
+# Backups and temp
+*.bak
+*.old
+*.tmp
+
+# Test data
+*_test.json
+user_map_test.enc
+.key
+
+# Ключи и секреты
+*.key
+user_map.enc
+user_map_decrypted.json
+
+# Логи
+logs/*.json
+
+# Тестовые/временные данные
+users.json
+saved_queries.json
+stats.json
+
+# Парсеры: временные файлы
+parsers/*.json
+parsers/*.txt
+parsers/*.html
+
+# Анализ/тесты (если не нужны на сервере)
+performance_analysis/*.md
+performance_analysis/*.json
+performance_analysis/*.sh

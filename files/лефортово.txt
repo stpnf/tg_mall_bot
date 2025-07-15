@@ -1,0 +1,2760 @@
+<section class="section-shops">
+	<div class="decal_birds_orange" style="transform: translate(-50%, -50%) translate(6.75px, -17.4769px);"></div>
+	<div class="decal_bike" style="transform: translate(4.9934px, -1.9286px);"></div>
+	
+<div class="w">
+	<div class="decal_rhomb" style="transform: translate(-50%, 0%) translate(-8.6786px, 22.4703px);"></div>
+	<div class="decal_square" style="transform: translate(-14.9802px, 5.7857px);"></div>
+
+	<div class="cards news-list">
+            <a class="card news-item" href="familia/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/f9d/dyrwdtuk9d0h7r1g5wdimsl2rwpixemg.png)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/d48/k2aqgkoj2fh2lfgifff5susazrkkgvns.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">FAMILIA</div>
+               <div class="lvl"><b class="num">2</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Аксессуары</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="aykraft/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/526/98omc9uk818gbm2l3s34lfjv4petatvv.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/36b/po0sdlc62of35imzupr9teacuqwqdhw4.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">АЙКРАФТ</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Аксессуары</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="twool/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/f96/dp95l5xa8sk534g5czgo9brk2bckbfjs.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/bf8/rbpa1xxt0pk4ax7p46fczq9ijarbzcwp.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">TWOOL</div>
+               <div class="lvl"><b class="num">2</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Аксессуары</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="tamaris/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/eb1/rwy43okuo4gq6t5vr3scalw23zi3pd4q.png)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/ede/zqbum0icrn3ad5ix6wri33uw3xry6y0z.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">TAMARIS</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Аксессуары</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="kari/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/75c/63wmk62f6ztdtf7uwfgtstr82t3dofpy.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/c9e/td4ntb4r4043xwjmgg714w169l9qz0g1.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">KARI</div>
+               <div class="lvl"><b class="num">2</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Аксессуары</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="snezhnaya_koroleva/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/40f/botfq83lor7srh71ngioewt3y1j5xsmq.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/ce8/vwj9nl6x2ns0yry1kud1csotp9qg7is5.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">СНЕЖНАЯ КОРОЛЕВА</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Аксессуары</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="chitay-gorod/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/75d/xmkbgqt2havb91pa2teqsorftulqavoh.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/6a4/n1tf80nx3l5230g0emls1cmppak1llee.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ЧИТАЙ-ГОРОД</div>
+               <div class="lvl"><b class="num">2</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Аксессуары</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="ochkarik/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/e42/r12di3xcm6lnuusk93prv095v8t217gv.png)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/fb9/fnt6he1sgit5kn9nznrit3494oz0eubo.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ОЧКАРИК</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Аксессуары</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="sreet-beat/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/4cb/89ehf4db3u6gddg4g5dqn2z5nrjspszb.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/03d/pw2vc38i6gk15cwilyncvq3d0ktlhnqx.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">Street Beat </div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Аксессуары</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="redmond/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/847/8gc9e6el9o16a8z4ruotw4owqx0q4t75.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/edf/jtc89ut45y494jnw2mf9we6auao2iqtw.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">REDMOND</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Аксессуары</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="mr_sumkin/">
+            <div class="img " style="background-image:url(/upload/iblock/cbc/200l6ya91z7qz3yn0tinri6sftie93b7.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">MR. SUMKIN</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Аксессуары</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="stillochki/">
+            <div class="img " style="background-image:url(/upload/iblock/cbc/200l6ya91z7qz3yn0tinri6sftie93b7.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">Стиллочки</div>
+               <div class="lvl"><b class="num">2</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Аксессуары</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+      		
+	</div>
+</div>
+</section>
+<section class="section-shops">
+	<div class="decal_birds_orange" style="transform: translate(-50%, -50%) translate(3.1071px, -17.2919px);"></div>
+	<div class="decal_bike" style="transform: translate(4.9406px, -0.8878px);"></div>
+	
+<div class="w">
+	<div class="decal_rhomb" style="transform: translate(-50%, 0%) translate(-3.9949px, 22.2325px);"></div>
+	<div class="decal_square" style="transform: translate(-14.8217px, 2.6633px);"></div>
+
+	<div class="cards news-list">
+            <a class="card news-item" href="more-kupalnikov/">
+            <div class="img " style="background-image:url(/upload/iblock/80d/2a0htj4qp5dg33nlxcqc5js94vuibhrb.jpg)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">МОРЕ КУПАЛЬНИКОВ</div>
+               <div class="lvl"><b class="num">2</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Белье</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="tribuna/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/348/zga7jd5avhc6661c7yeqatmd4yr2de59.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/b20/fhkj2iwic4g96j211k4j23k678ffzy12.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">TRIBUNA</div>
+               <div class="lvl"><b class="num">2</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Белье</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="milavitsa/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/4c2/ayl70rui07hvajsyfdj1zc1dd0u1g2eg.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/d8f/spotn8y0lckmdoeoxaherzuixqxii6m1.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">MILAVITSA</div>
+               <div class="lvl"><b class="num">2</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Белье</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="stylish_lady/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/897/lucfkhgzxh9ubx62z7vjziqa0so2ra4o.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/b03/t7n7v3z88tmfiyyy7xs7ukzzqw6d8a2e.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">STYLISH LADY</div>
+               <div class="lvl"><b class="num">2</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Белье</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="palmetta/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/69d/zyrb6gqchrkw0jnptrk98jjwbxhv52rf.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/d07/idx7sa8pk2c8cjuuim3gys3uf5vfr366.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">PALMETTA</div>
+               <div class="lvl"><b class="num">2</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Белье</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="laete/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/812/nzvvgz9nfw2km40qhpe83psujn7mk8mv.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/488/qsa2f0pf342ka0mrjkr1bgv6q4sz89nn.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">LAETE</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Белье</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="intimissimi/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/e59/5oouu3bj6fpk5pf9iviruqz8nb2ykz0k.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/f04/bxfumu7cljutj78uu50e9pd8f1eg4mqr.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">INTIMISSIMI</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Белье</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="incanto/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/804/efl6vd7mihtzoyn8b4iankl1noz5wv5n.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/f23/0o3m4lajetszm286i9btnig5silhsxxi.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">INCANTO</div>
+               <div class="lvl"><b class="num">2</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Белье</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="calzedonia/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/971/4oktobv2i39nyhk17ncpq3bhcekucnz8.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/72f/7muy3a3plrcnya7lfb55x84m4rvba41f.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">CALZEDONIA</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Белье</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+      		
+	</div>
+</div>
+</section>
+<section class="section-shops">
+	<div class="decal_birds_orange" style="transform: translate(-50%, -50%) translate(-4.5714px, -16.9221px);"></div>
+	<div class="decal_bike" style="transform: translate(4.8349px, 1.3061px);"></div>
+	
+<div class="w">
+	<div class="decal_rhomb" style="transform: translate(-50%, 0%) translate(5.8776px, 21.7569px);"></div>
+	<div class="decal_square" style="transform: translate(-14.5046px, -3.9184px);"></div>
+
+	<div class="cards news-list">
+            <a class="card news-item" href="mebel-brands/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/431/2ci4vn2romf3biu6fel8q3yizvrmla34.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/a56/2bl5kzjjypfs5ax6w29ow56uans417a1.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">MEBEL BRANDS</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Гипермаркеты</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="ashan/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/36e/6mvcwvz99bwl2fttrqtxsmjgfoishtsd.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/5e9/9ybxaau6ydsl2i4o05y0xcqha0uuyduo.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">АШАН</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Гипермаркеты</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="lemana-pro/">
+            <div class="img " style="background-image:url(/upload/iblock/da1/ia12iwjjqy75zpaag88fzej2zquh58ks.jpg)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">Лемана ПРО</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Гипермаркеты</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+      		
+	</div>
+</div>
+</section>
+<section class="section-shops">
+	<div class="decal_birds_orange" style="transform: translate(-50%, -50%) translate(-2.4643px, -16.4366px);"></div>
+	<div class="decal_bike" style="transform: translate(4.6962px, 0.7041px);"></div>
+	
+<div class="w">
+	<div class="decal_rhomb" style="transform: translate(-50%, 0%) translate(3.1684px, 21.1328px);"></div>
+	<div class="decal_square" style="transform: translate(-14.0885px, -2.1122px);"></div>
+
+	<div class="cards news-list">
+            <a class="card news-item" href="proficare/">
+            <div class="img  logo-card " style="background-image:url(/local/templates/gorod/gorod-front/img/empty_imgs/shops_empty_small.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/60d/b28yjclth9xyxg0k22ymsf15zjqlwp3x.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">PROFICARE</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Здоровье и красота</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="aykraft/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/526/98omc9uk818gbm2l3s34lfjv4petatvv.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/36b/po0sdlc62of35imzupr9teacuqwqdhw4.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">АЙКРАФТ</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Здоровье и красота</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="ochkarik/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/e42/r12di3xcm6lnuusk93prv095v8t217gv.png)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/fb9/fnt6he1sgit5kn9nznrit3494oz0eubo.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ОЧКАРИК</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Здоровье и красота</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="tochka_krasoty/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/c4b/g5jlh0zhov72qxyfbfnh40a99i1zc11f.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/d31/xbp5fs702vtt5hgdyqqdml302b4ogj57.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ТОЧКА КРАСОТЫ</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Здоровье и красота</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="staryy_lekar/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/6c8/6l8mxq5wwc1ze0zzqelkq8mzj23htqy9.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/a45/x4xg0hwx4vz8j6rwn4e4cirtezni3k2d.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">СТАРЫЙ ЛЕКАРЬ</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Здоровье и красота</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="riv_gosh/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/868/a9e081hlssqs7jc3bq5n9704tdjc2b51.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/1fe/gjea9iaz8q3wav6xgei0zhlkmts253sv.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">РИВ ГОШ</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Здоровье и красота</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="podruzhka/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/85a/qde256vdz9s2rrk2w6kx2y8h5518ngra.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/0b4/vpde7jbrcn0pxgsri621i41eq5ee6xnw.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ПОДРУЖКА</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Здоровье и красота</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="l_etual/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/4e7/g86cnuc75i53taqyurujj5qo91kz02i1.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/9ec/3e1fcz53xwokx7dl0h9jwvegdr4x3l14.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">Л`ЭТУАЛЬ</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Здоровье и красота</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="doktor_stoletov/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/675/o92eh2gbc0ijidj4d4slh6gl6a4a42g1.png)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/976/xnu2f63btjsdwm1jz265uumkgmzgfokp.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ДОКТОР СТОЛЕТОВ</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Здоровье и красота</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="apteka_36_6/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/980/4sef1i0h4urn3w8msa72pejui77bots3.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/817/ev38g0zk70qg53ei9s739r0leb79e3pi.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">АПТЕКА 36'6</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Здоровье и красота</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+      		
+	</div>
+</div>
+</section>
+<section class="section-shops">
+	<div class="decal_birds_orange" style="transform: translate(-50%, -50%) translate(-5.1786px, -17.2919px);"></div>
+	<div class="decal_bike" style="transform: translate(4.9406px, 1.4796px);"></div>
+	
+<div class="w">
+	<div class="decal_rhomb" style="transform: translate(-50%, 0%) translate(6.6582px, 22.2325px);"></div>
+	<div class="decal_square" style="transform: translate(-14.8217px, -4.4388px);"></div>
+
+	<div class="cards news-list">
+            <a class="card news-item" href="chitay-gorod/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/75d/xmkbgqt2havb91pa2teqsorftulqavoh.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/6a4/n1tf80nx3l5230g0emls1cmppak1llee.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ЧИТАЙ-ГОРОД</div>
+               <div class="lvl"><b class="num">2</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Подарки</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+      		
+	</div>
+</div>
+</section>
+<section class="section-shops">
+	<div class="decal_birds_orange" style="transform: translate(-50%, -50%) translate(-5px, -17.3844px);"></div>
+	<div class="decal_bike" style="transform: translate(4.967px, 1.4286px);"></div>
+	
+<div class="w">
+	<div class="decal_rhomb" style="transform: translate(-50%, 0%) translate(6.4286px, 22.3514px);"></div>
+	<div class="decal_square" style="transform: translate(-14.9009px, -4.2857px);"></div>
+
+	<div class="cards news-list">
+            <a class="card news-item" href="chetyre-lapy/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/a9a/7f2pxvri8kh1b2fjvbcpfrx83cb98xo1.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/a43/3yovp5df0qvvyoqnmf4tjlagwhk5jc59.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ЧЕТЫРЕ ЛАПЫ</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Зоотовары</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="zoogalereya/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/e34/hy1rzs0fuva7sow39p4vm0npnyfa4zxb.png)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/6b4/vxm2lqvu1rcjtts47xa8mgbswho3afic.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ЗООГАЛЕРЕЯ</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Зоотовары</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+      		
+	</div>
+</div>
+</section>
+<section class="section-shops">
+	<div class="decal_birds_orange" style="transform: translate(-50%, -50%) translate(3.2857px, -17.4306px);"></div>
+	<div class="decal_bike" style="transform: translate(4.9802px, -0.9388px);"></div>
+	
+<div class="w">
+	<div class="decal_rhomb" style="transform: translate(-50%, 0%) translate(-4.2245px, 22.4108px);"></div>
+	<div class="decal_square" style="transform: translate(-14.9406px, 2.8163px);"></div>
+
+	<div class="cards news-list">
+            <a class="card news-item" href="sweet-lavka/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/7e6/oxhzwlpmw1484wogq39232z3yjxbe4lo.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/63e/3q5rigs0zihmg7ye6ca33lbyyjtct7u6.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">SWEET LAVKA</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Продукты питания</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="vkusnyashka/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/ade/0ayei3k32lj8phyuq6xmlwk4rohmye7t.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/0c0/r0cb44bfvc6bwslyasj4hjhztohgp3bx.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ВКУСНЯШКА</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Продукты питания</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="sladkie_zakroma/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/ca8/5yb7fsug7xq06j92mww40oaud8v52rwt.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/194/y22u3fha6r20kq3d2caxzdq52o6s79xm.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">СЛАДКИЕ ЗАКРОМА</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Продукты питания</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="ashan/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/36e/6mvcwvz99bwl2fttrqtxsmjgfoishtsd.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/5e9/9ybxaau6ydsl2i4o05y0xcqha0uuyduo.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">АШАН</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Продукты питания</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+      		
+	</div>
+</div>
+</section>
+<section class="section-shops">
+	<div class="decal_birds_orange" style="transform: translate(-50%, -50%) translate(-6.1429px, -17.4769px);"></div>
+	<div class="decal_bike" style="transform: translate(4.9934px, 1.7551px);"></div>
+	
+<div class="w">
+	<div class="decal_rhomb" style="transform: translate(-50%, 0%) translate(7.898px, 22.4703px);"></div>
+	<div class="decal_square" style="transform: translate(-14.9802px, -5.2653px);"></div>
+
+	<div class="cards news-list">
+            <a class="card news-item" href="stars-coffee/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/37a/pq29gnm29h2wfjx9czk5q5uphcejv16e.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/5cf/xr0jokmtggpn1npolh31wcil0q1d5cxt.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">STARS COFFEE</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Рестораны</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="vkusno-i-tochka/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/f38/lvc5lhf9oee7edjmzn86mbu3uludsjxh.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/1f8/s033yvajhbs2w8zjazer1mzc39n1hihq.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ВКУСНО - И ТОЧКА</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Рестораны</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="burger_king/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/0cc/d5r0zskw6si17bs0nkgdlreqn1afwo0c.png)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/07a/r393zgp9vuzxvdsn0pawz8yqyw9v4yl8.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">BURGER KING</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Рестораны</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="teremok/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/71d/0hsb6xgqvzv94nu2087e4y4a8netrkzd.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/8d5/i37dag3cfwec9ml4smmsq4zbtu4kuozs.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ТЕРЕМОК</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Рестораны</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="kroshka_kartoshka/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/2c5/j7tvzbny30zpgp5hp4d4y340spumbimq.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/3ce/cngd1wabgh3d3wg63wyzysyfuruwjpup.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">КРОШКА КАРТОШКА</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Рестораны</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="umi-umi/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/6e8/m9dfeflxfzl2htgjkwn65g6sd1e0obim.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/ae7/cg1g9b299u72nj5d4ycdxw7x2vsae1fy.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">UMI UMI</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Рестораны</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="franklin-burger/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/a8a/h36n3dco1lkh7dsc4dtt037hg2rz6vqh.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/e6f/sas004iynr6wbzv2yp7ffm9lulmm26a2.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ФРАНКЛИНС БУРГЕР</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Рестораны</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="fho_vetnamskoe_kafe/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/3c4/qvwoew5i6jabx8sgshnwcowgxt97ordw.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/1e0/cg17l8jg4cn2jfdxzffvnf93o95i6aoo.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">FHO ВЬЕТНАМСКОЕ КАФЕ</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Рестораны</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="dimsum_co/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/0ac/931cjnsi8bg43y5vqgynsx8oaml0myhk.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/519/xfxz3uxz57t0p5jmloy6h92r12ytgeut.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">DIMSUM&amp;CO</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Рестораны</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="cofix/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/57f/j03iug7cm2j2as7kvnu5ny591229dpne.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/0cf/r2vbg3wtlm7wcal9n2jw0tmme7kp9bel.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">COFIX</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Рестораны</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="chaykhona/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/97c/j6wtjav8p8nbgwtdk596zaixo8qtvhin.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/be6/zj3fvuz4p9jo7kt71t1ajptte7pcue7o.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ЧАЙХОНА</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Рестораны</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+      		
+	</div>
+</div>
+</section>
+<section class="section-shops">
+	<div class="decal_birds_orange" style="transform: translate(-50%, -50%) translate(-2px, -17.1995px);"></div>
+	<div class="decal_bike" style="transform: translate(4.9141px, 0.5714px);"></div>
+	
+<div class="w">
+	<div class="decal_rhomb" style="transform: translate(-50%, 0%) translate(2.5714px, 22.1136px);"></div>
+	<div class="decal_square" style="transform: translate(-14.7424px, -1.7143px);"></div>
+
+	<div class="cards news-list">
+            <a class="card news-item" href="baasploa/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/d32/g3mqskdzd7w483umx96on60g1cl0v0v5.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/0b7/1wpy0cxbx8l5nva1jce0fgod3nkrzau8.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">BAASPLOA</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Спортивные товары</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="sreet-beat/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/4cb/89ehf4db3u6gddg4g5dqn2z5nrjspszb.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/03d/pw2vc38i6gk15cwilyncvq3d0ktlhnqx.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">Street Beat </div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Спортивные товары</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="sportmaster/">
+            <div class="img " style="background-image:url(/upload/iblock/f1c/6ddi2wn6ga3pz08pcs75m3x47xb3782p.jpg)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">СПОРТМАСТЕР</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Спортивные товары</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="sneakerbox/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/c0e/igdcrbzji0atleyksgfl09nqmgthq0og.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/5ee/zs1mvwevidfmju1x6agmlnyqb7j806bs.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">SNEAKERBOX</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Спортивные товары</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+      		
+	</div>
+</div>
+</section>
+<section class="section-shops">
+	<div class="decal_birds_orange" style="transform: translate(-50%, -50%) translate(5.8571px, -17.3613px);"></div>
+	<div class="decal_bike" style="transform: translate(4.9604px, -1.6735px);"></div>
+	
+<div class="w">
+	<div class="decal_rhomb" style="transform: translate(-50%, 0%) translate(-7.5306px, 22.3217px);"></div>
+	<div class="decal_square" style="transform: translate(-14.8811px, 5.0204px);"></div>
+
+	<div class="cards news-list">
+            <a class="card news-item" href="detskiy_mir/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/827/wt33y6ggydhom6t9igjwsv2eiwwji1jl.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/1d2/iwvzyqdug1rk9svmfnmxliyjizgx4jko.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ДЕТСКИЙ МИР</div>
+               <div class="lvl"><b class="num">2</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для детей</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="familia/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/f9d/dyrwdtuk9d0h7r1g5wdimsl2rwpixemg.png)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/d48/k2aqgkoj2fh2lfgifff5susazrkkgvns.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">FAMILIA</div>
+               <div class="lvl"><b class="num">2</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для детей</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="twool/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/f96/dp95l5xa8sk534g5czgo9brk2bckbfjs.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/bf8/rbpa1xxt0pk4ax7p46fczq9ijarbzcwp.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">TWOOL</div>
+               <div class="lvl"><b class="num">2</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для детей</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+      		
+	</div>
+</div>
+</section>
+<section class="section-shops">
+	<div class="decal_birds_orange" style="transform: translate(-50%, -50%) translate(3.6071px, -17.3151px);"></div>
+	<div class="decal_bike" style="transform: translate(4.9472px, -1.0306px);"></div>
+	
+<div class="w">
+	<div class="decal_rhomb" style="transform: translate(-50%, 0%) translate(-4.6378px, 22.2622px);"></div>
+	<div class="decal_square" style="transform: translate(-14.8415px, 3.0918px);"></div>
+
+	<div class="cards news-list">
+            <a class="card news-item" href="585-zolotoy/">
+            <div class="img  logo-card " style="background-image:url(/local/templates/gorod/gorod-front/img/empty_imgs/shops_empty_small.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/d83/oekgipeeqlhbf2mmiuauy5sgr2f5nkum.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">585*ЗОЛОТОЙ</div>
+               <div class="lvl"><b class="num"></b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Ювелирные изделия</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="bronnitskiy-yuvelir/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/215/xi6lwc9m1zomj3a0nxj9632xd48pvgh1.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/d27/9z3of6j7zzi4ffo3sonzcz1xbex47xm8.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">БРОННИЦКИЙ ЮВЕЛИР</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Ювелирные изделия</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="adamas/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/422/wfrs0x8vd32n26jh21tlcs2e0pm5s07f.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/cd3/i0x1v5ep8wocifsenyjhs86e33eg8ty0.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ADAMAS</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Ювелирные изделия</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="sunlight/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/d22/aopq57jwnlihygckqbr1h1axqage4g19.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/e56/zwp2z2qexfo92xl24u53e3uz8o7wm83g.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">SUNLIGHT</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Ювелирные изделия</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="sokolov/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/a2d/w8w7986xpivgueuf4ffpekmgapopq48n.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/336/m64s1luqusvhjxtbowxb0v59c6udc7yr.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">SOKOLOV</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Ювелирные изделия</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="epl_diamond/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/6a4/n0yza68nl79sum4kao9b69cxg81oa7fn.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/f1e/lep2jd4m8uzmh3uv0qpgadtxxshw7iz2.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ЭПЛ Даймонд</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Ювелирные изделия</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="miuz/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/d66/l6n2zx1zko9sdq1nherd4olidxhufg6e.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/434/qrcjduuq4t0rspkw7u76ifg6va496wji.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">MIUZ DIAMONDS</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Ювелирные изделия</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="zolotoy_priisk/">
+            <div class="img " style="background-image:url(/upload/iblock/c86/5zs8aamkg2lewpmesx2ninqxgwfd0uje.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ЗОЛОТОЙ ПРИИСК</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Ювелирные изделия</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="tserkovnaya_lavka/">
+            <div class="img " style="background-image:url(/upload/iblock/c9a/rryp13k17e4a8wiemybiwxjp74qg830e.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ЦЕРКОВНАЯ ЛАВКА</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Ювелирные изделия</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+      		
+	</div>
+</div>
+</section>
+<section class="section-shops">
+	<div class="decal_birds_orange" style="transform: translate(-50%, -50%) translate(0.1429px, -17.1301px);"></div>
+	<div class="decal_bike" style="transform: translate(4.8943px, -0.0408px);"></div>
+	
+<div class="w">
+	<div class="decal_rhomb" style="transform: translate(-50%, 0%) translate(-0.1837px, 22.0244px);"></div>
+	<div class="decal_square" style="transform: translate(-14.683px, 0.1224px);"></div>
+
+	<div class="cards news-list">
+            <a class="card news-item" href="dns/">
+            <div class="img  logo-card " style="background-image:url(/local/templates/gorod/gorod-front/img/empty_imgs/shops_empty_small.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/8e9/r2a22umwheics93ztqtd18krsg7tyz8u.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">DNS</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Электроника</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="haier/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/805/asmylpsbkzovpak9x7424wfloeb9r321.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/f68/ti7afjj8cfcbmk7arjiswqdeesdo3zev.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">HAIER</div>
+               <div class="lvl"><b class="num">2</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Электроника</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="xiaomi/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/c22/njmho66189ytqgiik2fpfw7p327da9w1.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/5d7/qrkl20qbx3869tjjq2sohcnda3b1ra03.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">Xiaomi</div>
+               <div class="lvl"><b class="num"></b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Электроника</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="m_video/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/e91/vthykkruxsmgiyn9e9wytswt9rs4y8vu.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/1b4/bsves0jgjz65kljjkicx8p32o9wbwi5l.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">М. ВИДЕО</div>
+               <div class="lvl"><b class="num">2</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Электроника</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="samsung/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/7e9/oeopiujxhp0ah4t4mpxxtco7sl8sjzay.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/ee1/cppe33yzf41jx6ocz85muhyq2c232x8r.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">SAMSUNG</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Электроника</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="re_store/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/a7b/82wvj144yh24sisukadxkj14w9tavh24.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/22d/bgkvzk3vilcecvoti9uza41f5mu53zna.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">RE:STORE</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Электроника</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+      		
+	</div>
+</div>
+</section>
+<section class="section-shops">
+	<div class="decal_birds_orange" style="transform: translate(-50%, -50%) translate(-2.2143px, -17.4769px);"></div>
+	<div class="decal_bike" style="transform: translate(4.9934px, 0.6327px);"></div>
+	
+<div class="w">
+	<div class="decal_rhomb" style="transform: translate(-50%, 0%) translate(2.8469px, 22.4703px);"></div>
+	<div class="decal_square" style="transform: translate(-14.9802px, -1.898px);"></div>
+
+	<div class="cards news-list">
+            <a class="card news-item" href="nogotok-/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/6ce/19sb1nxxwnjhj2aldt4pl90yr3aiwrcy.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/7f4/057b25xkhrbi5i2j453ijyjib1cqmz9d.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">НОГОТОК </div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Услуги</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="fora-bank/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/983/oqmumhrdhz8whfpsgrbzr6os73yi77wo.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/e7e/qax0xcf73bdzc7k5hn2xdbzx7doyom26.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ФОРА-БАНК</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Услуги</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="pro-tabak/">
+            <div class="img " style="background-image:url(/upload/iblock/c9a/rryp13k17e4a8wiemybiwxjp74qg830e.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">PRO ТАБАК</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Услуги</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="mts/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/374/2pcm32051akzx4gz0kgdcewtjox4vvm7.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/039/8vv8rdc0eex7tu1q1e1177jkb7k3m7ti.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">МТС</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Услуги</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="megafon/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/a33/waxaiujoilyq3005rszhsggct8054zia.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/b08/12r4hpny692e4n1gpjf5nqfsqymyv6ch.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">МЕГАФОН</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Услуги</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="yota/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/899/kb3z80gtpuu3cexygtrn8i12hocchvxf.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/29b/l30imaok13erwg39466nt2jd63exuju0.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">YOTA</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Услуги</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="tele_2/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/888/o9tk24g74e05unt9m27at87cfs5ydi0v.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/948/530lmlwedpnw7ha5ll9kkd9i6dmdpj0b.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">TELE 2</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Услуги</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="5a_sec/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/dd2/rp9a2gxqywvyat8r5kmwuc9cdq16edmx.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/acf/csjqf13v1wrht9a8ymv00034xkglqte6.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">5A SEC</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Услуги</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="dom_byta_com/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/b7a/e7fa2eeavl6f8tgi8xc7nh50bljcwiub.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/27f/wvxhq0llomky0qzn50g11vy00z12nipx.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ДОМ БЫТА.COM</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Услуги</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="voobrazhulya/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/5b2/lvfst89wfo29wwjvl93uz1nxx9cd10as.png)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/5e4/i6k3k8htmaayh5z816uy89953pw6uvoj.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ВООБРАЖУЛЯ</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Услуги</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="bank_avangard/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/8a8/my1b7hfv1tvq8083anqcxlsk697uvyy5.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/d9e/3r2t3cpeby3y4796r6r7njpea7mfd0j6.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">БАНК АВАНГАРД</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Услуги</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="atele_serzh/">
+            <div class="img " style="background-image:url(/upload/iblock/c9a/rryp13k17e4a8wiemybiwxjp74qg830e.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">АТЕЛЬЕ СЕРЖ</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Услуги</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="avtobystro/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/cb1/992r2a0387oksg7mmkwir3s9jlypv6tv.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/26c/ctdub87i12g9n5hzm1ow9kbz03k2jg81.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">АВТОБЫСТРО</div>
+               <div class="lvl"><b class="num"></b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Услуги</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="coral_travel/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/902/dyo3o2d32kketltwmgs8l03urexetkti.png)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/009/lgjdklmi96ba78m2qk37ao7nhszf51uq.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">CORAL TRAVEL</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Услуги</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="yunistrim/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/80b/z214wx9imchq5r40lzycesuti6dpy7qr.png)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/c0c/ru2ni85xnndrxqp1s7tq4hvm37zxjezh.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ЮНИСТРИМ</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Услуги</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+      		
+	<a class="card news-item" href="sberbank/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/7c5/pv1e245z2kxkugdzocoq2gc8a182gk4c.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/34b/b9mh20cxdhqdjlkbgw19c39r3zlp1ery.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">СБЕРБАНК</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Услуги</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="tochka_krasoty/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/c4b/g5jlh0zhov72qxyfbfnh40a99i1zc11f.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/d31/xbp5fs702vtt5hgdyqqdml302b4ogj57.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ТОЧКА КРАСОТЫ</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Услуги</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a></div>
+</div>
+</section>
+<section class="section-shops">
+	<div class="decal_birds_orange" style="transform: translate(-50%, -50%) translate(-9px, -16.5291px);"></div>
+	<div class="decal_bike" style="transform: translate(4.7226px, 2.5714px);"></div>
+	
+<div class="w">
+	<div class="decal_rhomb" style="transform: translate(-50%, 0%) translate(11.5714px, 21.2517px);"></div>
+	<div class="decal_square" style="transform: translate(-14.1678px, -7.7143px);"></div>
+
+	<div class="cards news-list">
+            <a class="card news-item" href="familia/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/f9d/dyrwdtuk9d0h7r1g5wdimsl2rwpixemg.png)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/d48/k2aqgkoj2fh2lfgifff5susazrkkgvns.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">FAMILIA</div>
+               <div class="lvl"><b class="num">2</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="modi/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/48d/6k8ww1mvfb5slgrj1522zdco04oo274y.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/5f4/hpel8gl5up01z6xoirpathgzz8whpfa2.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">modi</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="salon-sveta-maytoni/">
+            <div class="img " style="background-image:url(/local/templates/gorod/gorod-front/img/empty_imgs/shops_empty_small.jpg)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">САЛОН СВЕТА MAYTONI</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="real-bronza/">
+            <div class="img  logo-card " style="background-image:url(/local/templates/gorod/gorod-front/img/empty_imgs/shops_empty_small.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/e94/v2on30dzwekc2b57ccjmtfd5ohdst8wl.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">РЕАЛ БРОНЗА</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="aquanet/">
+            <div class="img  logo-card " style="background-image:url(/local/templates/gorod/gorod-front/img/empty_imgs/shops_empty_small.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/351/knfvkl9pr0o10p15nhob8ht6mkf77b80.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">AQUANET</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="era/">
+            <div class="img  logo-card " style="background-image:url(/local/templates/gorod/gorod-front/img/empty_imgs/shops_empty_small.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/766/3lmc68uebk8elrpoxd0i1epi4c3tox89.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ЭРА</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="melburg/">
+            <div class="img  logo-card " style="background-image:url(/local/templates/gorod/gorod-front/img/empty_imgs/shops_empty_small.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/cc6/blvz10i168rzdppnlhu5ajf6ft4hradp.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">MELBURG</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="aurora/">
+            <div class="img  logo-card " style="background-image:url(/local/templates/gorod/gorod-front/img/empty_imgs/shops_empty_small.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/937/apmoqn96zleyku8eyim3belncr2mrhi4.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">AURORA</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="murom-mebel/">
+            <div class="img  logo-card " style="background-image:url(/local/templates/gorod/gorod-front/img/empty_imgs/shops_empty_small.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/057/r7k21d208t7qa829q7vme97xzvr87qqy.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">МУРОМ МЕБЕЛЬ</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="aristo/">
+            <div class="img  logo-card " style="background-image:url(/local/templates/gorod/gorod-front/img/empty_imgs/shops_empty_small.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/8f8/mlpw95ig5sxydfsncjcgnatq3mwb7nvu.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ARISTO</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="pinskdrev/">
+            <div class="img  logo-card " style="background-image:url(/local/templates/gorod/gorod-front/img/empty_imgs/shops_empty_small.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/78a/vwnx5ghak2mu9qxockrbstomt7qeur55.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ПИНСКДРЕВ</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="belwooddoors/">
+            <div class="img  logo-card " style="background-image:url(/local/templates/gorod/gorod-front/img/empty_imgs/shops_empty_small.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/c3a/tn2men11f7t3cjjdrno39wh2ov1605ex.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">BELWOODDOORS</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="ami-kovry/">
+            <div class="img  logo-card " style="background-image:url(/local/templates/gorod/gorod-front/img/empty_imgs/shops_empty_small.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/59b/jayttr56t5kcbwvmwbqwl9j64jr8ydpx.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">АМИ КОВРЫ</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="m-b-d-cor/">
+            <div class="img  logo-card " style="background-image:url(/local/templates/gorod/gorod-front/img/empty_imgs/shops_empty_small.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/de8/quh2cjt3yqp5siuobjehxy4tpg4ak8q7.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">M.B. Décor</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+               <a class="card news-item" href="urbanist/">
+            <div class="img  logo-card " style="background-image:url(/local/templates/gorod/gorod-front/img/empty_imgs/shops_empty_small.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/50f/yut9nqdotsur89rvkuvs60llwmegh80y.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">УРБАНИСТ</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a>
+      		
+	<a class="card news-item" href="santekhnika-onlayn/">
+            <div class="img  logo-card " style="background-image:url(/local/templates/gorod/gorod-front/img/empty_imgs/shops_empty_small.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/3d7/sj2nr4xe7uwvhqq3im00m790zse66h76.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">САНТЕХНИКА ОНЛАЙН</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="still-home/">
+            <div class="img  logo-card " style="background-image:url(/local/templates/gorod/gorod-front/img/empty_imgs/shops_empty_small.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/0ea/g9hzoas9vu8zryb7ngl5grdzu05r1780.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">STILL HOME</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="h2o/">
+            <div class="img  logo-card " style="background-image:url(/local/templates/gorod/gorod-front/img/empty_imgs/shops_empty_small.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/e4b/t97u4lupcr08h8z35ak96zygj1ut16nu.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">H2O</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="estima/">
+            <div class="img  logo-card " style="background-image:url(/local/templates/gorod/gorod-front/img/empty_imgs/shops_empty_small.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/c07/je90nfj1axaolcpr23xpbc2krs22892s.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ESTIMA</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="volt-siti/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/218/kdk819cyt6xqrlamkp0nbiuyp0thcnam.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/84e/a3zzxd9ejn93nddk2zdul0k4p0sisd02.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ВОЛЬТ-СИТИ</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="mebelnaya-fabrika-geniuspark/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/652/eqhlf89oh4p2hzpu6wbz2ar84q8j3cyw.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/969/d3zy38x8c17pgyxb3vb75jawsa19pldc.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">Мебельная фабрика Geniuspark</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="avangard/">
+            <div class="img " style="background-image:url(/upload/iblock/683/yo7h3ezdxhwzi0awyc685b5to4p3mn7i.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">АВАНГАРД</div>
+               <div class="lvl"><b class="num"></b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="ekokupeli-ot-papy-sashi/">
+            <div class="img " style="background-image:url(/upload/iblock/198/hdj3zpxftnk31af1vgipu8ggt53jec8q.jpg)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ЭКОКУПЕЛИ ОТ ПАПЫ САШИ</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="kraski-dizayn-studiya/">
+            <div class="img " style="background-image:url(/upload/iblock/683/yo7h3ezdxhwzi0awyc685b5to4p3mn7i.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">КРАСКИ ДИЗАЙН СТУДИЯ</div>
+               <div class="lvl"><b class="num"></b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="gestiya-shtory/">
+            <div class="img " style="background-image:url(/upload/iblock/675/o92eh2gbc0ijidj4d4slh6gl6a4a42g1.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ГЕСТИЯ ШТОРЫ</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="aqua_plaza/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/db6/5julmv4quo1t7jkplsgdz0ur3a53zv5o.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/372/en07mnss89q3skzvh44vkfbnzi8ys4bi.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">AQUA PLAZA</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="anderssen/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/828/ic9nt9abn2iw52gljgr870qs5nagpbii.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/857/h9sn0v9kny646gp5gs8ptviyg8eeffw5.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ANDERSSEN</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="alex_keramika/">
+            <div class="img " style="background-image:url(/upload/iblock/683/yo7h3ezdxhwzi0awyc685b5to4p3mn7i.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ALEX КЕРАМИКА</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="8_marta/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/8a9/0ocf5nq6qyjs71vapjz0d5bfhf10ikq1.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/7a8/t2djpz05ljbmdqb956siwcje1zjbyhs9.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">8 МАРТА</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="lakoner/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/d46/k3mxkwjez6s488m5jlbcc1xlf3uuppav.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/61e/9jkvr7rgneiqsby3uoyyisl9l0gtf4xq.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">LAKONER</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="gipfel/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/7e6/r0xlqcj8awo750xa7tnfxe5kwwzo5ui4.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/4d1/v53q2de5ip33yc9b71vaqs4u092q5gyt.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">GIPFEL</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="fissman/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/535/vlrrvxvtech6044xt3vvegw9d3a17zxd.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/a4b/t5fki1s6fn9i7dnv9qg5ybads3k8kaxy.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">FISSMAN</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="decorazza/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/185/r72xio029sgs1iph21x8znsfzqrk6dyo.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/72e/t3zbm5szms3oo5acbmtf6i54d20105x5.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">DECORAZZA</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="davita/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/28c/wha2s2t110yczfxbcvwvzmu792x7xgbf.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/941/d3jhkxle22el4ghw70acaglw8i2i7f54.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">DAVITA</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="cozy_home/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/e1c/gvj5cxhytp0261tfuf2s9yxy31e75pek.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/498/x3jyrhqqtouxx3yhwxpoyaqfjrtwb6qm.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">COZY HOME</div>
+               <div class="lvl"><b class="num">1</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="brw/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/413/ugg1pye00kdkqo7cq5k0vokwabbhy3qp.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/ce5/mlpcdrcl852s20y6ere58tdvkvqrbvea.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">BRW</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="askona/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/8b3/hliy9uh7pwezhbb2pciue7ckgkyot62q.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/b7e/my77mfz0wab55mcimxu3wsdtde9y2vq9.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ASKONA</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="artlustra/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/898/64tqox81nl1890mg8wy3o84ah4v0iudk.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/d2b/tgzdlq11mcgx2xwws08ho6nuq2djpcyr.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ARTLUSTRA</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="porta_prima/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/5cd/sgspkq79ntzh923cxuiqey7ssyu603mn.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/6ba/j8lt4mtj22zksqjuqf9ydynoyd488o7y.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">PORTA PRIMA</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="mr_doors/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/a7e/uumef2el567uig7mplbjsm3tb8x1zefh.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/e6b/vwijodagvmma7yef193dqnxsei0lf5d0.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">MR.DOORS</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="moon_trade/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/c6c/8l4d3grb81mdb780p1md3tw95vi9rc1g.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/869/fqus34sla3wc5kd5pryg4hev5je4uvqd.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">MOON TRADE</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="moon/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/71d/6f3pknro36jarxmywse4x0lvxd7i43kk.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/326/c6awer4ue48jx83nuq0sdu8zr3tmo3ez.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">MOON</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="lumiere/">
+            <div class="img " style="background-image:url(/upload/iblock/683/yo7h3ezdxhwzi0awyc685b5to4p3mn7i.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">LUMIERE</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="lemana_pro/">
+            <div class="img " style="background-image:url(/upload/iblock/da1/ia12iwjjqy75zpaag88fzej2zquh58ks.jpg)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">Лемана ПРО</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="lazurit/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/b9f/bk007edfk8eut0vctn6j59bylumehagl.png)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/a69/cfucno9e8y4397wbyvw7la57n9n0fmxl.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">LAZURIT</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="lart/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/ebf/8a0ufw957fi02rkwu2s9sr4wexeuu72n.png)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/77d/9e2iixyz87vknkiagimk49ssctynbnmv.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">LART</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="volshebstvo_dereva/">
+            <div class="img " style="background-image:url(/upload/iblock/683/yo7h3ezdxhwzi0awyc685b5to4p3mn7i.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ВОЛШЕБСТВО ДЕРЕВА</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="bikos/">
+            <div class="img " style="background-image:url(/upload/iblock/683/yo7h3ezdxhwzi0awyc685b5to4p3mn7i.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">БИКОС</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="angstrem/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/95e/2cewqr86koh98wlxrlw9eyvhwsy81tma.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/769/b17c02cst9ac8d101ta9l4cbrscyikxm.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">АНГСТРЕМ</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="akm/">
+            <div class="img " style="background-image:url(/upload/iblock/683/yo7h3ezdxhwzi0awyc685b5to4p3mn7i.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">АКМ</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="ayron/">
+            <div class="img " style="background-image:url(/upload/iblock/683/yo7h3ezdxhwzi0awyc685b5to4p3mn7i.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">АЙРОН</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="togas/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/cc0/n8ciueciacv4pn94328h7j3dt57pna49.png)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/491/wsqn1l6q62sxy8k746q8yr1513omqggn.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">TOGAS</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="laparet/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/81d/viq9a14e45486rvlwlnf83soxnwkybr3.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/621/9cnz9f7qy5ejaqsej083qsskybh2azja.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">LAPARET</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="stylint/">
+            <div class="img " style="background-image:url(/upload/iblock/683/yo7h3ezdxhwzi0awyc685b5to4p3mn7i.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">STYLINT</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="rivalli/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/e5d/pige1908v7s2rimmv5499reph2i2mxkn.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/524/svxpfb9nzgt32q0aek56cbj256uqgeot.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">RIVALLI</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="profildoors/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/675/zcvafuaaxwe51keboquf6skj10yyyv6w.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/ca6/ttfehelo9i77zrzjh9l7gmepgyz553y8.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">PROFILDOORS</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="leonardo/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/bdc/tgoenqo73pbnvvtuyido9yokcpmbxwz5.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/891/52c68va2x0flli0jcpn8wz19ioakedxx.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ЛЕОНАРДО</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="kukhni_zov_kukhni_belarusi/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/8c2/7dlr1y63uqc9i4nb3jlnborg4xn91e2f.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/172/gontwo7qiclu4rhbvdhgpl8vf74saxa8.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">КУХНИ ЗОВ </div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="kukhni_garmoniya/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/541/05pg9pa5umx7ic8p5yzht3lk11vck7h1.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/7e3/ztdfkq98nbl9mf493jam02k1p74lp5ni.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">КУХНИ ГАРМОНИЯ</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="kukhni_viera/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/202/faba8akh2he2474yk4143tmcj2aj3fbo.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/9a3/a41ulil4d4itvfqma6sfc90o3qjhlsax.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">КУХНИ VIERA</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="kraski_ru/">
+            <div class="img " style="background-image:url(/upload/iblock/683/yo7h3ezdxhwzi0awyc685b5to4p3mn7i.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">КРАСКИ.РУ</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="kvartal_divanov/">
+            <div class="img " style="background-image:url(/upload/iblock/683/yo7h3ezdxhwzi0awyc685b5to4p3mn7i.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">КВАРТАЛ ДИВАНОВ</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="interer_kupe/">
+            <div class="img " style="background-image:url(/upload/iblock/683/yo7h3ezdxhwzi0awyc685b5to4p3mn7i.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ИНТЕРЬЕР-КУПЕ</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="domovoy/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/c94/bo6gkd9cemdvgt6asj4njmk7h2xydc7o.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/9c8/aoaz6s7r1y4sf2ivng23ahmbavq7s0th.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ДОМОВОЙ</div>
+               <div class="lvl"><b class="num">2</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="dom_oboev_premer/">
+            <div class="img " style="background-image:url(/upload/iblock/683/yo7h3ezdxhwzi0awyc685b5to4p3mn7i.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ДОМ ОБОЕВ ПРЕМЬЕР</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="dveri_belorussii/">
+            <div class="img " style="background-image:url(/upload/iblock/683/yo7h3ezdxhwzi0awyc685b5to4p3mn7i.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ДВЕРИ БЕЛОРУССИИ</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="titan_gs/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/06f/3p6qt5coza2rqu017b0sha64szf5lwgf.png)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/1f8/runnh50mpko020fywwhacl2302tho41b.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ТИТАН GS</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="stoly_i_stulya/">
+            <div class="img " style="background-image:url(/upload/iblock/683/yo7h3ezdxhwzi0awyc685b5to4p3mn7i.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">СТОЛЫ И СТУЛЬЯ</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="stolplit/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/8ef/t0p3rafi45allidd9kimxaoy1sp5uw6l.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/985/15uaw8yw8o4e3yg02jv8cnqv66lv9t9r.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">СТОЛПЛИТ</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="sonum/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/571/ixkm2tm5a5gzmx07r2snehfq6sj7zhv7.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/b16/cotkrmnqiauhodzx2izxvyh3xr8jdgpo.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">СОНУМ</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="skand_mebel/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/580/7cjn9mxxiobi3gz3xmx7zmvgzmrjyk1s.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/c72/6arr4qblox20t4tx9g0p5uvo4l5w0pmx.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">SKAND</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="raduga_tsveta/">
+            <div class="img " style="background-image:url(/upload/iblock/590/fjnvp14ii33al6wu7qja6ztky05jxubg.jpg)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">РАДУГА ЦВЕТА</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="ormatek/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/bfb/uscarfbzwl3gcwa5oyc9ew8q3rxpn6vm.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/a53/215e0xq4iq021wjok701zz9g4q10d3wj.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ORMATEK</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="eto_kukhni/">
+            <div class="img " style="background-image:url(/upload/iblock/683/yo7h3ezdxhwzi0awyc685b5to4p3mn7i.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ЭТО КУХНИ</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="tsentr_dverey/">
+            <div class="img " style="background-image:url(/upload/iblock/683/yo7h3ezdxhwzi0awyc685b5to4p3mn7i.png)">
+               <div class="shopLogo  ">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ЦЕНТР ДВЕРЕЙ</div>
+               <div class="lvl"><b class="num">3</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a><a class="card news-item" href="tsvet_divanov/">
+            <div class="img  logo-card " style="background-image:url(/upload/iblock/f91/4yqucijns4xdnpy98y7ad9x2tqe03jm2.jpg)">
+               <div class="shopLogo   white ">
+                                       <img src="/upload/iblock/899/j8jaqwldjpu9u6ued6tj47q04d2ddqjv.svg" alt="">
+                                 </div>
+               <div class="discount"></div>
+            </div>
+            <div class="shopInfo">
+               <div class="ttl">ЦВЕТ ДИВАНОВ</div>
+               <div class="lvl"><b class="num">4</b>этаж</div>
+            </div>
+            <div class="shopInfo">
+               <div class="cat">Товары для дома</div>
+               <div class="scheme">На схеме</div>
+            </div>
+         </a></div>
+</div>
+</section>
