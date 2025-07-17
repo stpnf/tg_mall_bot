@@ -18,18 +18,25 @@ with open(MAP_PATH, encoding='utf-8') as f:
 with open(MALLS_PATH, encoding='utf-8') as f:
     malls = json.load(f)
 
-# Заменяем все варианты на эталонные
-for city, malls_in_city in malls.items():
-    for mall_name, mall_data in malls_in_city.items():
-        stores = mall_data.get('stores', {})
-        new_stores = {}
-        for store, value in stores.items():
-            etalon = store_map.get(store, store)
-            # Если уже есть такой магазин, не перезаписываем (или можно объединять значения)
-            if etalon in new_stores:
-                continue
-            new_stores[etalon] = value
-        mall_data['stores'] = new_stores
+def normalize_stores(stores):
+    new_stores = {}
+    for store, value in stores.items():
+        etalon = store_map.get(store, store)
+        if etalon in new_stores:
+            continue
+        new_stores[etalon] = value
+    return new_stores
+
+# Универсальная обработка структуры malls.json
+for key, value in malls.items():
+    if isinstance(value, dict) and 'stores' in value:
+        # Плоский ТЦ верхнего уровня
+        value['stores'] = normalize_stores(value['stores'])
+    elif isinstance(value, dict):
+        # Вложенная структура: город -> ТЦ
+        for mall_name, mall_data in value.items():
+            if isinstance(mall_data, dict) and 'stores' in mall_data:
+                mall_data['stores'] = normalize_stores(mall_data['stores'])
 
 # Сохраняем malls.json
 with open(MALLS_PATH, 'w', encoding='utf-8') as f:
@@ -43,7 +50,6 @@ try:
     new_aliases = {}
     for store, variants in aliases.items():
         etalon = store_map.get(store, store)
-        # Собираем все варианты, приводим к эталону
         all_variants = set()
         for v in variants:
             all_variants.add(store_map.get(v, v))

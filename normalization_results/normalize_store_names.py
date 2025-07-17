@@ -9,9 +9,15 @@ with open(MALLS_PATH, encoding='utf-8') as f:
     malls = json.load(f)
 
 all_stores = set()
-for city_data in malls.values():
-    for mall in city_data.values():
-        all_stores.update(mall['stores'])
+def extract_stores(malls):
+    for key, value in malls.items():
+        if isinstance(value, dict) and 'stores' in value:
+            all_stores.update(value['stores'])
+        elif isinstance(value, dict):
+            for mall in value.values():
+                if isinstance(mall, dict) and 'stores' in mall:
+                    all_stores.update(mall['stores'])
+extract_stores(malls)
 all_stores = [s for s in all_stores if s.strip()]
 
 def normalize_name(name):
@@ -58,8 +64,8 @@ for group in norm_groups.values():
 with open('ambiguous_groups_preview.json', 'w', encoding='utf-8') as f:
     json.dump(ambiguous[:20], f, ensure_ascii=False, indent=2)
 
-print(f'Группировка по нормализованному виду завершена. Пример групп:')
+print('Группировка по нормализованному виду завершена. Пример групп:')
 print(list(norm_groups.values())[:5])
-print(f'Пример маппинга:')
+print('Пример маппинга:')
 print(list(norm_group_map.items())[:10])
-print(f'Топ-20 спорных случаев сохранены в ambiguous_groups_preview.json') 
+print('Топ-20 спорных случаев сохранены в ambiguous_groups_preview.json') 

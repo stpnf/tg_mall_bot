@@ -1252,7 +1252,6 @@
   "Bronoskins": [
     "BRONOSKINS",
     "Bronoskins",
-    "bronoskins",
     "БРОНОСКИНС",
     "Броноскинс",
     "броноскинс"
@@ -6223,12 +6222,13 @@
     "РОНИгреенхоусе",
     "рони греен хоусе"
   ],
-  "Rostic's": [
-    "Rostic's",
-    "rostic's",
-    "РОСТИС'С",
-    "Ростис'с",
-    "ростис'с"
+  "Rostics": [
+    "ROSTIC’S",
+    "Rostics",
+    "rostic’s",
+    "РОСТИС’С",
+    "Ростис’с",
+    "ростис’с"
   ],
   "ROSTIC’S": [
     "ROSTIC’S",
@@ -6446,14 +6446,6 @@
     "РООМИКА",
     "Роомика",
     "роомика"
-  ],
-  "Rostic’s": [
-    "ROSTIC’S",
-    "Rostic’s",
-    "rostic’s",
-    "РОСТИС’С",
-    "Ростис’с",
-    "ростис’с"
   ],
   "Royal Rabbit": [
     "ROYAL RABBIT",
@@ -7515,10 +7507,10 @@
     "ТРУВОР",
     "трувор"
   ],
-  "TUTTI FRUTTI FROZEN YOGURT": [
-    "TUTTI FRUTTI FROZEN YOGURT",
+  "Tutti Frutti Frozen Yogurt": [
     "TUTTI-FRUTTI-FROZEN-YOGURT",
     "TUTTIFRUTTIFROZENYOGURT",
+    "Tutti Frutti Frozen Yogurt",
     "tutti frutti frozen yogurt",
     "ТУТТИ ФРУТТИ ФРОЗЕН ЙОГУРТ",
     "ТУТТИ-ФРУТТИ-ФРОЗЕН-ЙОГУРТ",
@@ -7693,7 +7685,6 @@
     "том таилор"
   ],
   "Tommy Hilfiger": [
-    "TOMMY HILFIGER",
     "Tommy Hilfiger",
     "Tommy-Hilfiger",
     "TommyHilfiger",
@@ -7787,9 +7778,9 @@
     "У.С.ПолоАссн.(АРФасхион)",
     "у.с. поло ассн. (ар фасхион)"
   ],
-  "U.S. Polo Assn.": [
+  "U.S. Polo ASSN": [
     "U.S. POLO ASSN.",
-    "U.S. Polo Assn.",
+    "U.S. Polo ASSN",
     "U.S.-Polo-Assn.",
     "U.S.PoloAssn.",
     "u.s. polo assn.",
@@ -8240,11 +8231,11 @@
     "Виззлув",
     "виззлув"
   ],
-  "Women' secret": [
+  "Women’ Secret": [
     "WOMEN' SECRET",
-    "Women' secret",
     "Women'-secret",
     "Women'secret",
+    "Women’ Secret",
     "women' secret",
     "ВОМЕН' СЕСРЕТ",
     "Вомен' сесрет",

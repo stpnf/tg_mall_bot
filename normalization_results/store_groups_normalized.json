@@ -1,605 +1,1286 @@
 [
   [
-    "#FARШ",
-    "FARШ"
-  ],
-  [
-    "1001 DRESS"
-  ],
-  [
-    "1001 ТУР",
-    "1001 Тур"
-  ],
-  [
-    "1001DRESS",
-    "1001dress"
-  ],
-  [
-    "12 STOREEZ",
-    "12 Storeez"
-  ],
-  [
-    "12 STOREEZ Men"
-  ],
-  [
-    "12STOREEZ"
-  ],
-  [
-    "1811 EIGHTEEN ONE ONE",
-    "1811 Eighteen One One",
-    "EIGHTEEN 1811 ONE ONE"
-  ],
-  [
-    "21SHOP",
-    "21Shop"
-  ],
-  [
-    "2MOOD"
-  ],
-  [
-    "2MOOD Café"
-  ],
-  [
-    "2Mimor"
-  ],
-  [
-    "2scoop"
-  ],
-  [
-    "3-15"
-  ],
-  [
-    "34Play"
-  ],
-  [
-    "3Z ОПТИКА"
-  ],
-  [
-    "4 Измерение"
-  ],
-  [
-    "4FORMS",
-    "4forms"
-  ],
-  [
-    "5 KapмаNов"
-  ],
-  [
-    "585 ЗОЛОТОЙ"
-  ],
-  [
-    "585*ЗОЛОТОЙ",
-    "585*Золотой"
-  ],
-  [
-    "5A SEC"
-  ],
-  [
-    "5LB",
-    "5lb"
-  ],
-  [
-    "5КармаNов"
-  ],
-  [
-    "6 сортов"
-  ],
-  [
-    "7 сезонов"
-  ],
-  [
-    "8 МАРТА"
-  ],
-  [
-    "A Secret Knowledge"
-  ],
-  [
-    "ACOOLA",
-    "Acoola"
-  ],
-  [
-    "ADAMAS"
-  ],
-  [
-    "ADLI"
-  ],
-  [
-    "AGENT PROVOCATEUR",
-    "Agent Provocateur"
-  ],
-  [
-    "AHAROMA.RU"
-  ],
-  [
-    "AILI"
-  ],
-  [
-    "AKS market!"
-  ],
-  [
-    "AKSSES",
-    "Aksses"
-  ],
-  [
-    "ALBIONE",
-    "Albione"
-  ],
-  [
-    "ALBIONE — best suites ever!"
-  ],
-  [
-    "ALDO",
-    "Aldo"
-  ],
-  [
-    "ALESSANDRO BORELLI Teens Kids",
-    "Alessandro Borelli teens kids"
-  ],
-  [
-    "ALEX КЕРАМИКА"
-  ],
-  [
-    "ALEXANDER BOGDANOV",
-    "Alexander Bogdanov"
-  ],
-  [
-    "ALISIAHIT"
-  ],
-  [
-    "ALL"
-  ],
-  [
-    "ALL WE NEED",
-    "All We Need"
-  ],
-  [
-    "AMA AROMA"
-  ],
-  [
-    "AMAZING RED",
-    "Amazing Red",
-    "Amazing red"
-  ],
-  [
-    "AME"
-  ],
-  [
-    "AMIRYO"
-  ],
-  [
-    "ANDERSSEN"
-  ],
-  [
-    "ANEX Tour"
-  ],
-  [
     "ANKARA Café"
   ],
   [
-    "ANNA PEKUN",
-    "Anna Pekun"
+    "DU PAREIL AU MEME"
   ],
   [
-    "ANNI HAUS"
+    "КРЕДИТ ЕВРОПА БАНК"
   ],
   [
-    "ANTA",
-    "Anta"
-  ],
-  [
-    "ANTA SPORTS",
-    "Anta Sports"
-  ],
-  [
-    "ANTE KOVAC"
-  ],
-  [
-    "ANVIRELLE",
-    "Anvirelle"
-  ],
-  [
-    "APERITIVO BAR"
-  ],
-  [
-    "APPLE BOX",
-    "Apple Box"
-  ],
-  [
-    "AQUA PLAZA"
-  ],
-  [
-    "AQUANET"
-  ],
-  [
-    "AR Fashion"
-  ],
-  [
-    "ARDEL"
-  ],
-  [
-    "ARENA"
-  ],
-  [
-    "ARISTO"
-  ],
-  [
-    "ARLIGENT"
-  ],
-  [
-    "ARMANI EXCHANGE",
-    "Armani Exchange"
-  ],
-  [
-    "ARNY PRAHT",
-    "Arny Praht"
-  ],
-  [
-    "ARTLUSTRA"
-  ],
-  [
-    "ARYA"
-  ],
-  [
-    "ARYA HOME",
-    "ARYA home",
-    "Arya Home"
-  ],
-  [
-    "ASH",
-    "Ash"
-  ],
-  [
-    "ASIA st 71",
-    "Asia st 71"
-  ],
-  [
-    "ASKENT"
-  ],
-  [
-    "ASKONA",
-    "Askona"
-  ],
-  [
-    "ATAMI"
-  ],
-  [
-    "AUBADE",
-    "Aubade"
-  ],
-  [
-    "AURORA"
-  ],
-  [
-    "AVIATOR SNKRS"
-  ],
-  [
-    "AVVA"
-  ],
-  [
-    "Acer"
-  ],
-  [
-    "Active"
-  ],
-  [
-    "Adelove"
-  ],
-  [
-    "Aeronautica Militare"
-  ],
-  [
-    "Affliction"
-  ],
-  [
-    "Age of innocence"
-  ],
-  [
-    "Akhmadullina Dreams"
-  ],
-  [
-    "AksCam"
-  ],
-  [
-    "Alanya Steak House"
-  ],
-  [
-    "Albione-cеть"
-  ],
-  [
-    "Alessandro Manzoni"
-  ],
-  [
-    "Aline"
-  ],
-  [
-    "AllTime"
-  ],
-  [
-    "AllTime Casio"
-  ],
-  [
-    "AllTime Swarovski"
-  ],
-  [
-    "AllTime.ru"
-  ],
-  [
-    "Almond"
-  ],
-  [
-    "Alpine Diamond"
-  ],
-  [
-    "AmGum"
-  ],
-  [
-    "AmeAppetite"
-  ],
-  [
-    "Amur by Marushik"
-  ],
-  [
-    "Anna Verdi"
-  ],
-  [
-    "Annuko"
-  ],
-  [
-    "Aprellshop"
-  ],
-  [
-    "Armor"
-  ],
-  [
-    "Art Auro"
-  ],
-  [
-    "Art Fiera"
-  ],
-  [
-    "Askomi"
+    "Busetta Sweet"
   ],
   [
     "Askona Home"
   ],
   [
-    "Atomic Heart x Timati Carting"
+    "Magic Box"
   ],
   [
-    "Aurora Siberica"
+    "ZЧУДУ"
   ],
   [
-    "AutoJack&LimoLady"
+    "М.видео",
+    "М.Видео"
   ],
   [
-    "Avata Club"
+    "FUNNY SOCKS"
   ],
   [
-    "A|X Armani Exchange"
+    "Глав Табак"
   ],
   [
-    "B.L.E.S"
+    "Zielinski & Rozen"
   ],
   [
-    "BAASPLOA"
+    "Redecoro"
   ],
   [
-    "BABY ART",
-    "Baby Art"
+    "Buketsi"
   ],
   [
-    "BACCARAT chocolatier"
+    "Hobby Games"
   ],
   [
-    "BADEN"
+    "Папаша Клаусс"
   ],
   [
-    "BALABALA",
-    "Balabala"
+    "RamenBowl"
   ],
   [
-    "BALDININI",
-    "Baldinini"
+    "OPTIC STREET"
   ],
   [
-    "BALLANSIKO",
-    "Ballansiko"
+    "5КармаNов"
   ],
   [
-    "BAO BEI"
+    "MET TEA"
   ],
   [
-    "BAON"
+    "Le Journal Intime"
   ],
   [
-    "BATIK"
+    "Мир винила"
   ],
   [
-    "BB Grill Meat&Wine"
+    "Proswim"
   ],
   [
-    "BE-GOODY"
+    "Pantamo Jeans"
   ],
   [
-    "BEAUTY BOUTIQUE",
-    "Beauty Boutique"
+    "ERGONOVA"
   ],
   [
-    "BEBA KIDS",
-    "Beba Kids",
-    "Beba kids"
+    "MARMELAD STORE"
   ],
   [
-    "BEF"
+    "LUARA"
   ],
   [
-    "BEFREE",
-    "Befree"
-  ],
-  [
-    "BELLA VITA"
-  ],
-  [
-    "BELLE YOU",
-    "Belle YOU",
-    "Belle You",
-    "Belle you",
-    "belle you"
-  ],
-  [
-    "BELWEST"
-  ],
-  [
-    "BELWOODDOORS"
-  ],
-  [
-    "BIBLIOTEKA AROMATOV",
-    "biblioteka aromatov"
-  ],
-  [
-    "BIGMENOV"
-  ],
-  [
-    "BJORN LARSEN"
-  ],
-  [
-    "BLACK STAR BURGER",
-    "Black Star Burger"
-  ],
-  [
-    "BLCV"
-  ],
-  [
-    "BML"
-  ],
-  [
-    "BOFT 2 этаж рядом с TOPTOP"
-  ],
-  [
-    "BOFT 3 этаж рядом со SneakerBOX"
-  ],
-  [
-    "BOFT 3 этаж рядом со Спортмастер"
-  ],
-  [
-    "BOGGI MILANO",
-    "Boggi Milano"
-  ],
-  [
-    "BOLOGNETTA"
-  ],
-  [
-    "BOOTWOOD",
-    "Bootwood"
-  ],
-  [
-    "BORK"
-  ],
-  [
-    "BOSS"
-  ],
-  [
-    "BOSS MENSWEAR",
-    "BOSS Menswear"
-  ],
-  [
-    "BOSS WOMEN",
-    "BOSS Women"
-  ],
-  [
-    "BOUTIQUE №13"
-  ],
-  [
-    "BRAN BEAR (остров)"
-  ],
-  [
-    "BRAND KEEPER (остров)"
-  ],
-  [
-    "BREUNING"
-  ],
-  [
-    "BRMSK"
-  ],
-  [
-    "BRONZE WOLF"
-  ],
-  [
-    "BROW UP",
-    "Brow Up!"
-  ],
-  [
-    "BROW UP! & MAKE UP"
-  ],
-  [
-    "BRUN'S"
-  ],
-  [
-    "BRUSNIKA",
-    "Brusnika"
-  ],
-  [
-    "BRW"
-  ],
-  [
-    "BRandICE"
-  ],
-  [
-    "BURGER KING",
-    "Burger King"
-  ],
-  [
-    "BUSINESS LINE"
-  ],
-  [
-    "BY KAORI"
-  ],
-  [
-    "BY.BORSCH"
-  ],
-  [
-    "Baby Loft"
-  ],
-  [
-    "BabyLoft"
-  ],
-  [
-    "Bafi"
-  ],
-  [
-    "Bani"
-  ],
-  [
-    "Barbershop Grizzly"
-  ],
-  [
-    "Bartek"
-  ],
-  [
-    "Baseus"
-  ],
-  [
-    "Baskin Robbins"
-  ],
-  [
-    "Bat Norton",
-    "Bat Norton®"
-  ],
-  [
-    "Beauty Professional"
+    "Крупнейший"
   ],
   [
     "Beauty concept studio"
   ],
   [
-    "BeautyLabN7"
+    "Tous"
+  ],
+  [
+    "THOMAS MUNZ STORE"
+  ],
+  [
+    "One Special"
+  ],
+  [
+    "PARPA"
+  ],
+  [
+    "ЭРА"
+  ],
+  [
+    "Аптека 36.6"
+  ],
+  [
+    "Пират-Мармелад"
+  ],
+  [
+    "Max&Co"
+  ],
+  [
+    "Хлеб с маслом"
+  ],
+  [
+    "GRASSE PARFUMERIE"
+  ],
+  [
+    "I LOVE PITER FOOD"
+  ],
+  [
+    "[Corner]"
+  ],
+  [
+    "ФораБанк"
+  ],
+  [
+    "STICKS SUSHI&WINE BAR"
+  ],
+  [
+    "Euromarca"
+  ],
+  [
+    "Amazing red",
+    "Amazing Red"
+  ],
+  [
+    "MetTea"
+  ],
+  [
+    "Открытие Re:Premium Apple Store в ТРК Питерлэнд!"
+  ],
+  [
+    "Виртуальная реальность VRPASS"
+  ],
+  [
+    "Kasumov Women"
+  ],
+  [
+    "Мебельная фабрика Geniuspark"
+  ],
+  [
+    "Mango",
+    "MANGO"
+  ],
+  [
+    "ДВЕРИ БЕЛОРУССИИ"
+  ],
+  [
+    "Четыре Лапы"
+  ],
+  [
+    "Чистая линия"
+  ],
+  [
+    "NJ. MOOD"
+  ],
+  [
+    "Сами с усами"
+  ],
+  [
+    "Ruf Mark Exclusive"
+  ],
+  [
+    "GINGER JOYS"
+  ],
+  [
+    "Garmin"
+  ],
+  [
+    "Маленькая Леди"
+  ],
+  [
+    "LE MOUSSE"
+  ],
+  [
+    "STYLISH LADY"
+  ],
+  [
+    "Poke TomYum"
+  ],
+  [
+    "loomknits"
+  ],
+  [
+    "ORMATEK"
+  ],
+  [
+    "Gagawa"
+  ],
+  [
+    "THAI KITCHEN"
+  ],
+  [
+    "TWINSET х MARC CAIN"
+  ],
+  [
+    "Cofix+Tele2"
+  ],
+  [
+    "FRANK by Баста"
+  ],
+  [
+    "Мебельная"
+  ],
+  [
+    "Weekend Max Mara"
+  ],
+  [
+    "Хобби-гипермаркет"
+  ],
+  [
+    "САЛОН СВЕТА MAYTONI"
+  ],
+  [
+    "MARYMIA"
+  ],
+  [
+    "Just Clothes"
+  ],
+  [
+    "GANT"
+  ],
+  [
+    "Автомойка"
+  ],
+  [
+    "ШАУРМУ Х@ЧУ"
+  ],
+  [
+    "SALTENAS"
+  ],
+  [
+    "SOKOLOV Jewelry"
+  ],
+  [
+    "БАНК ЗЕНИТ"
+  ],
+  [
+    "M Tea"
+  ],
+  [
+    "ЧАСОВЫХ ДЕЛ МАСТЕР"
+  ],
+  [
+    "STEFANISET"
+  ],
+  [
+    "VASSA&Co"
+  ],
+  [
+    "Суши Make"
+  ],
+  [
+    "Putin Team Russia"
+  ],
+  [
+    "Watchsport"
+  ],
+  [
+    "Буммагия"
+  ],
+  [
+    "Columbia"
+  ],
+  [
+    "Red September"
+  ],
+  [
+    "RollWok club"
+  ],
+  [
+    "Янтарь России"
+  ],
+  [
+    "Burger Club"
+  ],
+  [
+    "Все"
+  ],
+  [
+    "B.L.E.S"
+  ],
+  [
+    "RIANTY"
+  ],
+  [
+    "TeikaBoom"
+  ],
+  [
+    "Магазин"
+  ],
+  [
+    "Marcolana"
   ],
   [
     "BeautyLogika"
   ],
   [
-    "BebaKids",
-    "Bebakids"
+    "Флавотека"
+  ],
+  [
+    "Визардия. Страна Волшебников"
+  ],
+  [
+    "ILCOTT"
+  ],
+  [
+    "Pel-Meni"
+  ],
+  [
+    "Часы \"Ракета\""
+  ],
+  [
+    "RE:ФОРМА"
+  ],
+  [
+    "Dress No Stress"
+  ],
+  [
+    "Связь.ON"
+  ],
+  [
+    "PRIMO ATELIER"
+  ],
+  [
+    "John Doe (скоро открытие)"
+  ],
+  [
+    "Табак"
+  ],
+  [
+    "OLDOS!kids"
+  ],
+  [
+    "REMINGTON"
+  ],
+  [
+    "VANWOK noodle bar"
+  ],
+  [
+    "Feelz"
+  ],
+  [
+    "Cinque"
+  ],
+  [
+    "Perfums Bar"
+  ],
+  [
+    "KIRA PLASTININA"
+  ],
+  [
+    "Pilot-Moto"
+  ],
+  [
+    "LUCCA"
+  ],
+  [
+    "Хинкальная ЭZO"
+  ],
+  [
+    "Profit Car"
+  ],
+  [
+    "Vita Juice"
+  ],
+  [
+    "ELEGANZZA"
+  ],
+  [
+    "KARATOV Бриллиантовый дом"
+  ],
+  [
+    "Дети в моде"
+  ],
+  [
+    "S Parfum (остров)"
+  ],
+  [
+    "Katardi"
+  ],
+  [
+    "КРЕДИТ ЕВРОПА БАНК банкомат"
+  ],
+  [
+    "Cerca Trova"
+  ],
+  [
+    "MISHA & TEDDY"
+  ],
+  [
+    "БИКОС"
+  ],
+  [
+    "LAKONER"
+  ],
+  [
+    "GOLD HEEL"
+  ],
+  [
+    "Good Tea"
+  ],
+  [
+    "ESTEL"
+  ],
+  [
+    "Верность качеству"
+  ],
+  [
+    "PlayToday"
+  ],
+  [
+    "PENNYMANNY"
+  ],
+  [
+    "EGOIST"
+  ],
+  [
+    "Бетховен"
+  ],
+  [
+    "Boutique №13 Outlet"
+  ],
+  [
+    "Askona"
+  ],
+  [
+    "ЭПЛ. Якутские бриллианты",
+    "ЭПЛ Якутские бриллианты"
+  ],
+  [
+    "А4 магазин"
+  ],
+  [
+    "Terenzi"
+  ],
+  [
+    "БАНК АВАНГАРД"
+  ],
+  [
+    "Суши Сан"
+  ],
+  [
+    "Веломарка"
+  ],
+  [
+    "Bartek"
+  ],
+  [
+    "ЭкоДом"
+  ],
+  [
+    "ARDEL"
+  ],
+  [
+    "Simoni Mariotti"
+  ],
+  [
+    "Техно Еж"
+  ],
+  [
+    "Karl Lagerfeld Man"
+  ],
+  [
+    "Компания Roomika"
+  ],
+  [
+    "Гармония цвета"
+  ],
+  [
+    "Мультибрендовый"
+  ],
+  [
+    "PRO mobile"
+  ],
+  [
+    "Tasty Thai"
+  ],
+  [
+    "Мясо&Рыба"
+  ],
+  [
+    "DUB"
+  ],
+  [
+    "Оптик-А"
+  ],
+  [
+    "Calista"
+  ],
+  [
+    "DA.MOTORS"
+  ],
+  [
+    "TI Selection"
+  ],
+  [
+    "Samsung, фирменный магазин"
+  ],
+  [
+    "Ray-Ban"
+  ],
+  [
+    "MADAME COCO",
+    "Madame Coco"
+  ],
+  [
+    "Евразия"
+  ],
+  [
+    "ZENDEN"
+  ],
+  [
+    "Pims",
+    "PIMS"
+  ],
+  [
+    "Ballansiko"
+  ],
+  [
+    "VANWOK"
+  ],
+  [
+    "FACE CODE"
+  ],
+  [
+    "EMMI"
+  ],
+  [
+    "ЛÁША Грузинская кухня"
+  ],
+  [
+    "Imperial"
+  ],
+  [
+    "PIRATMARMELAD"
+  ],
+  [
+    "TGI Fridays"
+  ],
+  [
+    "CA"
+  ],
+  [
+    "Крошка Картошка",
+    "Крошка картошка"
+  ],
+  [
+    "Столовая"
+  ],
+  [
+    "1001dress"
+  ],
+  [
+    "Move",
+    "MOVE"
+  ],
+  [
+    "Karl Lagerfeld"
+  ],
+  [
+    "Salamander",
+    "SALAMANDER"
+  ],
+  [
+    "Rieker"
+  ],
+  [
+    "Dr.Koffer"
+  ],
+  [
+    "Mytrex"
+  ],
+  [
+    "Milavitsa"
+  ],
+  [
+    "Ho Chu Pho"
+  ],
+  [
+    "TOMATINO"
+  ],
+  [
+    "Peplos"
+  ],
+  [
+    "LART"
+  ],
+  [
+    "Bon-Bon Berry (остров)"
+  ],
+  [
+    "Grunge John Orchestra. Explosion"
+  ],
+  [
+    "Спортмастер"
+  ],
+  [
+    "Baldinini"
+  ],
+  [
+    "KANZ"
+  ],
+  [
+    "КРЫМСКИЕ ЧЕБУРЕКИ"
+  ],
+  [
+    "АШАН Сити"
+  ],
+  [
+    "Фамилия"
+  ],
+  [
+    "О!Эскимо, Чистая Линия"
+  ],
+  [
+    "UNIQUE FABRIC"
+  ],
+  [
+    "Бар BQ кафе"
+  ],
+  [
+    "SEMINNA JEWEL"
+  ],
+  [
+    "The Act"
+  ],
+  [
+    "Serginetti"
+  ],
+  [
+    "Tom Tailor"
+  ],
+  [
+    "Bosco"
+  ],
+  [
+    "SWISS MADE"
+  ],
+  [
+    "Intimissimi Uomo"
+  ],
+  [
+    "Ice land fresh bar"
+  ],
+  [
+    "Nonconform"
+  ],
+  [
+    "Maneken Brand"
+  ],
+  [
+    "БЕШ МАНТЫ"
+  ],
+  [
+    "ГОВЯDИНА"
+  ],
+  [
+    "Salvatini"
+  ],
+  [
+    "IRNBY"
+  ],
+  [
+    "UFC GYM"
+  ],
+  [
+    "Albione-cеть"
+  ],
+  [
+    "Greek Street"
+  ],
+  [
+    "MELBURG"
+  ],
+  [
+    "Collete Adony"
+  ],
+  [
+    "Coffee SOS"
+  ],
+  [
+    "Ash"
+  ],
+  [
+    "Сервис обслуживания смартфонов Protec 360"
+  ],
+  [
+    "САЛОН ДЕПИЛЯЦИИ МИ"
+  ],
+  [
+    "BROW UP! & MAKE UP"
+  ],
+  [
+    "Шантимэль"
+  ],
+  [
+    "Tribuna"
+  ],
+  [
+    "MUNZ STORE"
+  ],
+  [
+    "Van House"
+  ],
+  [
+    "MrGaydar"
+  ],
+  [
+    "Via Vittorio UOMO"
+  ],
+  [
+    "Coral Travel Elite Service"
+  ],
+  [
+    "Top Gun"
+  ],
+  [
+    "LCLS."
+  ],
+  [
+    "Krunchy Dream"
+  ],
+  [
+    "AllTime Swarovski"
+  ],
+  [
+    "Divno"
+  ],
+  [
+    "Toy Dreams"
+  ],
+  [
+    "Евродом"
+  ],
+  [
+    "SUPER STEP"
+  ],
+  [
+    "RADIANCE"
+  ],
+  [
+    "Кондитерская «Теремок»"
+  ],
+  [
+    "ROY ROBSON"
+  ],
+  [
+    "Мясо"
+  ],
+  [
+    "Palais des Thés"
+  ],
+  [
+    "Lichi"
+  ],
+  [
+    "Димсамы"
+  ],
+  [
+    "Город Игрушек"
+  ],
+  [
+    "Косметика KEDMA"
+  ],
+  [
+    "Coins"
+  ],
+  [
+    "БУРГЕР КИНГ (Северное здание)"
+  ],
+  [
+    "Strellson"
+  ],
+  [
+    "Шикари"
+  ],
+  [
+    "AKS market!"
+  ],
+  [
+    "Мегафон-Yota"
+  ],
+  [
+    "Montblanc"
+  ],
+  [
+    "Original Marines"
+  ],
+  [
+    "Lady collection"
+  ],
+  [
+    "Олант"
+  ],
+  [
+    "SUNNY SON"
+  ],
+  [
+    "LOFT",
+    "Loft"
+  ],
+  [
+    "Mio Mix"
+  ],
+  [
+    "Эдоко"
+  ],
+  [
+    "BOSS"
+  ],
+  [
+    "Банкомат АЛЬФА-БАНК"
+  ],
+  [
+    "ОБМЕН ВАЛЮТЫ"
+  ],
+  [
+    "Киоск Tissot / CK часы"
+  ],
+  [
+    "VitoKids"
+  ],
+  [
+    "Ralf Ringer",
+    "RALF RINGER"
+  ],
+  [
+    "Poke House"
+  ],
+  [
+    "ambi.land"
+  ],
+  [
+    "MOON TRADE"
+  ],
+  [
+    "Let's cashmere!"
+  ],
+  [
+    "ECCO",
+    "Ecco"
+  ],
+  [
+    "STREET BEAT KIDS"
+  ],
+  [
+    "SO BRIGHT"
+  ],
+  [
+    "Культура дома"
+  ],
+  [
+    "Sushi Buffet"
+  ],
+  [
+    "BRONZE WOLF"
+  ],
+  [
+    "МУРОМ МЕБЕЛЬ"
+  ],
+  [
+    "PORTA PRIMA"
+  ],
+  [
+    "Бухта"
+  ],
+  [
+    "Цветочки"
+  ],
+  [
+    "SUBORBIA"
+  ],
+  [
+    "О’КЕЙ"
+  ],
+  [
+    "Bat Norton"
+  ],
+  [
+    "THREE LINES"
+  ],
+  [
+    "LORENA кухни и мебель"
+  ],
+  [
+    "Аптека Планета Здоровья"
+  ],
+  [
+    "Hi Boba"
+  ],
+  [
+    "Sweety"
+  ],
+  [
+    "MAAG"
+  ],
+  [
+    "Каляев"
+  ],
+  [
+    "H2O"
+  ],
+  [
+    "ПУТЬ БАРАШКА"
+  ],
+  [
+    "SHAKE"
+  ],
+  [
+    "HULU FRUITS"
+  ],
+  [
+    "Петербургский дизайн"
+  ],
+  [
+    "ЦЕНТР ДВЕРЕЙ"
+  ],
+  [
+    "Atomic Heart x Timati Carting"
+  ],
+  [
+    "MR. TUTTI"
+  ],
+  [
+    "Nikonorova"
+  ],
+  [
+    "SOULA"
+  ],
+  [
+    "FLY ARENA"
+  ],
+  [
+    "OFFPRICE"
+  ],
+  [
+    "Я ем Гоу"
+  ],
+  [
+    "Кранчи Дрим"
+  ],
+  [
+    "Camp David"
+  ],
+  [
+    "EWA MORETTI"
+  ],
+  [
+    "Грик Сувлаки"
+  ],
+  [
+    "ZNWR"
+  ],
+  [
+    "Kimchi to go"
+  ],
+  [
+    "SUNLIGHT",
+    "Sunlight"
+  ],
+  [
+    "O’SOFI"
+  ],
+  [
+    "Wizzluv"
+  ],
+  [
+    "ALL"
+  ],
+  [
+    "Мария Браславская"
+  ],
+  [
+    "HENDERSON",
+    "Henderson"
+  ],
+  [
+    "1001ТУР"
+  ],
+  [
+    "M.REASON"
+  ],
+  [
+    "ZIMA&LETO"
+  ],
+  [
+    "YOTA"
+  ],
+  [
+    "Coral Travel"
+  ],
+  [
+    "DREAMS"
+  ],
+  [
+    "WARPOINT"
+  ],
+  [
+    "NIKIFILINI"
+  ],
+  [
+    "HAZZYS"
+  ],
+  [
+    "СБЕРБАНК"
+  ],
+  [
+    "Ресторан"
+  ],
+  [
+    "SMOKE POINT"
+  ],
+  [
+    "Милано"
+  ],
+  [
+    "FRENCH KISS chocolate boutique"
+  ],
+  [
+    "HEDEBU"
+  ],
+  [
+    "Performance"
+  ],
+  [
+    "Ojuvi Parfum"
+  ],
+  [
+    "Kari"
+  ],
+  [
+    "Мебель BELFAN"
+  ],
+  [
+    "Три казана"
+  ],
+  [
+    "TWIN SET"
+  ],
+  [
+    "O'STIN",
+    "O’STIN"
+  ],
+  [
+    "Империя детства"
+  ],
+  [
+    "ОБЛАКО"
+  ],
+  [
+    "Calvin Klein Jeans"
+  ],
+  [
+    "Mark Formelle"
+  ],
+  [
+    "ВКУСНЯШКА"
+  ],
+  [
+    "MARMALATO",
+    "Marmalato"
+  ],
+  [
+    "Inspire Girls"
+  ],
+  [
+    "LIMÉ Cafe"
+  ],
+  [
+    "Desport"
+  ],
+  [
+    "Доктор Столетов"
+  ],
+  [
+    "VUA PHO/WON CHA"
+  ],
+  [
+    "Goldex"
+  ],
+  [
+    "Island Soul(остров)"
+  ],
+  [
+    "ЦАРЬ КУРНИК"
+  ],
+  [
+    "T&M одежда аксессуары"
+  ],
+  [
+    "АКМ"
+  ],
+  [
+    "Indiwd"
+  ],
+  [
+    "PhoBo (Южное здание)"
+  ],
+  [
+    "Namelazz"
+  ],
+  [
+    "post post scriptum"
+  ],
+  [
+    "12 STOREEZ Men"
+  ],
+  [
+    "Istanbul Kebab"
+  ],
+  [
+    "MIUZ Diamonds"
+  ],
+  [
+    "LOLOCLO"
+  ],
+  [
+    "Киномакс"
+  ],
+  [
+    "ЧАКАПУЛИ"
+  ],
+  [
+    "BeautyLabN7"
+  ],
+  [
+    "Liotti Moda"
+  ],
+  [
+    "PROFCOSMO"
+  ],
+  [
+    "CUTLET"
+  ],
+  [
+    "АРТ-РАМА"
+  ],
+  [
+    "Лемана ПРО"
+  ],
+  [
+    "MYSA"
+  ],
+  [
+    "BELWOODDOORS"
+  ],
+  [
+    "РУССКИЕ ТРАВЫ"
+  ],
+  [
+    "Yollo"
+  ],
+  [
+    "ХИМЧИСТКА ШИК И БЛЕСК"
+  ],
+  [
+    "Bruno Altro"
+  ],
+  [
+    "ШЕФ KEBAB & BURGER"
+  ],
+  [
+    "Aprellshop"
+  ],
+  [
+    "ALBIONE — best suites ever!"
+  ],
+  [
+    "VASILCHUKI CHAIHONA №1"
+  ],
+  [
+    "Mendel"
+  ],
+  [
+    "BB Grill Meat&Wine"
+  ],
+  [
+    "Tommy Hilfiger",
+    "TOMMY HILFIGER"
+  ],
+  [
+    "Mustang",
+    "MUSTANG"
+  ],
+  [
+    "Omellini"
+  ],
+  [
+    "Сударь"
+  ],
+  [
+    "Zarina",
+    "ZARINA"
+  ],
+  [
+    "Ласси"
+  ],
+  [
+    "Garden"
+  ],
+  [
+    "GEZATONE"
+  ],
+  [
+    "THE STARFALL"
+  ],
+  [
+    "PHO NHA TRANG"
+  ],
+  [
+    "Patrizia Pepe"
+  ],
+  [
+    "Love Republic",
+    "LOVE REPUBLIC"
+  ],
+  [
+    "Банкомат Райффайзен Банка"
+  ],
+  [
+    "Toyosu"
+  ],
+  [
+    "Концепт"
+  ],
+  [
+    "ПРОСТОЦВЕТЫ"
+  ],
+  [
+    "Современный"
+  ],
+  [
+    "4forms"
+  ],
+  [
+    "UNDERYOU"
+  ],
+  [
+    "Lacoste"
+  ],
+  [
+    "Elena Miro"
+  ],
+  [
+    "MOON"
+  ],
+  [
+    "Эклерная Lavanda Eclair"
+  ],
+  [
+    "Ksenia Knyazeva"
+  ],
+  [
+    "Yamoda"
+  ],
+  [
+    "BOLOGNETTA"
+  ],
+  [
+    "Arya Home"
+  ],
+  [
+    "BE-GOODY"
+  ],
+  [
+    "ALISIAHIT"
+  ],
+  [
+    "Koool"
+  ],
+  [
+    "Eco-Vostok"
   ],
   [
     "Bellissimo"
@@ -608,5619 +1289,5039 @@
     "Berkonty"
   ],
   [
-    "Beyond"
+    "ARMANI EXCHANGE",
+    "Armani Exchange"
   ],
   [
-    "Bibibs&Co"
+    "Yum Yum"
   ],
   [
-    "Biorise"
-  ],
-  [
-    "Bizhu"
-  ],
-  [
-    "Blizhe"
-  ],
-  [
-    "Bloomstore"
-  ],
-  [
-    "Boardriders"
-  ],
-  [
-    "Boardriders by Quiksilver"
-  ],
-  [
-    "Boboli"
-  ],
-  [
-    "Bocconcino"
-  ],
-  [
-    "Boft - cервис печати фотографий"
-  ],
-  [
-    "Bogache"
-  ],
-  [
-    "Bolshoy"
-  ],
-  [
-    "Bon-Bon Berry"
-  ],
-  [
-    "Bon-Bon Berry (остров)"
-  ],
-  [
-    "Bosco"
-  ],
-  [
-    "Boutique №13 Outlet"
-  ],
-  [
-    "Brerra"
-  ],
-  [
-    "Bright Israeli Gril"
-  ],
-  [
-    "Bronoskins"
-  ],
-  [
-    "Bronoskins (остров)"
-  ],
-  [
-    "Brow & Go"
-  ],
-  [
-    "Bruno Altro"
-  ],
-  [
-    "Bruns Coffee"
-  ],
-  [
-    "Bubble's Team"
-  ],
-  [
-    "Buketsi"
-  ],
-  [
-    "Bunny Shop",
-    "Bunny shop"
-  ],
-  [
-    "Burger Club"
-  ],
-  [
-    "Busetta Sweet"
-  ],
-  [
-    "Button Blue",
-    "button blue"
-  ],
-  [
-    "By Malene Birger"
-  ],
-  [
-    "CA"
-  ],
-  [
-    "CACHAREL",
-    "Cacharel"
-  ],
-  [
-    "CALISTA",
-    "Calista"
-  ],
-  [
-    "CALZEDONIA",
-    "Calzedonia"
-  ],
-  [
-    "CAMEL ACTIVE"
-  ],
-  [
-    "CAMICISSIMA"
-  ],
-  [
-    "CAMP DAVID",
-    "Camp David"
-  ],
-  [
-    "CAMP DAVID|SOCCX"
-  ],
-  [
-    "CANDY"
-  ],
-  [
-    "CANDY CAT"
-  ],
-  [
-    "CASIO",
-    "Casio"
-  ],
-  [
-    "CASUAL DAY in lady & gentleman CITY"
-  ],
-  [
-    "CATERINA LEMAN",
-    "Caterina Leman"
-  ],
-  [
-    "CHARMSTORE",
-    "Charmstore"
-  ],
-  [
-    "CHARUEL",
-    "Charuel"
-  ],
-  [
-    "CHERRY MOSCOW"
-  ],
-  [
-    "CHESTER"
-  ],
-  [
-    "CHICHA San Chen",
-    "Chicha San Chen"
-  ],
-  [
-    "CHOKOBERRY",
-    "Chokoberry"
-  ],
-  [
-    "CHOUPETTE",
-    "Choupette"
-  ],
-  [
-    "CINEMA PARK DELUXE"
-  ],
-  [
-    "CINNABON",
-    "Cinnabon"
-  ],
-  [
-    "CLARINS SPA"
-  ],
-  [
-    "CLIMBER"
-  ],
-  [
-    "CLIMBER BY CUNO"
-  ],
-  [
-    "CLUB",
-    "Club"
-  ],
-  [
-    "CNS — Coined iN Stone"
-  ],
-  [
-    "COATS"
-  ],
-  [
-    "COCCINELLE",
-    "Coccinelle"
-  ],
-  [
-    "COFFEESHOP COMPANY",
-    "Coffeeshop Company"
-  ],
-  [
-    "COFIX",
-    "Cofix"
-  ],
-  [
-    "COLIN'S",
-    "COLIN’S",
-    "Colin's",
-    "Colin’s"
-  ],
-  [
-    "COLIZEUM"
-  ],
-  [
-    "CONSO",
-    "Conso"
-  ],
-  [
-    "COOK HOUSE"
-  ],
-  [
-    "CORAL TRAVEL",
-    "Coral Travel"
-  ],
-  [
-    "COZY HOME"
-  ],
-  [
-    "CR"
-  ],
-  [
-    "CULT"
-  ],
-  [
-    "CUTLET"
-  ],
-  [
-    "CVC Китайская кухня"
-  ],
-  [
-    "CYCLO"
-  ],
-  [
-    "Calvin Klein Jeans"
-  ],
-  [
-    "Carlo Pazolini"
-  ],
-  [
-    "Carter's Oshkosh B'gosh"
-  ],
-  [
-    "Case:Store"
-  ],
-  [
-    "Casemarket (остров)"
-  ],
-  [
-    "Casio Watch Factory"
-  ],
-  [
-    "Cerca Trova"
-  ],
-  [
-    "ChaLa Бабл Ти"
-  ],
-  [
-    "Chaihana the way"
-  ],
-  [
-    "Chaika"
-  ],
-  [
-    "Chakra"
-  ],
-  [
-    "Chang"
-  ],
-  [
-    "Cheesemania"
-  ],
-  [
-    "Cheesemania Pizza&Pasta"
-  ],
-  [
-    "Cinderella"
-  ],
-  [
-    "Cinque"
-  ],
-  [
-    "City of dream"
-  ],
-  [
-    "Cocos Moscow"
-  ],
-  [
-    "Codered"
-  ],
-  [
-    "Coffee Combo"
-  ],
-  [
-    "Coffee Moments"
-  ],
-  [
-    "Coffee Up Down"
-  ],
-  [
-    "CoffeeVan"
-  ],
-  [
-    "Cofix (остров)"
-  ],
-  [
-    "Cofix+Tele2"
-  ],
-  [
-    "Coins"
-  ],
-  [
-    "Colette Adony"
-  ],
-  [
-    "Collete Adony"
-  ],
-  [
-    "Columbia"
-  ],
-  [
-    "Consul"
-  ],
-  [
-    "Conte"
-  ],
-  [
-    "Coral Travel Elite Service"
-  ],
-  [
-    "Cosmomedica"
-  ],
-  [
-    "Cosmozar"
-  ],
-  [
-    "Crazy Cart"
-  ],
-  [
-    "Crockid"
-  ],
-  [
-    "Cпортивный"
-  ],
-  [
-    "D - TWENTYONE"
-  ],
-  [
-    "D&F"
-  ],
-  [
-    "D&P Perfumum"
-  ],
-  [
-    "D'S DAMAT"
-  ],
-  [
-    "D-STYLE"
-  ],
-  [
-    "D1913"
-  ],
-  [
-    "DAMAT | TWEEN",
-    "Damat Tween"
-  ],
-  [
-    "DARWIN (остров)"
-  ],
-  [
-    "DAVITA"
-  ],
-  [
-    "DDX Fitness"
-  ],
-  [
-    "DECORAZZA"
-  ],
-  [
-    "DEMIX",
-    "Demix"
-  ],
-  [
-    "DESIGN SPACE"
-  ],
-  [
-    "DESPORT",
-    "Desport"
-  ],
-  [
-    "DIAMOND DISTRICT",
-    "Diamond District"
-  ],
-  [
-    "DIM",
-    "Dim"
-  ],
-  [
-    "DIMSUM&amp;CO"
-  ],
-  [
-    "DIPLOMAT",
-    "Diplomat"
-  ],
-  [
-    "DNS"
-  ],
-  [
-    "DNS гипер"
-  ],
-  [
-    "DO.BRO COFFEE"
-  ],
-  [
-    "DONUTTO",
-    "Donutto"
-  ],
-  [
-    "DORSS"
-  ],
-  [
-    "DPAM"
-  ],
-  [
-    "DREAME",
-    "Dreame"
-  ],
-  [
-    "DREAMS"
-  ],
-  [
-    "DREAMS by Alena Akhmadullina",
-    "DREAMS by Alena Akhmadullina.",
-    "Dreams by Alena Akhmadullina"
-  ],
-  [
-    "DU PAREIL AU MEME"
-  ],
-  [
-    "DUB"
-  ],
-  [
-    "Daisyknit"
-  ],
-  [
-    "Danza"
-  ],
-  [
-    "DeepHouse"
-  ],
-  [
-    "Delonghi"
-  ],
-  [
-    "Diamant"
-  ],
-  [
-    "Diesel"
-  ],
-  [
-    "Divan BOSS"
-  ],
-  [
-    "Divno"
-  ],
-  [
-    "Dolce Milk"
-  ],
-  [
-    "Donatto"
-  ],
-  [
-    "Doner House"
-  ],
-  [
-    "Dr. Koffer"
-  ],
-  [
-    "Dr.Koffer"
-  ],
-  [
-    "Dragon Bubble Tea"
-  ],
-  [
-    "Dragon Mixology Bar"
-  ],
-  [
-    "Dragonfly"
-  ],
-  [
-    "Dream-aero"
-  ],
-  [
-    "Dream.Tea"
-  ],
-  [
-    "Dress No Stress"
-  ],
-  [
-    "Drinkit"
-  ],
-  [
-    "Dyshop"
-  ],
-  [
-    "ECCO",
-    "Ecco"
-  ],
-  [
-    "ECRU"
-  ],
-  [
-    "EFOR"
-  ],
-  [
-    "EGOIST"
-  ],
-  [
-    "EKONIKA"
-  ],
-  [
-    "EKONIKA (Скоро открытие)"
-  ],
-  [
-    "EKONIKA pop-up"
-  ],
-  [
-    "EL ROSSO"
-  ],
-  [
-    "ELEGANZZA"
-  ],
-  [
-    "ELENA MIRO",
-    "Elena Miro"
-  ],
-  [
-    "ELINICE"
-  ],
-  [
-    "ELIS"
-  ],
-  [
-    "EMBODY"
-  ],
-  [
-    "EMKA",
-    "Emka"
-  ],
-  [
-    "EMMI"
-  ],
-  [
-    "EMMI kiosk"
-  ],
-  [
-    "ENSO"
-  ],
-  [
-    "ERBORIAN",
-    "Erborian"
-  ],
-  [
-    "ERGONOVA"
-  ],
-  [
-    "ERGONOVA (Северное здание)"
-  ],
-  [
-    "ESTEL"
-  ],
-  [
-    "ESTELLE A-STORE",
-    "ESTELLE A-Store",
-    "Estelle A-Store"
-  ],
-  [
-    "ESTIMA"
-  ],
-  [
-    "ETAM",
-    "Etam"
-  ],
-  [
-    "EUROMARCA",
-    "Euromarca"
-  ],
-  [
-    "EUROSPAR"
-  ],
-  [
-    "EVEENS"
-  ],
-  [
-    "EVOLA"
-  ],
-  [
-    "EVOLA style"
-  ],
-  [
-    "EWA MORETTI"
-  ],
-  [
-    "EXPRESS РЕМОНТ"
-  ],
-  [
-    "EYFEL"
-  ],
-  [
-    "Eat Market"
-  ],
-  [
-    "Eberhart"
-  ],
-  [
-    "Eco-Vostok"
-  ],
-  [
-    "Eko-vostok"
-  ],
-  [
-    "El Tempo"
-  ],
-  [
-    "Elegance Optica"
-  ],
-  [
-    "Eleganzza Piece of Art"
-  ],
-  [
-    "Elemis"
-  ],
-  [
-    "Elisabetta Franchi"
-  ],
-  [
-    "ElitZakolka"
-  ],
-  [
-    "Elka.bio"
-  ],
-  [
-    "Elle Land"
-  ],
-  [
-    "Enevoo"
-  ],
-  [
-    "Ergonomika"
-  ],
-  [
-    "Es Vedra"
-  ],
-  [
-    "Eterna"
-  ],
-  [
-    "Etre"
-  ],
-  [
-    "Europolis"
-  ],
-  [
-    "Eve&Esther"
-  ],
-  [
-    "Evigi"
-  ],
-  [
-    "Exotica"
-  ],
-  [
-    "Expert Professional"
-  ],
-  [
-    "EССО"
-  ],
-  [
-    "F3 Studio"
-  ],
-  [
-    "FACE CODE"
-  ],
-  [
-    "FALCONERI",
-    "Falconeri"
-  ],
-  [
-    "FALKE",
-    "Falke"
-  ],
-  [
-    "FAM"
-  ],
-  [
-    "FAMILIA",
-    "Familia"
-  ],
-  [
-    "FASHION HOUSE"
-  ],
-  [
-    "FASHION REBELS"
-  ],
-  [
-    "FHO ВЬЕТНАМСКОЕ КАФЕ"
-  ],
-  [
-    "FINN FLARE",
-    "FiNN FLARE",
-    "Finn Flare"
-  ],
-  [
-    "FIRST IN SPACE",
-    "First in Space",
-    "First in space"
-  ],
-  [
-    "FISSMAN"
-  ],
-  [
-    "FITNESS FORMULA",
-    "Fitness Formula"
-  ],
-  [
-    "FLOWER STORY"
-  ],
-  [
-    "FLUIDE"
-  ],
-  [
-    "FRANCESCO DONNI"
-  ],
-  [
-    "FRANK by БАСТА",
-    "FRANK by Баста"
-  ],
-  [
-    "FREEDOM STORE"
-  ],
-  [
-    "FRENCH KISS",
-    "French Kiss",
-    "French kiss"
-  ],
-  [
-    "FRENCH KISS chocolate boutique"
-  ],
-  [
-    "FREYWILLE",
-    "Freywille"
-  ],
-  [
-    "FRHT"
-  ],
-  [
-    "FUN&SUN"
-  ],
-  [
-    "FUN&SUN PREMIUM"
-  ],
-  [
-    "FUNDAY"
-  ],
-  [
-    "FUNNY SOCKS"
-  ],
-  [
-    "FURLA",
-    "Furla"
-  ],
-  [
-    "Fabio Paoloni"
-  ],
-  [
-    "Fable"
-  ],
-  [
-    "Face Fit"
-  ],
-  [
-    "Farrini"
-  ],
-  [
-    "Fashion Travel",
-    "Fashion travel"
-  ],
-  [
-    "Favorite Time"
-  ],
-  [
-    "Feelz"
-  ],
-  [
-    "Fiore Bags"
-  ],
-  [
-    "Flower Bar"
-  ],
-  [
-    "Flower Project"
-  ],
-  [
-    "Fluffy Fluffy"
-  ],
-  [
-    "Fluide Fit"
-  ],
-  [
-    "Formula Coffee"
-  ],
-  [
-    "Forte Bello"
-  ],
-  [
-    "French Bakery SeDelice"
-  ],
-  [
-    "Fridays"
-  ],
-  [
-    "FunnySocks"
-  ],
-  [
-    "Fusion Menu"
-  ],
-  [
-    "GAGAWA",
-    "Gagawa"
-  ],
-  [
-    "GAISSINA"
-  ],
-  [
-    "GAME PARK",
-    "Game park"
-  ],
-  [
-    "GANT"
-  ],
-  [
-    "GARDA DECOR",
-    "Garda Decor"
-  ],
-  [
-    "GATE31",
-    "Gate31"
+    "Xiaomi"
   ],
   [
     "GATSBY"
   ],
   [
-    "GEOX",
-    "Geox"
+    "Капитан Мармелад"
   ],
   [
-    "GEOX Kids",
-    "GEOX kids"
-  ],
-  [
-    "GERARD DAREL",
-    "Gerard Darel"
-  ],
-  [
-    "GERRY WEBER"
-  ],
-  [
-    "GEZATONE"
-  ],
-  [
-    "GIPFEL",
-    "Gipfel"
-  ],
-  [
-    "GLORIA JEANS",
-    "Gloria Jeans"
-  ],
-  [
-    "GLVR"
-  ],
-  [
-    "GOLD HEEL"
-  ],
-  [
-    "GOLDWAY"
-  ],
-  [
-    "GOOD CHINA"
-  ],
-  [
-    "GRAF"
-  ],
-  [
-    "GRASSE PARFUMERIE"
-  ],
-  [
-    "GRASSE PERFUMERIE"
-  ],
-  [
-    "GREEK STREET",
-    "Greek Street"
-  ],
-  [
-    "GRESSO",
-    "Gresso"
-  ],
-  [
-    "GRIOL"
-  ],
-  [
-    "GUESS",
-    "Guess"
-  ],
-  [
-    "GUESS Kids"
-  ],
-  [
-    "GUESS | Marciano by GUESS"
-  ],
-  [
-    "GUESS?, Inc."
-  ],
-  [
-    "GULLIVER",
-    "Gulliver"
-  ],
-  [
-    "Gabrielli"
-  ],
-  [
-    "GamePark"
-  ],
-  [
-    "Gamma D'ORO"
-  ],
-  [
-    "Garden"
-  ],
-  [
-    "Garmin"
-  ],
-  [
-    "Gatti"
-  ],
-  [
-    "Georgian House"
-  ],
-  [
-    "Gipfel Home"
-  ],
-  [
-    "Glenfield"
-  ],
-  [
-    "Goldex"
-  ],
-  [
-    "Goldtex Premium Textile"
-  ],
-  [
-    "Good Food Bowl"
-  ],
-  [
-    "Good Tea"
-  ],
-  [
-    "Grundig"
-  ],
-  [
-    "Grunge John Orchestra. Explosion"
-  ],
-  [
-    "Grusha Diamonds"
-  ],
-  [
-    "Gvido Gelato"
-  ],
-  [
-    "H2O"
-  ],
-  [
-    "HAIER",
-    "Haier"
-  ],
-  [
-    "HANOIAN"
-  ],
-  [
-    "HATSUN (остров)"
-  ],
-  [
-    "HAVVS",
-    "Havvs"
-  ],
-  [
-    "HAZZYS"
-  ],
-  [
-    "HB / HAPPY BABY"
-  ],
-  [
-    "HEDEBU"
-  ],
-  [
-    "HENDERSON",
-    "Henderson"
-  ],
-  [
-    "HIGH"
-  ],
-  [
-    "HIKER",
-    "Hiker"
-  ],
-  [
-    "HOBBY GAMES",
-    "Hobby Games"
-  ],
-  [
-    "HOGL",
-    "Hogl"
-  ],
-  [
-    "HOT DOG BULLDOG",
-    "Hot Dog Bulldog"
-  ],
-  [
-    "HUAWEI",
-    "Huawei"
-  ],
-  [
-    "HUGO"
-  ],
-  [
-    "HULU FRUITS"
-  ],
-  [
-    "Hallyu"
-  ],
-  [
-    "Hanswood"
-  ],
-  [
-    "Hard Case Store"
-  ],
-  [
-    "Harry Cooper"
-  ],
-  [
-    "HealthStore"
-  ],
-  [
-    "Hi Tea"
-  ],
-  [
-    "HiDar",
-    "Hidar"
-  ],
-  [
-    "HiDar hookah Shop"
-  ],
-  [
-    "Ho Chu Pho"
-  ],
-  [
-    "Hoff"
-  ],
-  [
-    "Hoff (пункт выдачи)"
-  ],
-  [
-    "Hoff Home"
-  ],
-  [
-    "Humanist"
-  ],
-  [
-    "Högl"
-  ],
-  [
-    "I-access"
-  ],
-  [
-    "ICEBERG"
-  ],
-  [
-    "ICleaning"
-  ],
-  [
-    "IDOL"
-  ],
-  [
-    "IL Патио"
-  ],
-  [
-    "ILCOTT"
-  ],
-  [
-    "INCANTO",
-    "Incanto"
-  ],
-  [
-    "INTIMISSIMI",
-    "Intimissimi",
-    "intimissimi"
-  ],
-  [
-    "INTIMISSIMI UOMO",
-    "Intimissimi UOMO",
-    "Intimissimi Uomo",
-    "intimissimi uomo"
-  ],
-  [
-    "IQ PUZZLE"
-  ],
-  [
-    "IRIS"
-  ],
-  [
-    "IRNBY"
-  ],
-  [
-    "IRO",
-    "Iro"
-  ],
-  [
-    "IRO в ТЦ Метрополис"
-  ],
-  [
-    "ISLAND SOUL",
-    "Island Soul"
-  ],
-  [
-    "ISTAMBUL"
-  ],
-  [
-    "IStudio",
-    "iStudio"
-  ],
-  [
-    "Ice land fresh bar"
-  ],
-  [
-    "Igan Designer"
-  ],
-  [
-    "Imperial"
-  ],
-  [
-    "Indefini"
-  ],
-  [
-    "Individ"
-  ],
-  [
-    "Indiwd"
-  ],
-  [
-    "Infasem"
-  ],
-  [
-    "Inspire Girls"
-  ],
-  [
-    "Ios&Android Service"
-  ],
-  [
-    "Island Soul(остров)"
-  ],
-  [
-    "Istanbul"
-  ],
-  [
-    "Istanbul Kebab"
-  ],
-  [
-    "JACADI"
-  ],
-  [
-    "JAMMIA"
-  ],
-  [
-    "JEANS CLUB"
-  ],
-  [
-    "JISCO"
-  ],
-  [
-    "JNBY"
-  ],
-  [
-    "JNS"
-  ],
-  [
-    "JOKI JOYA"
-  ],
-  [
-    "JUICE CITY"
-  ],
-  [
-    "Je T'aime"
-  ],
-  [
-    "Jeans Dean"
-  ],
-  [
-    "John Doe (скоро открытие)"
-  ],
-  [
-    "Just Brand"
-  ],
-  [
-    "Just Clothes"
-  ],
-  [
-    "Just Sport"
-  ],
-  [
-    "KABUKI café & lounge"
-  ],
-  [
-    "KANZ"
-  ],
-  [
-    "KANZLER",
-    "Kanzler"
-  ],
-  [
-    "KARATOV",
-    "Karatov"
-  ],
-  [
-    "KARATOV Бриллиантовый дом"
-  ],
-  [
-    "KARI",
-    "Kari",
-    "kari"
-  ],
-  [
-    "KARI KIDS",
-    "kari KIDS"
-  ],
-  [
-    "KARL LAGERFELD",
-    "Karl Lagerfeld"
-  ],
-  [
-    "KARL LAGERFELD MAN",
-    "Karl Lagerfeld Man"
-  ],
-  [
-    "KAVARA"
-  ],
-  [
-    "KEDMA (остров)"
-  ],
-  [
-    "KIDSBIK Детская обувь"
-  ],
-  [
-    "KIKO MILANO",
-    "Kiko Milano"
-  ],
-  [
-    "KIRA PLASTININA"
-  ],
-  [
-    "KIXBOX",
-    "Kixbox"
-  ],
-  [
-    "KOFOOD"
-  ],
-  [
-    "KONPLOTT",
-    "Konplott"
-  ],
-  [
-    "KP EXCLUSIVE"
-  ],
-  [
-    "KRAKATAU"
-  ],
-  [
-    "KRASIVO365"
-  ],
-  [
-    "KUPITPODAROK.RU"
-  ],
-  [
-    "KUPPERSBERG"
-  ],
-  [
-    "Kapika"
-  ],
-  [
-    "Kappa"
-  ],
-  [
-    "Karaca Home"
-  ],
-  [
-    "Kardo"
-  ],
-  [
-    "Karl Lagerfeld Jeans"
-  ],
-  [
-    "Kasumov Women"
-  ],
-  [
-    "Katardi"
-  ],
-  [
-    "Katya Erokhina"
-  ],
-  [
-    "Kedma"
-  ],
-  [
-    "Kepler"
-  ],
-  [
-    "Kidsbik"
-  ],
-  [
-    "Kimchi to go"
-  ],
-  [
-    "King Wokroll"
-  ],
-  [
-    "Koool"
-  ],
-  [
-    "Korea Market",
-    "Korea market"
-  ],
-  [
-    "Koton"
-  ],
-  [
-    "Kristina & Milan"
-  ],
-  [
-    "Krunchy Dream"
-  ],
-  [
-    "Krutyshka"
-  ],
-  [
-    "Ksenia Knyazeva"
-  ],
-  [
-    "KuchenLand"
-  ],
-  [
-    "KuchenLand Home",
-    "Kuchenland Home"
-  ],
-  [
-    "KÜCHENLAND HOME",
-    "KüchenLand Home"
-  ],
-  [
-    "KŌUN"
-  ],
-  [
-    "LA PRIMA",
-    "La Prima",
-    "La prima"
-  ],
-  [
-    "LACOSTE",
-    "Lacoste"
-  ],
-  [
-    "LADY & GENTLEMAN CITY",
-    "lady & gentleman CITY"
-  ],
-  [
-    "LADY COLLECTION",
-    "Lady Collection",
-    "Lady collection"
-  ],
-  [
-    "LAETE",
-    "Laete",
-    "laete"
-  ],
-  [
-    "LAKONER"
-  ],
-  [
-    "LAMODA SPORT",
-    "Lamoda Sport",
-    "Lamoda sport"
-  ],
-  [
-    "LAMODA SPORT URBAN"
-  ],
-  [
-    "LAPARET"
-  ],
-  [
-    "LAPIN HOUSE",
-    "Lapin House"
-  ],
-  [
-    "LART"
-  ],
-  [
-    "LASSIE",
-    "Lassie"
-  ],
-  [
-    "LAU"
-  ],
-  [
-    "LAV'Z",
-    "LAV*Z",
-    "LAV`Z"
-  ],
-  [
-    "LAVARICE",
-    "Lavarice"
-  ],
-  [
-    "LAZURIT",
-    "Lazurit"
-  ],
-  [
-    "LC WAIKIKI",
-    "LC Waikiki"
-  ],
-  [
-    "LCLS."
-  ],
-  [
-    "LE MOUSSE"
-  ],
-  [
-    "LEE"
-  ],
-  [
-    "LEFARO"
-  ],
-  [
-    "LELAS"
-  ],
-  [
-    "LERAN"
-  ],
-  [
-    "LI-NING",
-    "Li-Ning",
-    "Li-ning"
-  ],
-  [
-    "LICHI",
-    "Lichi"
-  ],
-  [
-    "LIME"
-  ],
-  [
-    "LIME MAN"
-  ],
-  [
-    "LIMÉ"
-  ],
-  [
-    "LIMÉ Cafe"
-  ],
-  [
-    "LIMÉ Man"
-  ],
-  [
-    "LIONESS"
-  ],
-  [
-    "LISA&LEO"
-  ],
-  [
-    "LISE CHARMEL"
-  ],
-  [
-    "LIU JO",
-    "Liu Jo"
-  ],
-  [
-    "LN Family"
-  ],
-  [
-    "LOFT",
-    "Loft"
-  ],
-  [
-    "LOLOCLO"
-  ],
-  [
-    "LORENA кухни и мебель"
-  ],
-  [
-    "LOVE REPUBLIC",
-    "Love Republic"
-  ],
-  [
-    "LU enchantée"
-  ],
-  [
-    "LUARA"
-  ],
-  [
-    "LUCCA"
-  ],
-  [
-    "LUMIERE"
-  ],
-  [
-    "LUSIO",
-    "Lusio"
-  ],
-  [
-    "LUTA"
-  ],
-  [
-    "L`Occitane"
-  ],
-  [
-    "La Nature"
-  ],
-  [
-    "La Trevi"
-  ],
-  [
-    "Labbra"
-  ],
-  [
-    "Lady Sharm"
-  ],
-  [
-    "Lady&amp;Gentleman City"
-  ],
-  [
-    "Lady&gentleman CITY",
-    "lady&gentleman CITY"
-  ],
-  [
-    "Lamoda Sport Kids"
-  ],
-  [
-    "Lamoda Sport Outlet"
-  ],
-  [
-    "Lavstyle"
-  ],
-  [
-    "Le Journal Intime"
-  ],
-  [
-    "Lee Cooper"
-  ],
-  [
-    "Les Benjamins"
-  ],
-  [
-    "Less"
-  ],
-  [
-    "Let's cashmere!"
-  ],
-  [
-    "Lia Rose"
-  ],
-  [
-    "Libellulas"
-  ],
-  [
-    "LifeWork",
-    "Lifework"
-  ],
-  [
-    "Liotti Moda"
-  ],
-  [
-    "Lite"
-  ],
-  [
-    "LiveWishes"
-  ],
-  [
-    "Location Vape Shop"
-  ],
-  [
-    "Long River"
-  ],
-  [
-    "Lorani"
-  ],
-  [
-    "Lucky Bear"
-  ],
-  [
-    "Luisa Spagnoli"
-  ],
-  [
-    "Luisa Wang"
-  ],
-  [
-    "Lumberjack"
-  ],
-  [
-    "M Tea"
-  ],
-  [
-    "M. Manzoni"
-  ],
-  [
-    "M.B. Décor"
-  ],
-  [
-    "M.REASON"
-  ],
-  [
-    "MAAG"
-  ],
-  [
-    "MACARONIKA",
-    "Macaronika"
-  ],
-  [
-    "MADAME COCO",
-    "Madame CoCo",
-    "Madame Coco"
-  ],
-  [
-    "MADIA IUSUPOVA"
-  ],
-  [
-    "MAGISTIC"
-  ],
-  [
-    "MANCOR"
-  ],
-  [
-    "MANEKEN BRAND",
-    "Maneken Brand"
-  ],
-  [
-    "MANERA"
-  ],
-  [
-    "MANGO",
-    "Mango"
-  ],
-  [
-    "MANI Bubble Tea"
-  ],
-  [
-    "MARATON"
-  ],
-  [
-    "MARC CAIN",
-    "Marc Cain"
-  ],
-  [
-    "MARCCAIN"
-  ],
-  [
-    "MARELLA",
-    "Marella"
-  ],
-  [
-    "MARK FORMELLE",
-    "Mark Formelle"
-  ],
-  [
-    "MARKA"
-  ],
-  [
-    "MARKETPLACE"
-  ],
-  [
-    "MARMALATO",
-    "Marmalato"
-  ],
-  [
-    "MARYMIA"
-  ],
-  [
-    "MASCOTTE",
-    "Mascotte"
-  ],
-  [
-    "MASSA mebel"
-  ],
-  [
-    "MAUNFELD"
-  ],
-  [
-    "MAVELTY"
-  ],
-  [
-    "MBT"
-  ],
-  [
-    "MEBEL BRANDS"
-  ],
-  [
-    "MELBURG"
-  ],
-  [
-    "MELLE"
-  ],
-  [
-    "MENDEL",
-    "Mendel"
-  ],
-  [
-    "MERÉ"
-  ],
-  [
-    "MET TEA"
-  ],
-  [
-    "METTA",
-    "Metta"
-  ],
-  [
-    "MEUCCI"
-  ],
-  [
-    "MEZZATORRE",
-    "Mezzatorre"
-  ],
-  [
-    "MIE"
-  ],
-  [
-    "MIELE"
-  ],
-  [
-    "MILAVITSA",
-    "Milavitsa"
-  ],
-  [
-    "MILNALI",
-    "Milnali"
-  ],
-  [
-    "MIUZ DIAMONDS",
-    "MIUZ Diamonds"
-  ],
-  [
-    "MIUZ Diamonds (Северное здание)"
-  ],
-  [
-    "MIUZ Diamonds (Южное здание)"
-  ],
-  [
-    "MIXX"
-  ],
-  [
-    "MK"
-  ],
-  [
-    "MO"
-  ],
-  [
-    "MODI",
-    "modi"
-  ],
-  [
-    "MODI (Cкоро открытие)"
-  ],
-  [
-    "MOLECULE"
-  ],
-  [
-    "MOLLIS",
-    "Mollis"
-  ],
-  [
-    "MOLLUSCA"
-  ],
-  [
-    "MON BON"
-  ],
-  [
-    "MOON"
-  ],
-  [
-    "MOON TRADE"
-  ],
-  [
-    "MOON ДИВАНЫ"
-  ],
-  [
-    "MOSWEET"
-  ],
-  [
-    "MOTHERBEAR",
-    "Motherbear"
-  ],
-  [
-    "MOVE",
-    "Move"
-  ],
-  [
-    "MOVELI",
-    "Moveli"
-  ],
-  [
-    "MR. SUMKIN"
-  ],
-  [
-    "MR. TUTTI"
-  ],
-  [
-    "MR.DOORS",
-    "Mr.Doors"
-  ],
-  [
-    "MUDO",
-    "Mudo"
-  ],
-  [
-    "MUNZ STORE"
-  ],
-  [
-    "MUSTANG",
-    "Mustang"
-  ],
-  [
-    "MYBOX МАРКЕТ"
-  ],
-  [
-    "MYSA"
-  ],
-  [
-    "MYTORI"
-  ],
-  [
-    "Macrocosm"
-  ],
-  [
-    "Magic Box"
-  ],
-  [
-    "Majorica"
-  ],
-  [
-    "Marc & Andre"
-  ],
-  [
-    "Marc & André"
-  ],
-  [
-    "Marc O'Polo",
-    "Marc O’Polo"
-  ],
-  [
-    "Marc&Andre"
-  ],
-  [
-    "Marchelas"
-  ],
-  [
-    "Marcolana"
-  ],
-  [
-    "MariaG Home"
-  ],
-  [
-    "Mario Berlucci"
-  ],
-  [
-    "Mario Mikke"
-  ],
-  [
-    "Marmelo сладости для детей и взрослых"
-  ],
-  [
-    "Marou"
-  ],
-  [
-    "Massimo Renne"
-  ],
-  [
-    "Matteo Malichelli"
-  ],
-  [
-    "Matvienko"
-  ],
-  [
-    "Mavi"
-  ],
-  [
-    "Max&Co"
-  ],
-  [
-    "Meat&Fish"
-  ],
-  [
-    "Merry Perry"
-  ],
-  [
-    "Mesh'n'flesh"
-  ],
-  [
-    "MetTea"
-  ],
-  [
-    "Michael Kors"
-  ],
-  [
-    "Mimimoda"
-  ],
-  [
-    "Mio Mix"
-  ],
-  [
-    "Misha&Teddy"
-  ],
-  [
-    "Miss CHIC"
-  ],
-  [
-    "Mobile Case"
-  ],
-  [
-    "Modeno"
-  ],
-  [
-    "Monsheri"
-  ],
-  [
-    "Montblanc"
-  ],
-  [
-    "Moriki Doriki"
-  ],
-  [
-    "MorphoClo"
-  ],
-  [
-    "Mr.Mish"
-  ],
-  [
-    "MrGaydar"
-  ],
-  [
-    "My Kim"
-  ],
-  [
-    "My Nymph"
-  ],
-  [
-    "Mytrex"
-  ],
-  [
-    "MÍDITI"
-  ],
-  [
-    "MänerBlick"
-  ],
-  [
-    "N.O.M.I"
-  ],
-  [
-    "NAIPACHE"
-  ],
-  [
-    "NATURA SIBERICA",
-    "Natura Siberica"
-  ],
-  [
-    "NATURAPURA"
-  ],
-  [
-    "NAUMI",
-    "Naumi",
-    "naumi"
-  ],
-  [
-    "NCF"
-  ],
-  [
-    "NELVA"
-  ],
-  [
-    "NEROlab"
-  ],
-  [
-    "NICEONE",
-    "NiceOne"
-  ],
-  [
-    "NIKIFILINI"
-  ],
-  [
-    "NIKKO",
-    "Nikko"
-  ],
-  [
-    "NJ. MOOD"
-  ],
-  [
-    "NO ONE"
-  ],
-  [
-    "NO ONE DONNA"
-  ],
-  [
-    "NO ONE UOMO"
-  ],
-  [
-    "NOMINATION"
-  ],
-  [
-    "NONNACOLLECTION"
-  ],
-  [
-    "NORTON"
-  ],
-  [
-    "NOVA Bubble Tea"
-  ],
-  [
-    "NSP (Nike Special Project)"
-  ],
-  [
-    "Nail Bar Море"
-  ],
-  [
-    "Namelazz"
-  ],
-  [
-    "Neo-Climat"
+    "Республика*"
   ],
   [
     "NetWork"
   ],
   [
-    "New Yorker"
+    "Casio Watch Factory"
   ],
   [
-    "Nikasport"
-  ],
-  [
-    "Nikonorova"
-  ],
-  [
-    "Nonconform"
-  ],
-  [
-    "Norppa"
-  ],
-  [
-    "O'DETO"
-  ],
-  [
-    "O'PRIME"
-  ],
-  [
-    "O'STIN",
-    "O'Stin",
-    "O`STIN",
-    "O’STIN"
-  ],
-  [
-    "O'Sofi",
-    "O’SOFI"
-  ],
-  [
-    "OBI"
-  ],
-  [
-    "OFFPRICE"
-  ],
-  [
-    "OGAWA"
-  ],
-  [
-    "OILIO"
-  ],
-  [
-    "OLDOS",
-    "OLDOS!",
-    "Oldos"
-  ],
-  [
-    "OLSO",
-    "Olso"
-  ],
-  [
-    "OLYMP"
-  ],
-  [
-    "OMMA. Korean food"
-  ],
-  [
-    "ONE PRICE COFFEE",
-    "One Price Coffee"
-  ],
-  [
-    "OOMPH",
-    "Oomph"
-  ],
-  [
-    "OPTIC STREET"
-  ],
-  [
-    "ORAORA"
-  ],
-  [
-    "ORIGINAL MARINES",
-    "Original Marines"
-  ],
-  [
-    "ORMATEK"
-  ],
-  [
-    "OSTERIA MARIO",
-    "Osteria Mario"
-  ],
-  [
-    "OVS KIDS",
-    "OVS Kids"
-  ],
-  [
-    "OXXO"
-  ],
-  [
-    "O`STIN kids"
-  ],
-  [
-    "Obba"
-  ],
-  [
-    "Ocean Muse"
-  ],
-  [
-    "Ojuvi Parfum"
-  ],
-  [
-    "Olivin"
-  ],
-  [
-    "Omellini"
-  ],
-  [
-    "OnUp"
-  ],
-  [
-    "One Price Coffee (1 этаж)"
-  ],
-  [
-    "One Special"
-  ],
-  [
-    "OnePriceCoffee"
-  ],
-  [
-    "OnePriceCoffee (2 этаж)"
-  ],
-  [
-    "Oohm Home",
-    "Oohm home"
-  ],
-  [
-    "Opera (остров)"
-  ],
-  [
-    "Orange Elephant"
-  ],
-  [
-    "Orenshal (скоро открытие)"
-  ],
-  [
-    "O’Sofi (остров)"
-  ],
-  [
-    "PALMETTA",
-    "Palmetta"
-  ],
-  [
-    "PANCLUB",
-    "PanClub"
-  ],
-  [
-    "PANCO"
-  ],
-  [
-    "PARPA"
-  ],
-  [
-    "PASSION BEAUTY",
-    "Passion Beauty"
-  ],
-  [
-    "PAUL (Временно закрыто)"
-  ],
-  [
-    "PDPAOLA"
-  ],
-  [
-    "PENNYMANNY"
-  ],
-  [
-    "PERFEQTUE"
-  ],
-  [
-    "PFM"
-  ],
-  [
-    "PHOBO",
-    "PhoBo"
-  ],
-  [
-    "PIMS",
-    "Pims"
-  ],
-  [
-    "PINKO",
-    "Pinko"
-  ],
-  [
-    "PIQUADRO",
-    "PiQuadro",
-    "Piquadro"
-  ],
-  [
-    "PIRATMARMELAD"
-  ],
-  [
-    "PIZHON"
-  ],
-  [
-    "PLATINA 950"
-  ],
-  [
-    "PLEIN SPORT",
-    "Plein Sport"
-  ],
-  [
-    "PORTA PRIMA"
-  ],
-  [
-    "PREMIUM DEVICE",
-    "Premium Device"
-  ],
-  [
-    "PRO mobile"
-  ],
-  [
-    "PRO ТАБАК"
-  ],
-  [
-    "PRO.Хинкали"
-  ],
-  [
-    "PROFCOSMO"
-  ],
-  [
-    "PROFICARE"
-  ],
-  [
-    "PROFILDOORS"
-  ],
-  [
-    "PROSKATE"
-  ],
-  [
-    "PUBLiX"
-  ],
-  [
-    "PURE STONE"
-  ],
-  [
-    "PUTIN TEAM RUSSIA",
-    "Putin Team Russia"
-  ],
-  [
-    "Palais des Thés"
-  ],
-  [
-    "Panacea Jewelry Lab"
-  ],
-  [
-    "Pantamo Jeans"
-  ],
-  [
-    "Parfume Oil"
-  ],
-  [
-    "Passý"
-  ],
-  [
-    "Pasta Cup & Pinsa"
-  ],
-  [
-    "Patrizia Pepe"
-  ],
-  [
-    "Pazolini"
-  ],
-  [
-    "Pedant"
-  ],
-  [
-    "Pel-Meni"
-  ],
-  [
-    "Peplos"
-  ],
-  [
-    "Perfums Bar"
-  ],
-  [
-    "Petit Bateau"
-  ],
-  [
-    "Petit Pas"
-  ],
-  [
-    "Petra"
-  ],
-  [
-    "Pho Asian kitchen"
-  ],
-  [
-    "Pho Bo"
-  ],
-  [
-    "Pho Street"
-  ],
-  [
-    "PhoBo (Северное здание)"
-  ],
-  [
-    "PhoBo (Южное здание)"
-  ],
-  [
-    "PhoBo (скоро открытие)"
-  ],
-  [
-    "Piccolo"
-  ],
-  [
-    "PickPoint"
-  ],
-  [
-    "Pierre Cardin"
-  ],
-  [
-    "PitersonI"
-  ],
-  [
-    "Planta Rosa"
-  ],
-  [
-    "PlayToday",
-    "playToday"
-  ],
-  [
-    "Ploveberry"
-  ],
-  [
-    "Poison Drop"
-  ],
-  [
-    "Poke House"
-  ],
-  [
-    "Poke TomYum"
-  ],
-  [
-    "Polaris"
-  ],
-  [
-    "Pompa",
-    "pompa"
-  ],
-  [
-    "Premiumdevice"
-  ],
-  [
-    "Present & Simple"
-  ],
-  [
-    "Primaverina"
-  ],
-  [
-    "ProMobile"
-  ],
-  [
-    "Proswim"
-  ],
-  [
-    "Q STORE",
-    "Q Store",
-    "Q store"
-  ],
-  [
-    "Q-STORE",
-    "Q-Store"
-  ],
-  [
-    "Quickly"
-  ],
-  [
-    "Quiksilver"
-  ],
-  [
-    "RAGANELLA PRINCESS",
-    "Raganella Princess"
-  ],
-  [
-    "RALF RINGER",
-    "Ralf Ringer"
-  ],
-  [
-    "RE"
-  ],
-  [
-    "RE Man"
-  ],
-  [
-    "RE:STORE",
-    "RESTORE:",
-    "Restore",
-    "Restore:",
-    "restore:",
-    "restore::"
-  ],
-  [
-    "REDBOX"
-  ],
-  [
-    "REDMOND"
-  ],
-  [
-    "REMEZ",
-    "Remez"
-  ],
-  [
-    "REMINGTON"
-  ],
-  [
-    "RENATO SHAVALI",
-    "Renato Shavali"
-  ],
-  [
-    "RENDEZ-VOUS",
-    "Rendez-Vous",
-    "Rendez-vous"
-  ],
-  [
-    "REPLAY",
-    "Replay"
-  ],
-  [
-    "RESONANCE"
-  ],
-  [
-    "RESPECT",
-    "Respect",
-    "respect"
-  ],
-  [
-    "RIANI"
-  ],
-  [
-    "RIANTY"
-  ],
-  [
-    "RICE"
-  ],
-  [
-    "RIGHT HOPS"
-  ],
-  [
-    "RINASCIMENTO"
-  ],
-  [
-    "RIVALLI",
-    "Rivalli"
-  ],
-  [
-    "ROBERTO BRAVO",
-    "Roberto Bravo"
-  ],
-  [
-    "ROLLS & BOWLS"
-  ],
-  [
-    "RONI Green House",
-    "RONI green house"
-  ],
-  [
-    "ROSTIC'S",
-    "Rostic's"
-  ],
-  [
-    "ROY ROBSON"
-  ],
-  [
-    "ROYAL SPIRIT"
-  ],
-  [
-    "RS 1912 РУССКИЕ САМОЦВЕТЫ",
-    "RS 1912 Русские самоцветы"
-  ],
-  [
-    "RUBY"
-  ],
-  [
-    "RUNWAY BEAUTY"
-  ],
-  [
-    "Rafam"
-  ],
-  [
-    "Raketa"
-  ],
-  [
-    "RamenBowl"
-  ],
-  [
-    "Ray-Ban"
-  ],
-  [
-    "Re Kids"
-  ],
-  [
-    "Red September"
-  ],
-  [
-    "Redecoro"
-  ],
-  [
-    "Redmond Smart Home"
-  ],
-  [
-    "Reiker"
-  ],
-  [
-    "Rely"
-  ],
-  [
-    "Respect (Северное здание)"
-  ],
-  [
-    "Respect (Южное здание)"
-  ],
-  [
-    "Respect Premium"
-  ],
-  [
-    "Rieker"
-  ],
-  [
-    "Robinzon"
-  ],
-  [
-    "RollWok club"
-  ],
-  [
-    "Roman Holidays"
-  ],
-  [
-    "Romanova"
-  ],
-  [
-    "Roomika"
-  ],
-  [
-    "Rostiс's"
-  ],
-  [
-    "Royal Rabbit"
-  ],
-  [
-    "Royal Rabbit (Временно закрыт)"
-  ],
-  [
-    "Ruf Mark Exclusive"
-  ],
-  [
-    "Rumia"
-  ],
-  [
-    "S PARFUM&COSMETICS",
-    "S Parfum&Cosmetics"
-  ],
-  [
-    "S Parfum"
-  ],
-  [
-    "S Parfum & Cosmetics"
-  ],
-  [
-    "S Parfum (остров)"
-  ],
-  [
-    "S-Style"
-  ],
-  [
-    "S-parfum"
-  ],
-  [
-    "SABBIA"
-  ],
-  [
-    "SABOO",
-    "Saboo"
-  ],
-  [
-    "SALAMANDER"
-  ],
-  [
-    "SALTENAS"
-  ],
-  [
-    "SALVATINI",
-    "Salvatini"
-  ],
-  [
-    "SALVATORE BERSANI"
-  ],
-  [
-    "SAMSUNG",
-    "Samsung"
-  ],
-  [
-    "SANETTA"
-  ],
-  [
-    "SARTO REALE",
-    "Sarto Reale"
-  ],
-  [
-    "SARTO REALE DIAMOND"
-  ],
-  [
-    "SAVAGE"
-  ],
-  [
-    "SEKVOYA"
-  ],
-  [
-    "SELA",
-    "Sela"
-  ],
-  [
-    "SELA moms & monsters"
-  ],
-  [
-    "SELFMADE"
-  ],
-  [
-    "SEMINNA JEWEL"
-  ],
-  [
-    "SERA"
-  ],
-  [
-    "SERGINNETTI",
-    "Serginnetti"
-  ],
-  [
-    "SEVEN LAB"
-  ],
-  [
-    "SEVINGIN"
-  ],
-  [
-    "SHAKE"
-  ],
-  [
-    "SHARM"
-  ],
-  [
-    "SHOESMARKET"
-  ],
-  [
-    "SHU"
-  ],
-  [
-    "SILVER & SILVER"
-  ],
-  [
-    "SIMPLE WINE ВИНОТЕКА",
-    "Винотека Simple Wine"
-  ],
-  [
-    "SKAND"
-  ],
-  [
-    "SKDESIGN"
-  ],
-  [
-    "SMART DEVICE"
-  ],
-  [
-    "SMOKE POINT"
-  ],
-  [
-    "SMP RACING ESPORTS"
-  ],
-  [
-    "SNEAKERBOX",
-    "SneakerBOX",
-    "SneakerBox",
-    "sneakerbox"
-  ],
-  [
-    "SO BRIGHT"
-  ],
-  [
-    "SOCIAL MARKET"
-  ],
-  [
-    "SODAMODA"
-  ],
-  [
-    "SOKOLOV",
-    "Sokolov"
-  ],
-  [
-    "SOKOLOV Jewelry"
-  ],
-  [
-    "SOKOLOV PREMIUM",
-    "SOKOLOV Premium",
-    "SOKOLOV premium"
-  ],
-  [
-    "SOME PEOPLE"
-  ],
-  [
-    "SOUL IN THE BOWL",
-    "Soul in the Bowl"
-  ],
-  [
-    "SOULA"
-  ],
-  [
-    "STAR HIT CAFE"
-  ],
-  [
-    "STARS COFFEE",
-    "Stars Coffee"
-  ],
-  [
-    "STEFANISET"
-  ],
-  [
-    "STICKS SUSHI&WINE BAR"
-  ],
-  [
-    "STILL HOME"
-  ],
-  [
-    "STREET BEAT",
-    "Street Beat"
-  ],
-  [
-    "STREET BEAT KIDS"
-  ],
-  [
-    "STRELLSON",
-    "Strellson"
-  ],
-  [
-    "STYLINT"
-  ],
-  [
-    "STYLISH LADY"
-  ],
-  [
-    "STYLISTE"
-  ],
-  [
-    "SUBORBIA"
-  ],
-  [
-    "SUNLIGHT",
-    "Sunlight"
-  ],
-  [
-    "SUNNY SON"
-  ],
-  [
-    "SUPER STEP"
-  ],
-  [
-    "SUPERSTEP",
-    "SuperStep"
-  ],
-  [
-    "SURF COFFEE",
-    "Surf Coffee"
-  ],
-  [
-    "SUSHI"
-  ],
-  [
-    "SUSHI BOOFFET"
-  ],
-  [
-    "SVYATAYA"
-  ],
-  [
-    "SWAROVSKI",
-    "Swarovski"
-  ],
-  [
-    "SWEET LAVKA",
-    "Sweet Lavka"
-  ],
-  [
-    "SWEETY",
-    "Sweety"
-  ],
-  [
-    "SWG Светодиодное освещение"
-  ],
-  [
-    "SWISS MADE"
-  ],
-  [
-    "Saffrоn"
-  ],
-  [
-    "Salmo"
-  ],
-  [
-    "Samsung, фирменный магазин"
-  ],
-  [
-    "Scalpers"
-  ],
-  [
-    "Scandale Maniere"
-  ],
-  [
-    "Scandale Maniére"
-  ],
-  [
-    "Scandalis"
-  ],
-  [
-    "SeGeT"
-  ],
-  [
-    "Season Style"
-  ],
-  [
-    "Season Style (остров)"
-  ],
-  [
-    "Secret Crush"
-  ],
-  [
-    "Selfie Nails & Beauty Club"
-  ],
-  [
-    "Serginetti"
-  ],
-  [
-    "Shake UP",
-    "Shake Up"
-  ],
-  [
-    "Shaurmen"
-  ],
-  [
-    "Silver Spoon"
-  ],
-  [
-    "Simoni Mariotti"
-  ],
-  [
-    "SimpleWine",
-    "Simplewine"
-  ],
-  [
-    "Sisley"
-  ],
-  [
-    "SkoBeLev"
-  ],
-  [
-    "Smartdevice"
-  ],
-  [
-    "Smoklike"
-  ],
-  [
-    "Sneaker Box"
-  ],
-  [
-    "Soda"
-  ],
-  [
-    "Soho Dolce"
-  ],
-  [
-    "SolarX"
-  ],
-  [
-    "Soloton"
-  ],
-  [
-    "Space Case"
-  ],
-  [
-    "Sport By Smartdevice"
-  ],
-  [
-    "StarHit Cafe"
-  ],
-  [
-    "Steak it Easy"
-  ],
-  [
-    "Stella Shop"
-  ],
-  [
-    "Step by Step"
-  ],
-  [
-    "Storiz-"
-  ],
-  [
-    "Stratopacks"
-  ],
-  [
-    "Strobbs"
-  ],
-  [
-    "Studio 29"
-  ],
-  [
-    "Subway"
-  ],
-  [
-    "Suitsupply"
-  ],
-  [
-    "Summer Love"
-  ],
-  [
-    "Sun Fusion"
-  ],
-  [
-    "Sun Kiss"
-  ],
-  [
-    "Sunlight (скоро открытие)"
-  ],
-  [
-    "Sunlight КИОСК"
-  ],
-  [
-    "Sunsolo киоск"
-  ],
-  [
-    "Sushi Buffet"
-  ],
-  [
-    "Swatch"
-  ],
-  [
-    "Sweet Cat Shop"
-  ],
-  [
-    "T&M одежда аксессуары"
-  ],
-  [
-    "T2"
-  ],
-  [
-    "TAMARIS",
-    "Tamaris"
-  ],
-  [
-    "TEACHA"
-  ],
-  [
-    "TEFAL",
-    "Tefal"
-  ],
-  [
-    "TELE 2"
-  ],
-  [
-    "TELE2(остров)"
-  ],
-  [
-    "TERRANOVA",
-    "Terranova"
-  ],
-  [
-    "TESORO"
-  ],
-  [
-    "TEZENIS",
-    "Tezenis"
-  ],
-  [
-    "TGI FRIDAYS",
-    "TGI Fridays"
-  ],
-  [
-    "THAI KITCHEN"
-  ],
-  [
-    "THE ACT",
-    "The Act"
-  ],
-  [
-    "THE BEST KEBAB"
-  ],
-  [
-    "THE STARFALL"
-  ],
-  [
-    "THOMAS MUNZ",
-    "Thomas Munz"
-  ],
-  [
-    "THREE LINES"
-  ],
-  [
-    "TI Selection"
-  ],
-  [
-    "TI TREND ISLAND"
-  ],
-  [
-    "TISSOT"
-  ],
-  [
-    "TJ COLLECTION",
-    "TJ Collection"
-  ],
-  [
-    "TO BE ONE"
-  ],
-  [
-    "TOGAS",
-    "Togas"
-  ],
-  [
-    "TOKIO RAMEN",
-    "Tokio Ramen"
-  ],
-  [
-    "TOM TAILOR",
-    "Tom Tailor"
-  ],
-  [
-    "TOMATINO"
-  ],
-  [
-    "TOOKaLOOK"
-  ],
-  [
-    "TOP GUN Barbershop"
-  ],
-  [
-    "TOPTOP"
-  ],
-  [
-    "TORRO GRILL",
-    "Torro  Grill"
-  ],
-  [
-    "TOTTI KIDS"
-  ],
-  [
-    "TOUS",
-    "Tous"
-  ],
-  [
-    "TOYOSU",
-    "Toyosu"
-  ],
-  [
-    "TOYS PRO",
-    "Toys Pro"
-  ],
-  [
-    "TRIBUNA",
-    "Tribuna"
-  ],
-  [
-    "TRUE RED"
+    "МОИ ДОКУМЕНТЫ"
   ],
   [
     "TRUSSARDI"
   ],
   [
-    "TRUVOR"
-  ],
-  [
-    "TUTTI FRUTTI FROZEN YOGURT"
-  ],
-  [
-    "TWIN SET"
-  ],
-  [
-    "TWINSET",
-    "Twinset"
-  ],
-  [
-    "TWINSET х MARC CAIN"
-  ],
-  [
-    "TWOOL"
-  ],
-  [
-    "Tacticool"
-  ],
-  [
-    "Taksim"
-  ],
-  [
-    "TaksimMaydan"
-  ],
-  [
-    "Tara Jarmon"
-  ],
-  [
-    "Tasty Thai"
-  ],
-  [
-    "TatiKa"
-  ],
-  [
-    "Teahiro"
-  ],
-  [
-    "Teenstories"
-  ],
-  [
-    "TeikaBoom"
-  ],
-  [
-    "Tele2"
-  ],
-  [
-    "Terenzi"
-  ],
-  [
-    "Tezido"
-  ],
-  [
-    "Thai Food"
-  ],
-  [
-    "The Candy Bar"
-  ],
-  [
-    "The Case"
-  ],
-  [
-    "The Men's Club"
-  ],
-  [
-    "The Бык"
-  ],
-  [
-    "The Бык (скоро открытие)"
-  ],
-  [
-    "Theta"
-  ],
-  [
-    "Thunderobot"
-  ],
-  [
-    "Tiflani"
-  ],
-  [
-    "Tiki Toy (остров)"
-  ],
-  [
-    "To Be Blossom"
-  ],
-  [
-    "Tobaccer"
-  ],
-  [
-    "Tommy Hilfiger"
-  ],
-  [
-    "Tommy Jeans"
-  ],
-  [
-    "Tommy's Friends"
-  ],
-  [
-    "Tondo Jewelry"
-  ],
-  [
-    "Top Gun"
-  ],
-  [
-    "TopTop.ru"
-  ],
-  [
-    "Toy Dreams"
-  ],
-  [
-    "Trailhead"
-  ],
-  [
-    "Trend Island"
-  ],
-  [
-    "Trendsettica"
-  ],
-  [
-    "Tsleep Premium Bedrooms"
-  ],
-  [
-    "U.S. POLO ASSN. (AR Fashion)",
-    "U.S. Polo Assn. (AR Fashion)"
-  ],
-  [
-    "U.S. Polo Assn."
-  ],
-  [
-    "UDC"
-  ],
-  [
-    "UFC GYM"
-  ],
-  [
-    "UMI UMI"
-  ],
-  [
-    "UNDERYOU"
-  ],
-  [
-    "UNIQUE FABRIC"
-  ],
-  [
-    "UNITED COLORS OF BENETTON",
-    "United Colors of Benetton"
-  ],
-  [
-    "UNO soul",
-    "Uno Soul"
-  ],
-  [
-    "UNOde50"
-  ],
-  [
-    "URBANTIGER"
-  ],
-  [
-    "UVI"
-  ],
-  [
-    "UVI JEWELLERY"
-  ],
-  [
-    "Ummami"
-  ],
-  [
-    "UmnoRazumno"
-  ],
-  [
-    "Unisof"
-  ],
-  [
-    "United Colors"
-  ],
-  [
-    "Up Food (остров)"
-  ],
-  [
-    "Urban Vibes"
-  ],
-  [
-    "Ushatava"
-  ],
-  [
-    "Usual Suspects"
-  ],
-  [
-    "VAN CLIFF",
-    "Van Cliff"
-  ],
-  [
-    "VANWOK"
-  ],
-  [
-    "VANWOK noodle bar"
-  ],
-  [
-    "VASIF KASUMOV"
-  ],
-  [
-    "VASILCHUKI"
-  ],
-  [
-    "VASILCHUKI CHAIHONA №1"
-  ],
-  [
-    "VASILCHUKI Ресторан",
-    "Ресторан Vasilchuki"
-  ],
-  [
-    "VASSA&Co"
-  ],
-  [
-    "VASSA&amp;Co"
-  ],
-  [
-    "VELES"
-  ],
-  [
-    "VELVERDE"
-  ],
-  [
-    "VERY NEAT"
-  ],
-  [
-    "VICCI HOME"
-  ],
-  [
-    "VILET",
-    "Vilet"
-  ],
-  [
-    "VITTORIA VICCI",
-    "Vittoria Vicci"
-  ],
-  [
-    "VIVA LA VIKA",
-    "Viva La Vika",
-    "Viva la Vika",
-    "Viva la vika"
-  ],
-  [
-    "VIVA MODA"
-  ],
-  [
-    "VIVASPORT"
-  ],
-  [
-    "VOLЯ WEAR"
-  ],
-  [
     "VOSQ"
   ],
   [
-    "VR Games"
+    "ACCENT"
   ],
   [
-    "VR-park"
+    "BARCELO BIAGI"
   ],
   [
-    "VUA PHO/WON CHA"
-  ],
-  [
-    "VUA-LYA"
-  ],
-  [
-    "VV"
-  ],
-  [
-    "Van House"
-  ],
-  [
-    "Velvetin Jewellery (остров)"
-  ],
-  [
-    "Victoria Tretyak"
-  ],
-  [
-    "Vita Juice"
-  ],
-  [
-    "VitoKids"
-  ],
-  [
-    "Viva La Vita"
-  ],
-  [
-    "Vostorg (остров)"
-  ],
-  [
-    "VЛАVАШЕ"
-  ],
-  [
-    "WARPOINT"
-  ],
-  [
-    "WATCHSPORT",
-    "Watchsport"
-  ],
-  [
-    "WEEKEND MAX MARA",
-    "Weekend Max Mara"
-  ],
-  [
-    "WILLIAMS OLIVER"
-  ],
-  [
-    "WOLFORD",
-    "Wolford"
-  ],
-  [
-    "WOMEN'SECRET",
-    "Women'Secret",
-    "Women’Secret"
-  ],
-  [
-    "WOW BROW"
-  ],
-  [
-    "WRAP ME упаковка подарков"
-  ],
-  [
-    "Weekend MaxMara"
-  ],
-  [
-    "Williams Et Oliver"
-  ],
-  [
-    "Wizzluv"
-  ],
-  [
-    "Wok&Box"
-  ],
-  [
-    "Women' secret"
-  ],
-  [
-    "WoolStreet"
-  ],
-  [
-    "Wrangler"
-  ],
-  [
-    "Wrap me"
-  ],
-  [
-    "X-mobile"
-  ],
-  [
-    "X.O."
-  ],
-  [
-    "XC"
-  ],
-  [
-    "XIAOMI",
-    "Xiaomi"
-  ],
-  [
-    "XL Media"
-  ],
-  [
-    "Xiaomi (остров)"
-  ],
-  [
-    "YAMAGUCHI",
-    "Yamaguchi"
-  ],
-  [
-    "YOKO"
-  ],
-  [
-    "YOLLO",
-    "Yollo"
-  ],
-  [
-    "YOTA"
-  ],
-  [
-    "YOU"
-  ],
-  [
-    "YOU WANNA",
-    "You Wanna"
-  ],
-  [
-    "YOUSTORE"
-  ],
-  [
-    "YSOU"
-  ],
-  [
-    "YaModa",
-    "Yamoda"
-  ],
-  [
-    "Yamaguchi (Северное здание)"
-  ],
-  [
-    "Yamaguchi (Южное здание)"
-  ],
-  [
-    "Yammi mix"
-  ],
-  [
-    "Yves Rocher"
-  ],
-  [
-    "ZAMM"
-  ],
-  [
-    "ZARINA",
-    "Zarina"
-  ],
-  [
-    "ZASPORT"
-  ],
-  [
-    "ZEISS VISION CENTER"
-  ],
-  [
-    "ZEISS Vision One"
-  ],
-  [
-    "ZENDEN"
-  ],
-  [
-    "ZIMA&LETO"
-  ],
-  [
-    "ZINGAL RICHE PREMIUM"
-  ],
-  [
-    "ZNWR"
-  ],
-  [
-    "ZOLLA",
-    "Zolla"
-  ],
-  [
-    "ZUMITA"
-  ],
-  [
-    "Zafferano"
-  ],
-  [
-    "Zames"
-  ],
-  [
-    "Zeiss"
-  ],
-  [
-    "Zest Coffee & Wine"
-  ],
-  [
-    "Zielinski & Rozen"
-  ],
-  [
-    "ZimaLetto",
-    "Zimaletto"
-  ],
-  [
-    "ZЧУДУ"
-  ],
-  [
-    "[Corner]"
+    "Всё Смарт"
   ],
   [
     "aks!(остров)"
   ],
   [
-    "ambi.land"
+    "Банк Юнистрим"
   ],
   [
-    "de bon ton"
+    "Gvido Gelato"
   ],
   [
-    "divan.ru"
+    "Aubade"
   ],
   [
-    "gf.italia"
+    "Мультифото"
   ],
   [
-    "iORO"
+    "U.S. Polo ASSN",
+    "U.S. Polo Assn."
   ],
   [
-    "inni"
+    "FRANCESCO DONNI"
   ],
   [
-    "kod"
+    "СТИЛЬПАРК"
   ],
   [
-    "lady & gentleman STREET"
+    "Arny Praht"
   ],
   [
-    "loomknits"
+    "Avata Club"
   ],
   [
-    "nininono"
+    "БУРГЕР КИНГ (Южное здание)"
   ],
   [
-    "noskinoski"
+    "Miraphone"
   ],
   [
-    "oodji"
+    "ХС"
   ],
   [
-    "post post scriptum"
+    "Ливан Хаус"
   ],
   [
-    "smena"
+    "Motherbear"
   ],
   [
-    "udcкафе"
+    "Naumi"
   ],
   [
-    "vigge cafe"
+    "Ашан",
+    "АШАН"
   ],
   [
-    "wandu"
+    "TOP GUN Barbershop"
   ],
   [
-    "«Подружка»",
-    "ПОДРУЖКА",
-    "Подружка",
-    "подружка"
+    "CHESTER"
   ],
   [
-    "«Хлеб с маслом»",
-    "Хлеб с Маслом",
-    "Хлеб с маслом"
+    "Tele2"
   ],
   [
-    "ÉCLATA"
+    "Унция"
   ],
   [
-    "А4 МАГАЗИН",
-    "А4 Магазин",
-    "А4 магазин"
+    "ДОМ ОБОЕВ ПРЕМЬЕР"
   ],
   [
-    "А4KidsCity"
+    "Storiz-"
   ],
   [
-    "АВАНГАРД"
+    "Л’Окситан"
   ],
   [
-    "АВТОБЫСТРО"
+    "JEANS CLUB"
   ],
   [
-    "АВТОМОЙКА СЕНАТОР-АВТО"
+    "Q Store",
+    "Q store"
   ],
   [
-    "АЙКРАФТ"
+    "Bafi"
   ],
   [
-    "АЙКРАФТ ОПТИКА",
-    "Айкрафт Оптика",
+    "SHOESMARKET"
+  ],
+  [
+    "Sweet Cat Shop"
+  ],
+  [
+    "Долина Солнца"
+  ],
+  [
+    "BY KAORI"
+  ],
+  [
+    "GEOX kids"
+  ],
+  [
+    "NO ONE"
+  ],
+  [
+    "Мультимастер"
+  ],
+  [
+    "Rivalli"
+  ],
+  [
+    "Ёгурти"
+  ],
+  [
+    "Art Fiera"
+  ],
+  [
+    "Marella"
+  ],
+  [
+    "Good Food Bowl"
+  ],
+  [
+    "Rely"
+  ],
+  [
+    "Tutti Frutti Frozen Yogurt",
+    "TUTTI FRUTTI FROZEN YOGURT"
+  ],
+  [
+    "Вкусно — и точка"
+  ],
+  [
+    "О! Эскимо (Временно закрыт)"
+  ],
+  [
+    "KIKO Милан"
+  ],
+  [
     "Айкрафт оптика"
   ],
   [
-    "АЙРОН"
+    "буше"
   ],
   [
-    "АКМ"
+    "УПАКОВКА ПОДАРКОВ"
   ],
   [
-    "АЛЁНКА",
-    "Алёнка"
+    "Дым Пар"
   ],
   [
-    "АЛЬФА-БАНК БАНКОМАТ",
-    "Банкомат АЛЬФА-БАНК"
+    "Amur by Marushik"
   ],
   [
-    "АМИ КОВРЫ"
-  ],
-  [
-    "АНГСТРЕМ"
-  ],
-  [
-    "АПРИОРИ",
-    "Априори"
-  ],
-  [
-    "АПРИОРИ DELUXE"
-  ],
-  [
-    "АПТЕКА 36'6",
-    "АПТЕКА 36,6",
-    "Аптека 36,6",
-    "Аптека 36.6"
-  ],
-  [
-    "АРТ-РАМА"
-  ],
-  [
-    "АТЕЛЬЕ СЕРЖ"
-  ],
-  [
-    "АШАН",
-    "Ашан"
-  ],
-  [
-    "АШАН Сити"
-  ],
-  [
-    "Авторские букеты MONTE LUXE"
-  ],
-  [
-    "Адамас"
-  ],
-  [
-    "Азбука Фермы"
-  ],
-  [
-    "Академия Бриллиантов"
-  ],
-  [
-    "Аленка"
-  ],
-  [
-    "Альфа мануфактура"
-  ],
-  [
-    "Аптека"
-  ],
-  [
-    "Аптека 36.6 (1 этаж)"
-  ],
-  [
-    "Аптека 36.6 (2 этаж)"
-  ],
-  [
-    "Аптека АЛОЭ"
-  ],
-  [
-    "Аптека Планета Здоровья"
-  ],
-  [
-    "Аптеки «36,6»"
-  ],
-  [
-    "Армянские деликатесы"
-  ],
-  [
-    "Ассортимент"
-  ],
-  [
-    "Ателье Орликов"
-  ],
-  [
-    "БАГРАТИОН"
-  ],
-  [
-    "БАНК АВАНГАРД"
-  ],
-  [
-    "БАНК ЗЕНИТ"
-  ],
-  [
-    "БАНКЕТНЫЙ ЗАЛ"
-  ],
-  [
-    "БАРБЕРШОП 13 by TIMATI"
+    "SWEET WORD"
   ],
   [
     "БАРСЛОНА"
   ],
   [
-    "БЕРЕГИ"
+    "Vittoria Vicci"
   ],
   [
-    "БЕСТИАРИЙ МУЗЕЙ"
+    "Спортивная атрибутика \"Goalactica\""
   ],
   [
-    "БЕШ МАНТЫ"
+    "MIE"
   ],
   [
-    "БИКОС"
+    "SINNERS"
   ],
   [
-    "БРИЛЛИАНТЫ ЯКУТИИ",
-    "Бриллианты Якутии"
+    "Biorise"
   ],
   [
-    "БРОННИЦКИЙ ЮВЕЛИР",
-    "Бронницкий Ювелир",
-    "Бронницкий ювелир"
+    "Macaronika"
+  ],
+  [
+    "Суши Маркет"
+  ],
+  [
+    "PDPAOLA"
+  ],
+  [
+    "ANEX Tour"
+  ],
+  [
+    "BREUNING"
+  ],
+  [
+    "Шантимель"
+  ],
+  [
+    "Летние Ягоды"
+  ],
+  [
+    "BRAND KEEPER (остров)"
+  ],
+  [
+    "Bani"
+  ],
+  [
+    "Eat Market"
+  ],
+  [
+    "ЗАГОРАЕМ"
+  ],
+  [
+    "AME"
+  ],
+  [
+    "MOSWEET"
+  ],
+  [
+    "Mila аксессуары"
+  ],
+  [
+    "Cosmozar"
+  ],
+  [
+    "TRUVOR"
+  ],
+  [
+    "ПЕРВЫЙ ИНВЕСТИЦИОННЫЙ БАНК"
+  ],
+  [
+    "DNS"
+  ],
+  [
+    "Orenshal (скоро открытие)"
   ],
   [
     "БУРГЕР КИНГ",
     "Бургер Кинг"
   ],
   [
-    "БУРГЕР КИНГ (Северное здание)"
+    "NCF"
   ],
   [
-    "БУРГЕР КИНГ (Южное здание)"
+    "Аптека 36.6 (2 этаж)"
   ],
   [
-    "БУТИК DE LUNETTES"
+    "CarPrice"
   ],
   [
-    "БУТИК РУССКОГО МАСТЕРСТВА №1"
+    "Hogl"
   ],
   [
-    "Баварская кухня"
+    "RE Man"
   ],
   [
-    "Баклажан"
+    "PAUL (Временно закрыто)"
   ],
   [
-    "Банк Юнистрим"
+    "12 Storeez"
   ],
   [
-    "Банкомат Райффайзен Банка"
+    "ВЫСОТНЫЙ ГОРОД"
   ],
   [
-    "Банкомат СБЕРБАНК",
-    "СБЕРБАНК БАНКОМАТ"
-  ],
-  [
-    "Банкомат Т-Банк",
-    "Т-БАНК банкомат"
-  ],
-  [
-    "Бар BQ кафе"
-  ],
-  [
-    "Бахетле"
-  ],
-  [
-    "Беларускi Лён"
-  ],
-  [
-    "Белорусская косметика"
-  ],
-  [
-    "Белорусские"
-  ],
-  [
-    "Белый Кролик"
-  ],
-  [
-    "Белый барашка"
-  ],
-  [
-    "Бетховен"
-  ],
-  [
-    "Билайн"
-  ],
-  [
-    "Бобрик Добрик"
-  ],
-  [
-    "Большая кухня"
-  ],
-  [
-    "Бренд"
-  ],
-  [
-    "Бренд Melburg"
-  ],
-  [
-    "Бренд Strellson"
-  ],
-  [
-    "Бронницкий ювелир (остров)"
-  ],
-  [
-    "Буквоед"
-  ],
-  [
-    "Буммагия"
-  ],
-  [
-    "Быстрая"
-  ],
-  [
-    "ВКУСНО - И ТОЧКА",
-    "Вкусно - и точка",
-    "Вкусно – и точка",
-    "Вкусно — и точка"
-  ],
-  [
-    "ВКУСНЯШКА"
-  ],
-  [
-    "ВО ИМЯ РОЗЫ"
-  ],
-  [
-    "ВОИН"
-  ],
-  [
-    "ВОЛШЕБСТВО ДЕРЕВА"
-  ],
-  [
-    "ВОЛЬТ-СИТИ"
-  ],
-  [
-    "ВООБРАЖУЛЯ"
-  ],
-  [
-    "ВСЁСМАРТ",
-    "Всёсмарт"
-  ],
-  [
-    "ВТБ БАНКОМАТ"
-  ],
-  [
-    "Вай Мэ!"
-  ],
-  [
-    "Вареничная №1"
-  ],
-  [
-    "Варяг Спортпарк"
-  ],
-  [
-    "Ваш Размер"
-  ],
-  [
-    "Вдохновение"
-  ],
-  [
-    "Великоросс"
-  ],
-  [
-    "Веломарка (Временно закрыто)"
-  ],
-  [
-    "Верность качеству"
-  ],
-  [
-    "Верфь"
-  ],
-  [
-    "Веселая затея"
-  ],
-  [
-    "Весёлая Затея",
-    "Весёлая затея"
-  ],
-  [
-    "Визардия. Страна Волшебников"
-  ],
-  [
-    "Виртуальная реальность VRPASS"
-  ],
-  [
-    "ВкусВилл",
-    "Вкусвилл"
-  ],
-  [
-    "Вкусно — и точка (Северное здание)"
-  ],
-  [
-    "Вкусно — и точка (Южное здание)"
-  ],
-  [
-    "Воскресение"
-  ],
-  [
-    "Воспользуйтесь"
-  ],
-  [
-    "Восточный Караван (остров)"
-  ],
-  [
-    "Восточный экспресс"
-  ],
-  [
-    "Времена"
-  ],
-  [
-    "Все"
-  ],
-  [
-    "Всё Смарт"
-  ],
-  [
-    "ВьетКафе"
-  ],
-  [
-    "ГАЗПРОМБАНК"
-  ],
-  [
-    "ГАЗПРОМБАНК банкомат"
-  ],
-  [
-    "ГАЛАТЕЯ"
-  ],
-  [
-    "ГЕСТИЯ ШТОРЫ"
-  ],
-  [
-    "ГЛАВТАБАК"
-  ],
-  [
-    "ГОВЯDИНА"
-  ],
-  [
-    "ГОРЗДРАВ"
-  ],
-  [
-    "ГОРОД ИГРУШЕК",
-    "Город Игрушек"
-  ],
-  [
-    "Гавань мастеров"
-  ],
-  [
-    "Гаджет"
-  ],
-  [
-    "Галата"
-  ],
-  [
-    "Гамарджоба Генацвале"
-  ],
-  [
-    "Гармония Флора"
-  ],
-  [
-    "Гармония цвета"
-  ],
-  [
-    "Гипермаркет"
-  ],
-  [
-    "Глав Табак"
-  ],
-  [
-    "Грик Сувлаки"
-  ],
-  [
-    "Грузинские каникулы"
-  ],
-  [
-    "Грузинский Бульвар"
-  ],
-  [
-    "Группа"
-  ],
-  [
-    "Гудман"
-  ],
-  [
-    "ДВЕРИ БЕЛОРУССИИ"
-  ],
-  [
-    "ДЕТСКИЙ МИР",
-    "Детский Мир",
-    "Детский мир"
-  ],
-  [
-    "ДИК"
-  ],
-  [
-    "ДОДО ПИЦЦА"
-  ],
-  [
-    "ДОКТОР СЛОН"
-  ],
-  [
-    "ДОКТОР СТОЛЕТОВ",
-    "Доктор Столетов"
-  ],
-  [
-    "ДОМ БЫТА"
-  ],
-  [
-    "ДОМ БЫТА.COM"
-  ],
-  [
-    "ДОМ ОБОЕВ ПРЕМЬЕР"
-  ],
-  [
-    "ДОМАРКЕТ"
-  ],
-  [
-    "ДОМОВОЙ"
-  ],
-  [
-    "ДЯТЬКОВО DESIGN",
-    "Дятьково Design"
-  ],
-  [
-    "Два мяча"
-  ],
-  [
-    "Двери Гранит"
-  ],
-  [
-    "Девиз"
-  ],
-  [
-    "День"
-  ],
-  [
-    "День Сурка",
-    "День сурка"
-  ],
-  [
-    "Дети в моде"
-  ],
-  [
-    "Детский парк развлечений \"Опушка\""
-  ],
-  [
-    "Джинсовый"
-  ],
-  [
-    "Джинсовый Мир"
-  ],
-  [
-    "Димсамы"
-  ],
-  [
-    "Для"
-  ],
-  [
-    "Долина Солнца"
-  ],
-  [
-    "Дом"
-  ],
-  [
-    "Дом Попугаев"
-  ],
-  [
-    "Дым Пар"
-  ],
-  [
-    "ЕДА ТУТ"
-  ],
-  [
-    "ЕМКА",
-    "Емка"
-  ],
-  [
-    "Евродом"
+    "Consul"
   ],
   [
     "ЖИВОЙ КОЛЛАГЕН"
   ],
   [
-    "Желтая Витрина"
+    "ЭЛИЗЭ"
   ],
   [
-    "ЗАГОРАЕМ"
+    "PURE STONE"
   ],
   [
-    "ЗАПОВЕДНАЯ ПОЛЯНА"
+    "Elemis"
   ],
   [
-    "ЗЛАТОГРАД"
+    "Teenstories"
   ],
   [
-    "ЗОВ | Кухни Беларуси"
+    "OBI"
   ],
   [
-    "ЗОЛОТОЕ ЯБЛОКО",
-    "Золотое Яблоко"
+    "Charuel"
   ],
   [
-    "ЗОЛОТОЙ ПРИИСК"
+    "Солярий клуб SUN&CITY"
   ],
   [
-    "ЗООГАЛЕРЕЯ"
+    "Bibibs&Co"
   ],
   [
-    "Забыли Сахар"
+    "Asia st 71"
   ],
   [
-    "Знаменитый"
+    "Верфь"
   ],
   [
-    "Зона WiFi"
+    "VR Arena"
   ],
   [
-    "Зоозавр"
+    "Фабрика"
   ],
   [
-    "ИВ РОШЕ",
-    "Ив Роше"
+    "Boboli"
+  ],
+  [
+    "GLVR"
+  ],
+  [
+    "GOLDWAY"
   ],
   [
     "ИЛЬ ДЕ БОТЭ"
   ],
   [
-    "ИМПЕРИЯ ДЕТСТВА",
-    "Империя детства"
+    "Boggi Milano"
   ],
   [
-    "ИНТЕРЬЕР-КУПЕ"
+    "Misha&Teddy"
   ],
   [
-    "Игровая комната Bricobilandia"
+    "REDMOND"
   ],
   [
-    "Иджеван"
+    "CLIMBER"
   ],
   [
-    "Издательство Clever"
+    "Asia Wok Food"
   ],
   [
-    "Имидж-лаборатория \"Персона\""
-  ],
-  [
-    "Императорский фарфор"
-  ],
-  [
-    "Империя Сумок"
-  ],
-  [
-    "Империя Фэн Шуй"
-  ],
-  [
-    "Инсам"
-  ],
-  [
-    "Интерьерные решения ARISTO"
-  ],
-  [
-    "Интим-бутик «Черная кошка»"
-  ],
-  [
-    "Инфостойка"
-  ],
-  [
-    "Испанский"
-  ],
-  [
-    "Итальянская"
-  ],
-  [
-    "Итальянская лавка"
-  ],
-  [
-    "КАНТАТА",
     "Кантата"
   ],
   [
-    "КАПИТАН МАРМЕЛАД",
-    "Капитан Мармелад"
+    "Women' secret",
+    "Women’ Secret"
   ],
   [
-    "КАРО ФИЛЬМ Атриум"
+    "Subway",
+    "SUBWAY"
   ],
   [
-    "КВАРТАЛ ДИВАНОВ"
+    "Tamaris"
   ],
   [
-    "КОЖИНКА",
-    "Кожинка"
+    "TJ COLLECTION",
+    "TJ Collection"
   ],
   [
-    "КОМFОРТ ОБУВЬ"
+    "Парк бабочек"
   ],
   [
-    "КОНФАЭЛЬ"
+    "JUICE CITY"
   ],
   [
-    "КОНЦЕПЦИЯ ЗДОРОВЬЯ"
+    "TRUE RED"
   ],
   [
-    "КОТОФЕЙ",
-    "Котофей"
+    "TOOKaLOOK"
   ],
   [
-    "КРАНЧИ ДРИМ",
-    "Кранчи Дрим",
-    "Кранчи Дрим."
+    "PROSKATE"
   ],
   [
-    "КРАСКИ ДИЗАЙН СТУДИЯ"
+    "PITERLAND HOTEL"
   ],
   [
-    "КРАСКИ.РУ"
+    "Читай-город"
   ],
   [
-    "КРАСНАЯ МАШИНА",
-    "Красная Машина"
+    "IRO в ТЦ Метрополис"
   ],
   [
-    "КРЕДИТ ЕВРОПА БАНК"
+    "VASILCHUKI"
   ],
   [
-    "КРЕДИТ ЕВРОПА БАНК банкомат"
+    "NELVA"
   ],
   [
-    "КРОШКА КАРТОШКА",
-    "Крошка Картошка",
-    "Крошка картошка"
+    "IQ PUZZLE"
   ],
   [
-    "КРЫМСКИЕ ЧЕБУРЕКИ"
+    "Familia"
   ],
   [
-    "КУПИ СЛОНА",
-    "Купи Слона",
-    "Купи слона"
+    "Мидийное место"
   ],
   [
-    "КУХНИ VIERA"
+    "ЗОЛОТАЯ ЛИХОРАДКА"
   ],
   [
-    "КУХНИ ГАРМОНИЯ"
+    "EVOLA"
+  ],
+  [
+    "BEF"
+  ],
+  [
+    "CAMP DAVID|SOCCX"
+  ],
+  [
+    "Michael Kors"
+  ],
+  [
+    "Dragon Mixology Bar"
+  ],
+  [
+    "Сервис упаковки подарков \"O paper paper\""
+  ],
+  [
+    "GERRY WEBER"
+  ],
+  [
+    "PERFEQTUE"
+  ],
+  [
+    "Aksses"
+  ],
+  [
+    "SODAMODA"
+  ],
+  [
+    "HIGH"
   ],
   [
     "КУХНИ ЗОВ"
   ],
   [
-    "Каляев"
+    "Bright Israeli Gril"
   ],
   [
-    "Карамелли"
+    "First in space"
   ],
   [
-    "Карельская форель"
+    "Yamaguchi (Северное здание)"
   ],
   [
-    "Кафе Фритто"
+    "АВАНГАРД"
   ],
   [
-    "Кафе-раменная IKIGAI"
+    "ANNI HAUS"
   ],
   [
-    "Киберпуля"
+    "Meat&Fish"
   ],
   [
-    "Киномакс"
+    "THE BEST KEBAB"
   ],
   [
-    "Киоск Tissot / CK часы"
+    "Albione"
   ],
   [
-    "Клад Мармелад"
+    "Mario Berlucci"
   ],
   [
-    "Клад Мармелад киоск"
+    "BOFT 3 этаж рядом со SneakerBOX"
   ],
   [
-    "Книжный Лабиринт"
+    "O'DETO"
   ],
   [
-    "Колбасофф"
+    "Gipfel Home"
   ],
   [
-    "Комната"
+    "JISCO"
   ],
   [
-    "Компания"
+    "Бренд"
   ],
   [
-    "Компания ADAMAS"
-  ],
-  [
-    "Компания AutoJack"
-  ],
-  [
-    "Компания Roomika"
-  ],
-  [
-    "Компания You Comf"
-  ],
-  [
-    "Компания Ами Ковры"
-  ],
-  [
-    "Комфорт"
-  ],
-  [
-    "Комфортная"
-  ],
-  [
-    "Кондитерская и кафе NIQA"
-  ],
-  [
-    "Кондитория Ромбаба"
-  ],
-  [
-    "Контейнер RE:BOOKS"
-  ],
-  [
-    "Концепт"
-  ],
-  [
-    "Концепция"
-  ],
-  [
-    "Копирка"
-  ],
-  [
-    "Кореана Light"
-  ],
-  [
-    "Корейский вайб"
-  ],
-  [
-    "Косметика KEDMA"
-  ],
-  [
-    "Кофемания"
-  ],
-  [
-    "Кофемания Bez Tarelok"
-  ],
-  [
-    "Крокус Сток"
-  ],
-  [
-    "Крошка-Картошка",
-    "Крошка-картошка"
-  ],
-  [
-    "Крупнейшая"
-  ],
-  [
-    "Крупнейший"
-  ],
-  [
-    "Крупный"
-  ],
-  [
-    "Культура дома"
-  ],
-  [
-    "Кухни «Мария»",
-    "Кухни Мария"
-  ],
-  [
-    "Л'ОКСИТАН",
-    "Л'Окситан",
-    "Л’Окситан",
-    "л'Окситан"
-  ],
-  [
-    "Л'Этуаль",
-    "Л`ЭТУАЛЬ",
-    "ЛЭТУАЛЬ",
-    "Лэтуаль"
-  ],
-  [
-    "ЛÁША Грузинская кухня"
-  ],
-  [
-    "ЛЕОНАРДО",
-    "Леонардо"
-  ],
-  [
-    "ЛЕПИМ И ВАРИМ",
-    "ЛЕПИМ и ВАРИМ"
-  ],
-  [
-    "ЛИНЗМАСТЕР",
-    "Линзмастер"
-  ],
-  [
-    "ЛИНИИ"
-  ],
-  [
-    "ЛИНИИ ЛЮБВИ"
-  ],
-  [
-    "ЛЭТУАЛЬ City of Dreams"
-  ],
-  [
-    "Лабиринт"
-  ],
-  [
-    "Ласси"
-  ],
-  [
-    "Легендарная"
-  ],
-  [
-    "Лемана ПРО"
-  ],
-  [
-    "Ленточка"
-  ],
-  [
-    "Леонардо - Хобби-гипермаркет"
-  ],
-  [
-    "Летние Ягоды"
-  ],
-  [
-    "Лето"
-  ],
-  [
-    "Ливан Хаус"
-  ],
-  [
-    "ЛотС"
-  ],
-  [
-    "Любимый Дом"
-  ],
-  [
-    "Люди ИКС"
-  ],
-  [
-    "Лёксик"
-  ],
-  [
-    "М-РИЗОН"
-  ],
-  [
-    "М. ВИДЕО"
-  ],
-  [
-    "М.ВИДЕО",
-    "М.Видео",
-    "М.видео"
-  ],
-  [
-    "МАКОНТИ"
-  ],
-  [
-    "МАКОФФЧАЙ"
-  ],
-  [
-    "МАКУХИН"
-  ],
-  [
-    "МАЛЕНЬКАЯ ЛЕДИ",
-    "Маленькая Леди"
-  ],
-  [
-    "МАНИКЮР EXPRESS"
-  ],
-  [
-    "МАРМЕЛАДНЫЙ КАПИТАН",
-    "Мармеладный капитан"
-  ],
-  [
-    "МАССАЖНЫЕ КРЕСЛА"
-  ],
-  [
-    "МЕБЕЛЬРУМ (пункт выдачи)"
-  ],
-  [
-    "МЕГАФОН",
-    "МегаФон",
-    "Мегафон"
-  ],
-  [
-    "МИЛТИ"
-  ],
-  [
-    "МИНДАЛЬ"
-  ],
-  [
-    "МИР КОРЕЙСКИХ ТОВАРОВ"
-  ],
-  [
-    "МИР КУБИКОВ",
-    "Мир Кубиков",
-    "Мир кубиков"
-  ],
-  [
-    "МОИ ДОКУМЕНТЫ"
-  ],
-  [
-    "МОРЕ КУПАЛЬНИКОВ"
-  ],
-  [
-    "МОСВИТ"
-  ],
-  [
-    "МОСИГРА",
-    "Мосигра"
-  ],
-  [
-    "МТС"
-  ],
-  [
-    "МТС Флагман"
-  ],
-  [
-    "МУ-МУ"
-  ],
-  [
-    "МУЛЬТИ-МАСТЕР",
-    "Мультимастер"
-  ],
-  [
-    "МУЛЬТИФОТО",
-    "Мультифото"
-  ],
-  [
-    "МУРОМ МЕБЕЛЬ"
-  ],
-  [
-    "Магазин"
-  ],
-  [
-    "Магазин обуви Euromarca"
-  ],
-  [
-    "Маленькая леди (скоро открытие)"
-  ],
-  [
-    "Мамина пицца"
-  ],
-  [
-    "Мария Браславская"
-  ],
-  [
-    "Мармел Шоу"
-  ],
-  [
-    "Мастерская деревянных изделий Masterskaya_Nhome"
-  ],
-  [
-    "Мастерская упаковки"
+    "ЗООГАЛЕРЕЯ"
   ],
   [
     "Матрёшка"
   ],
   [
-    "Мебель BELFAN"
+    "Счастливый"
   ],
   [
-    "Мебельная"
+    "КРАСКИ ДИЗАЙН СТУДИЯ"
   ],
   [
-    "Мебельная фабрика Geniuspark"
+    "SERA"
   ],
   [
-    "Мебельрум"
+    "Fridays"
   ],
   [
-    "Мегафон | Yota"
+    "smena"
   ],
   [
-    "Мегафон-Yota"
+    "Chic Boutique"
   ],
   [
-    "Международный"
+    "Labbra"
   ],
   [
-    "Мехико"
+    "Бриллианты Якутии"
   ],
   [
-    "Мидийное"
+    "BRMSK"
   ],
   [
-    "Мидийное Место",
-    "Мидийное место"
+    "Wok&Box"
   ],
   [
-    "Милано"
-  ],
-  [
-    "Мир винила"
-  ],
-  [
-    "Миша Фишер Зеленая Точка"
-  ],
-  [
-    "Миша Фишер в Яффо"
-  ],
-  [
-    "Мишель"
-  ],
-  [
-    "Мишка"
-  ],
-  [
-    "Мияги"
-  ],
-  [
-    "Мне УльтраФиолетово"
-  ],
-  [
-    "Мо"
-  ],
-  [
-    "Мобильные аксессуары AT DEVICES"
-  ],
-  [
-    "Мобильные аксессуары и ремонт"
-  ],
-  [
-    "Моне"
-  ],
-  [
-    "Море Море"
-  ],
-  [
-    "МореКофеОкеан by Erwin"
-  ],
-  [
-    "Моремания"
-  ],
-  [
-    "МосКальян"
-  ],
-  [
-    "МотиТайм"
-  ],
-  [
-    "Моцарелли"
-  ],
-  [
-    "Мультибрендовый"
-  ],
-  [
-    "Мундштук"
-  ],
-  [
-    "Мясо"
-  ],
-  [
-    "Мясо и Рыба"
-  ],
-  [
-    "Мясо&Рыба"
-  ],
-  [
-    "Мята Lounge"
-  ],
-  [
-    "Мята PLATINUM"
-  ],
-  [
-    "НАТАХТАРИ"
-  ],
-  [
-    "НИКА"
-  ],
-  [
-    "НИЯМА"
-  ],
-  [
-    "НОГОТОК"
-  ],
-  [
-    "Наша"
-  ],
-  [
-    "НеоФарм"
-  ],
-  [
-    "Новая"
-  ],
-  [
-    "Новый"
-  ],
-  [
-    "О Эскимо",
-    "О! ЭСКИМО"
-  ],
-  [
-    "О! Эскимо (Временно закрыт)"
-  ],
-  [
-    "О!ЭСКИМО",
-    "О!Эскимо"
-  ],
-  [
-    "О!Эскимо, Чистая Линия"
-  ],
-  [
-    "О'КЕЙ",
-    "О’КЕЙ"
-  ],
-  [
-    "ОБЛАКО"
-  ],
-  [
-    "ОБМЕН ВАЛЮТЫ"
-  ],
-  [
-    "ОБОИ ШИК"
-  ],
-  [
-    "ОГОГО Обстановочка!"
-  ],
-  [
-    "ОГОНЬКИ"
-  ],
-  [
-    "ОН И ОНА"
-  ],
-  [
-    "ОРТЕКА",
-    "Ортека"
-  ],
-  [
-    "ОЧКАРИК"
-  ],
-  [
-    "Олант"
-  ],
-  [
-    "Оптик сити"
-  ],
-  [
-    "Оптик-А"
-  ],
-  [
-    "Оптика Фаворит"
-  ],
-  [
-    "Оптимальное"
-  ],
-  [
-    "Оренбургский пуховый платок ORENSHAL"
-  ],
-  [
-    "Орматек"
-  ],
-  [
-    "Остерия Марио"
-  ],
-  [
-    "Острая Роза"
-  ],
-  [
-    "Отличительная"
-  ],
-  [
-    "ПЕДИКЮР EXPRESS"
-  ],
-  [
-    "ПЕРВЫЙ ИНВЕСТИЦИОННЫЙ БАНК"
-  ],
-  [
-    "ПЕРЕКРЁСТОК",
-    "Перекрёсток"
-  ],
-  [
-    "ПЕРСОНА"
-  ],
-  [
-    "ПИНСКДРЕВ"
-  ],
-  [
-    "ПОЛЫ 24"
-  ],
-  [
-    "ПРОСТО ПОНЧИКИ"
-  ],
-  [
-    "ПРОСТОЦВЕТЫ"
-  ],
-  [
-    "ПУТЬ БАРАШКА"
-  ],
-  [
-    "Пан Круассан"
-  ],
-  [
-    "Парк"
-  ],
-  [
-    "Парфюмерия Gamma DORO"
-  ],
-  [
-    "Пекарня \"Хлеб с маслом\""
-  ],
-  [
-    "Пекарня Волконский"
-  ],
-  [
-    "Перекресток"
-  ],
-  [
-    "Перчаточка"
-  ],
-  [
-    "Петербургский дизайн"
-  ],
-  [
-    "Пират-Мармелад"
-  ],
-  [
-    "Плавательный.рф"
-  ],
-  [
-    "Планета Суши"
-  ],
-  [
-    "Плов City"
-  ],
-  [
-    "Подаркин"
-  ],
-  [
-    "Поке Хаус"
-  ],
-  [
-    "Поэт и кот"
-  ],
-  [
-    "Правда кофе"
-  ],
-  [
-    "Праздничный бум!"
-  ],
-  [
-    "Представляем"
-  ],
-  [
-    "Премиальная"
-  ],
-  [
-    "Продуктовый"
-  ],
-  [
-    "Проект"
-  ],
-  [
-    "Производство"
-  ],
-  [
-    "Пункт"
-  ],
-  [
-    "Пункт самовывоза ОБИ"
-  ],
-  [
-    "Путешествие.ру"
-  ],
-  [
-    "РАДУГА ЦВЕТА"
-  ],
-  [
-    "РАЙФФАЙЗЕН БАНК  БАНКОМАТ"
-  ],
-  [
-    "РЕАЛ БРОНЗА"
-  ],
-  [
-    "РИВ ГОШ",
-    "Рив Гош"
-  ],
-  [
-    "РУССКИЕ ТРАВЫ"
-  ],
-  [
-    "РУЧКА.РУ"
-  ],
-  [
-    "Ресейл Маркет"
-  ],
-  [
-    "Республика*"
-  ],
-  [
-    "Ресторан"
-  ],
-  [
-    "Рестораны"
-  ],
-  [
-    "Ригла"
-  ],
-  [
-    "Римские Каникулы (остров)"
-  ],
-  [
-    "Ритмика"
-  ],
-  [
-    "Розничная"
-  ],
-  [
-    "Ромбаба"
-  ],
-  [
-    "Российская"
-  ],
-  [
-    "Российский"
-  ],
-  [
-    "Рыбная Мануфактура",
-    "Рыбная мануфактура"
-  ],
-  [
-    "Рыбная Мануфактура №1"
-  ],
-  [
-    "Рюмочная"
-  ],
-  [
-    "САБФРЕШ",
-    "СабФреш"
-  ],
-  [
-    "САЛОН ДЕПИЛЯЦИИ МИ"
-  ],
-  [
-    "САЛОН МЯГКОЙ МЕБЕЛИ \"ЕЛЕНА\""
-  ],
-  [
-    "САЛОН СВЕТА MAYTONI"
-  ],
-  [
-    "САНТЕХНИКА ОНЛАЙН"
+    "Opera (остров)"
   ],
   [
     "СБЕР"
   ],
   [
-    "СБЕРБАНК"
+    "Carter's Oshkosh B'gosh"
   ],
   [
-    "СИН"
+    "Чижик-Стрижик"
   ],
   [
-    "СИНЕМА ПАРК"
+    "Alpine Diamond"
   ],
   [
-    "СЛАДКИЕ ЗАКРОМА"
+    "CLIMBER BY CUNO"
   ],
   [
-    "СНЕЖНАЯ КОРОЛЕВА",
-    "Снежная Королева"
+    "O’Sofi (остров)"
   ],
   [
-    "СОНУМ"
+    "Tezido"
   ],
   [
-    "СОТЕКОМ"
+    "Soloton"
   ],
   [
-    "СПОРТМАСТЕР",
-    "Спортмастер"
+    "Choupette"
   ],
   [
-    "СТАРЫЙ ЛЕКАРЬ"
+    "Erborian"
   ],
   [
-    "СТИЛЬПАРК"
+    "Мишка"
+  ],
+  [
+    "1001 Тур"
+  ],
+  [
+    "ЦУМ Outlet Детский"
+  ],
+  [
+    "EVEENS"
+  ],
+  [
+    "PanClub"
+  ],
+  [
+    "Игровая комната Bricobilandia"
+  ],
+  [
+    "Secret Crush"
+  ],
+  [
+    "БЕСТИАРИЙ МУЗЕЙ"
+  ],
+  [
+    "Кожинка"
+  ],
+  [
+    "Long River"
+  ],
+  [
+    "Dreame"
+  ],
+  [
+    "VELES"
+  ],
+  [
+    "Мегафон | Yota"
+  ],
+  [
+    "Компания AutoJack"
+  ],
+  [
+    "Van Cliff"
+  ],
+  [
+    "LEFARO"
+  ],
+  [
+    "Calliope"
+  ],
+  [
+    "BAGGINS COFFEE"
+  ],
+  [
+    "Комната"
+  ],
+  [
+    "Четвертое измерение"
+  ],
+  [
+    "Grill’s Meal’s"
+  ],
+  [
+    "BOSS Women"
+  ],
+  [
+    "Кореана Light"
+  ],
+  [
+    "Roomika"
+  ],
+  [
+    "UmnoRazumno"
+  ],
+  [
+    "Имбирь"
+  ],
+  [
+    "S-Style"
+  ],
+  [
+    "Hiker"
+  ],
+  [
+    "ZEISS Vision One"
+  ],
+  [
+    "Elegance Optica"
+  ],
+  [
+    "Знаменитый"
+  ],
+  [
+    "AmGum"
+  ],
+  [
+    "Remez"
+  ],
+  [
+    "PRO.Хинкали"
+  ],
+  [
+    "WILLIAMS OLIVER"
+  ],
+  [
+    "ДОМОВОЙ"
+  ],
+  [
+    "Alessandro Borelli teens kids"
+  ],
+  [
+    "FAM"
+  ],
+  [
+    "Scandalis"
+  ],
+  [
+    "Ортека"
+  ],
+  [
+    "IDOL"
+  ],
+  [
+    "JACADI"
+  ],
+  [
+    "RS 1912 Русские самоцветы"
+  ],
+  [
+    "Пекарня \"Хлеб с маслом\""
+  ],
+  [
+    "МАНИКЮР EXPRESS"
+  ],
+  [
+    "Conte"
+  ],
+  [
+    "Space Case"
+  ],
+  [
+    "Девиз"
+  ],
+  [
+    "WOW BROW"
+  ],
+  [
+    "Ташир пицца"
+  ],
+  [
+    "GUESS?, Inc."
+  ],
+  [
+    "MariaG Home"
+  ],
+  [
+    "PFM"
+  ],
+  [
+    "Ремонт часов и телефонов"
+  ],
+  [
+    "Fabio Paoloni"
+  ],
+  [
+    "Beba kids"
+  ],
+  [
+    "Производство"
+  ],
+  [
+    "Острая Роза"
+  ],
+  [
+    "Just Sport"
+  ],
+  [
+    "GEOX",
+    "Geox"
+  ],
+  [
+    "Marc&Andre"
+  ],
+  [
+    "Империя сумок",
+    "Империя Сумок"
+  ],
+  [
+    "Два мяча"
+  ],
+  [
+    "Coffee Moments"
+  ],
+  [
+    "Petit Bateau"
+  ],
+  [
+    "Мир Кубиков",
+    "Мир кубиков"
+  ],
+  [
+    "PhoBo (скоро открытие)"
+  ],
+  [
+    "TOM TAILOR"
+  ],
+  [
+    "PUBLiX"
+  ],
+  [
+    "Delonghi",
+    "De’Longhi"
+  ],
+  [
+    "МИНДАЛЬ"
+  ],
+  [
+    "Крокус Сток"
+  ],
+  [
+    "585*Золотой"
+  ],
+  [
+    "Хлебный Двор"
+  ],
+  [
+    "На Парах"
+  ],
+  [
+    "Samsung"
+  ],
+  [
+    "MAGISTIC"
+  ],
+  [
+    "КОНФАЭЛЬ"
+  ],
+  [
+    "GUESS Kids"
+  ],
+  [
+    "RIANI"
+  ],
+  [
+    "Steak it Easy"
+  ],
+  [
+    "TOPTOP"
+  ],
+  [
+    "RE"
+  ],
+  [
+    "RESONANCE"
+  ],
+  [
+    "PLATINA 950"
+  ],
+  [
+    "Ярмарка \"Твоя лавка\""
+  ],
+  [
+    "Baby Art"
+  ],
+  [
+    "French kiss"
+  ],
+  [
+    "Gulliver"
+  ],
+  [
+    "SILVER & SILVER"
+  ],
+  [
+    "Ленточка"
+  ],
+  [
+    "Elena Furs"
+  ],
+  [
+    "CYCLO"
+  ],
+  [
+    "RINASCIMENTO"
+  ],
+  [
+    "Ресторан Vasilchuki"
+  ],
+  [
+    "lady & gentleman STREET"
+  ],
+  [
+    "CNS — Coined iN Stone"
+  ],
+  [
+    "EUROSPAR"
+  ],
+  [
+    "Универмаг СТОКМАНН"
+  ],
+  [
+    "Plein Sport"
+  ],
+  [
+    "МТС Флагман"
+  ],
+  [
+    "Центр водного туризма Нева Тревел"
+  ],
+  [
+    "Thomas Munz"
+  ],
+  [
+    "Donatto"
+  ],
+  [
+    "Active"
+  ],
+  [
+    "Armor"
+  ],
+  [
+    "Barbershop Grizzly"
+  ],
+  [
+    "Freywille"
+  ],
+  [
+    "Пекарня Волконский"
+  ],
+  [
+    "Мо"
+  ],
+  [
+    "Имидж-лаборатория \"Персона\""
+  ],
+  [
+    "Купи слона"
+  ],
+  [
+    "OnUp"
+  ],
+  [
+    "Karl Lagerfeld Jeans"
+  ],
+  [
+    "Emka"
+  ],
+  [
+    "FLUIDE"
+  ],
+  [
+    "restore:",
+    "Restore"
+  ],
+  [
+    "SOKOLOV",
+    "Sokolov"
+  ],
+  [
+    "Palmetta"
+  ],
+  [
+    "Falke"
+  ],
+  [
+    "Компания ADAMAS"
+  ],
+  [
+    "FASHION REBELS"
+  ],
+  [
+    "5lb"
+  ],
+  [
+    "Любимый Дом"
+  ],
+  [
+    "ПРОСТО ПОНЧИКИ"
+  ],
+  [
+    "Салон связи t2"
+  ],
+  [
+    "AmeAppetite"
+  ],
+  [
+    "MANCOR"
+  ],
+  [
+    "Bikes&Bikes"
+  ],
+  [
+    "DDX Fitness"
+  ],
+  [
+    "Shaurmen"
   ],
   [
     "СТОКМАНН",
     "Стокманн"
   ],
   [
-    "СТОЛПЛИТ"
-  ],
-  [
-    "СТОЛЫ И СТУЛЬЯ"
-  ],
-  [
-    "СУДАРЬ",
-    "Сударь"
-  ],
-  [
-    "СЧАСТЛИВЫЙ ВЗГЛЯД",
-    "Счастливый взгляд"
-  ],
-  [
-    "СЫРОВАРНЯ",
-    "Сыроварня"
-  ],
-  [
-    "Салон"
-  ],
-  [
-    "Салон женского белья «Золотая Стрекоза»"
-  ],
-  [
-    "Салон мебели ЗОВ"
-  ],
-  [
-    "Салон мужского белья Х.О."
-  ],
-  [
-    "Салон связи t2"
-  ],
-  [
-    "Сами с Усами",
-    "Сами с усами"
-  ],
-  [
-    "Связь.ON"
-  ],
-  [
-    "Семейный"
-  ],
-  [
-    "Семейный парк развлечений Атмосфера"
-  ],
-  [
-    "Сербский Роштиль"
-  ],
-  [
-    "Сервис обслуживания смартфонов Protec 360"
-  ],
-  [
-    "Сервис упаковки подарков \"O paper paper\""
-  ],
-  [
-    "Сеть"
-  ],
-  [
-    "Сеть Семейных"
-  ],
-  [
-    "Сеть кафе тбилисской кухни \"Батони\""
-  ],
-  [
-    "Синнабон"
-  ],
-  [
-    "Скоро мама"
-  ],
-  [
-    "СкороМама"
-  ],
-  [
-    "Слепая"
-  ],
-  [
-    "Слепая Курица",
-    "Слепая курица"
-  ],
-  [
-    "Слепая Курица Shoes",
-    "Слепая курица shoes"
-  ],
-  [
-    "Слепая курица department store"
-  ],
-  [
-    "Современная"
-  ],
-  [
-    "Современный"
-  ],
-  [
-    "Солярий клуб SUN&CITY"
-  ],
-  [
-    "Спортмастер PRO"
-  ],
-  [
-    "Сталос"
-  ],
-  [
-    "Стиллочки"
-  ],
-  [
-    "Стильные"
-  ],
-  [
-    "Стильные Кухни и Интерьеры"
-  ],
-  [
-    "Столото"
-  ],
-  [
-    "Страсть"
-  ],
-  [
-    "Сувениры"
-  ],
-  [
-    "Супермаркет Перекресток"
-  ],
-  [
-    "Суши Make"
-  ],
-  [
-    "Суши Маркет"
-  ],
-  [
-    "Суши Сан"
-  ],
-  [
-    "Суши-Маркет",
-    "Суши-маркет"
-  ],
-  [
-    "СушиСтор"
-  ],
-  [
-    "Счастливый"
-  ],
-  [
-    "ТАЙМ АВЕНЮ",
-    "Тайм Авеню"
-  ],
-  [
-    "ТВОЕ"
-  ],
-  [
-    "ТЕЛЕБУТИК",
-    "Телебутик"
-  ],
-  [
-    "ТЕРЕМОК",
-    "Теремок"
-  ],
-  [
-    "ТЕХНИКУМ"
-  ],
-  [
-    "ТЕХНОПАРК",
-    "Технопарк"
-  ],
-  [
-    "ТИТАН GS"
-  ],
-  [
-    "ТОКИО РАМЕН",
-    "Токио Рамен"
-  ],
-  [
-    "ТОРТЫ НА ЗАКАЗ"
-  ],
-  [
-    "ТОТО"
-  ],
-  [
-    "ТОЧКА КРАСОТЫ",
-    "Точка Красоты"
-  ],
-  [
-    "Табак"
-  ],
-  [
-    "Табакон"
-  ],
-  [
-    "Таксим"
-  ],
-  [
-    "Ташир Пицца",
-    "Ташир пицца"
-  ],
-  [
-    "Твои полы"
-  ],
-  [
-    "Твой Дом Кафе"
-  ],
-  [
-    "Твой дом"
-  ],
-  [
-    "Техно Ёж"
-  ],
-  [
-    "Тилли Стилли"
-  ],
-  [
-    "Тилли-Стилли"
-  ],
-  [
-    "Торговая галерея «Дубровка»"
-  ],
-  [
-    "Траектория"
-  ],
-  [
-    "Три казана"
-  ],
-  [
-    "Триал-Спорт"
-  ],
-  [
-    "Туалет"
-  ],
-  [
-    "Турецкий"
-  ],
-  [
-    "УНЦИЯ",
-    "Унция"
-  ],
-  [
-    "УПАКОВКА ПОДАРКОВ"
-  ],
-  [
-    "УРБАНИСТ"
-  ],
-  [
-    "УРЮК",
-    "Урюк"
-  ],
-  [
-    "Уйгурка"
-  ],
-  [
-    "Украшения"
-  ],
-  [
-    "Универмаг «ТЕЛЕГРАФ»"
-  ],
-  [
-    "Универмаг СТОКМАНН"
-  ],
-  [
-    "ФОРА-БАНК",
-    "ФораБанк"
-  ],
-  [
-    "ФОРМУЛА КИНО PRIME"
-  ],
-  [
-    "ФРАНКЛИНС БУРГЕР",
-    "Франклин'с Бургер",
-    "Франклинс Бургер"
-  ],
-  [
-    "ФУД СИТИ"
-  ],
-  [
-    "Фабрика"
-  ],
-  [
-    "Фабрика Счастья"
-  ],
-  [
-    "Фабрика мебели «8 марта»"
-  ],
-  [
-    "Фактура"
-  ],
-  [
-    "Фамилия"
-  ],
-  [
-    "Феникс"
-  ],
-  [
-    "Флавотека"
-  ],
-  [
-    "ХИМЧИСТКА КОНТРАСТ"
-  ],
-  [
-    "ХИМЧИСТКА ШИК И БЛЕСК"
-  ],
-  [
-    "ХИНКАЛЬНАЯ"
-  ],
-  [
-    "ХРУСТ"
-  ],
-  [
-    "ХС"
+    "Маленькая леди (скоро открытие)"
   ],
   [
     "Химчистка \"Пингвин\""
   ],
   [
-    "Химчистка Apetta"
+    "5A SEC"
   ],
   [
-    "Хинкальная ЭZO"
+    "КАРО ФИЛЬМ Атриум"
   ],
   [
-    "Хлебный Двор"
+    "Ригла"
   ],
   [
-    "Хобби-гипермаркет"
+    "Рюмочная"
   ],
   [
-    "Хочу Пури"
+    "BLCV"
   ],
   [
-    "ЦАРЬ КУРНИК"
+    "XL Media"
   ],
   [
-    "ЦВЕТ ДИВАНОВ"
+    "VICCI HOME"
   ],
   [
-    "ЦЕНТР ДВЕРЕЙ"
+    "ЛЭТУАЛЬ",
+    "Лэтуаль"
   ],
   [
-    "ЦЕРКОВНАЯ ЛАВКА"
+    "RelaxMeSpa"
   ],
   [
-    "ЦУМ OUTLET",
-    "ЦУМ Outlet"
+    "ZASPORT"
   ],
   [
-    "ЦУМ Outlet Детский"
+    "EMMI kiosk"
   ],
   [
-    "Царство сумок"
+    "kod"
   ],
   [
-    "Цветной"
+    "Кафе-раменная IKIGAI"
   ],
   [
-    "Цветочки"
+    "ГАЗПРОМБАНК"
   ],
   [
-    "Центр водного туризма Нева Тревел"
+    "Planta Rosa"
   ],
   [
-    "Центральная"
+    "Пункт самовывоза ОБИ"
   ],
   [
-    "ЧАЙХОНА"
+    "Линии Любви",
+    "ЛИНИИ ЛЮБВИ"
   ],
   [
-    "ЧАКАПУЛИ"
+    "LAV`Z"
   ],
   [
-    "ЧАО ПИЦЦА",
-    "Чао Пицца",
-    "Чао пицца"
+    "Стильные Кухни и Интерьеры"
   ],
   [
-    "ЧАСОВЫХ ДЕЛ МАСТЕР"
+    "САЛОН МЯГКОЙ МЕБЕЛИ \"ЕЛЕНА\""
   ],
   [
-    "ЧЕМОДАНPRO",
-    "ЧемоданPRO"
+    "NELLY STUDIO"
   ],
   [
-    "ЧЕТЫРЕ ЛАПЫ",
-    "Четыре Лапы"
+    "Olivin"
   ],
   [
-    "ЧИТАЙ-ГОРОД",
-    "Читай-Город",
-    "Читай-город"
+    "Tacticool"
   ],
   [
-    "Часы \"Ракета\""
+    "Koton"
   ],
   [
-    "Чебурешная BY MIRONOV"
+    "Lucky"
   ],
   [
-    "ЧемоданPRO (Samsonite)"
+    "Majorica"
   ],
   [
-    "ЧемоданPRO (TUMI)"
+    "Аптека"
   ],
   [
-    "Четвертое измерение"
+    "МАКОФФЧАЙ"
   ],
   [
-    "Чехольчик"
+    "BORK"
   ],
   [
-    "Чижик-Стрижик"
+    "Арт Контур"
   ],
   [
-    "Чистая линия"
+    "SKDESIGN"
   ],
   [
-    "ШАУРМУ Х@ЧУ"
+    "Инсам"
   ],
   [
-    "ШВИЛИ",
-    "Швили"
+    "CASUAL DAY in lady & gentleman CITY"
   ],
   [
-    "ШЕФ KEBAB & BURGER"
+    "Saint Tropez"
   ],
   [
-    "ШОКОЛАДНИЦА",
-    "Шоколадница"
+    "Viva la vika"
   ],
   [
-    "Шантимель"
+    "АЙРОН"
   ],
   [
-    "Шантимэль"
+    "Zolla"
   ],
   [
-    "Шаурмангал"
+    "Bogache"
   ],
   [
-    "Швейцарский"
+    "ОБОИ ШИК"
   ],
   [
-    "Шеле"
+    "Acoola",
+    "ACOOLA"
   ],
   [
-    "Шикари"
+    "Infasem"
   ],
   [
-    "Широчайший"
+    "Парк"
   ],
   [
-    "Шоколадная Фабрика"
+    "Elisabetta Franchi"
   ],
   [
-    "Шоколадная Фабрика \"СЧАСТЬЕ\"",
-    "Шоколадная Фабрика СЧАСТЬЕ"
+    "Trendsettica"
   ],
   [
-    "Шторы"
+    "Beatex"
   ],
   [
-    "ЭSTET"
+    "MOLLUSCA"
   ],
   [
-    "ЭZо Грузинская кухня"
+    "Украшения"
   ],
   [
-    "ЭККО"
+    "D-STYLE"
+  ],
+  [
+    "Weekend MaxMara"
+  ],
+  [
+    "One Price Coffee"
+  ],
+  [
+    "Праздничный бум!"
+  ],
+  [
+    "Крошка-картошка"
+  ],
+  [
+    "AQUANET"
   ],
   [
     "ЭКОКУПЕЛИ ОТ ПАПЫ САШИ"
   ],
   [
-    "ЭЛИЗЭ"
+    "Pechini"
   ],
   [
-    "ЭПЛ ДАЙМОНД",
-    "ЭПЛ Даймонд"
+    "Тимати Karting "
   ],
   [
-    "ЭПЛ Якутские бриллианты",
-    "ЭПЛ. Якутские бриллианты"
+    "Chicha San Chen"
   ],
   [
-    "ЭРА"
+    "Suitsupply"
   ],
   [
-    "ЭТО КУХНИ"
+    "KAVARA"
   ],
   [
-    "Эдоко"
+    "Кондитория Ромбаба"
   ],
   [
-    "Эклерная Lavanda Eclair"
+    "Стиллочки"
   ],
   [
-    "ЭкоДом"
+    "Wolford"
   ],
   [
-    "Эльдорадо"
+    "LEE"
   ],
   [
-    "Эльдорадо.ru"
+    "Табакон"
   ],
   [
-    "Эрион Катания"
+    "ЧемоданPRO (Samsonite)"
   ],
   [
-    "Эстель Адони"
+    "Intimissimi"
   ],
   [
-    "ЮВЕЛИРНЫЙ САЛОН"
+    "Баварская кухня"
   ],
   [
-    "ЮВЕЛИРОЧКА",
+    "LELAS"
+  ],
+  [
+    "KRAI"
+  ],
+  [
+    "Daisyknit"
+  ],
+  [
+    "Леонардо - Хобби-гипермаркет"
+  ],
+  [
+    "JNS"
+  ],
+  [
+    "VIVASPORT"
+  ],
+  [
+    "MARATON"
+  ],
+  [
+    "Calzedonia"
+  ],
+  [
+    "Lamoda sport"
+  ],
+  [
+    "ZAKKA"
+  ],
+  [
+    "Гавань мастеров"
+  ],
+  [
+    "Art Auro"
+  ],
+  [
+    "Концепция"
+  ],
+  [
+    "Колбасофф"
+  ],
+  [
+    "Lady&amp;Gentleman City"
+  ],
+  [
+    "Алёнка"
+  ],
+  [
+    "Vilet",
+    "VILET"
+  ],
+  [
+    "YOU"
+  ],
+  [
+    "Chang"
+  ],
+  [
+    "Norppa"
+  ],
+  [
+    "Воспользуйтесь"
+  ],
+  [
+    "Точка Красоты"
+  ],
+  [
+    "МОРЕ КУПАЛЬНИКОВ"
+  ],
+  [
+    "Зона WiFi"
+  ],
+  [
+    "Теремок (блинный киоск)"
+  ],
+  [
+    "Джинсовый Мир"
+  ],
+  [
+    "Зеркальный лабиринт"
+  ],
+  [
+    "Lia Rose"
+  ],
+  [
+    "Hoff"
+  ],
+  [
+    "Es Vedra"
+  ],
+  [
+    "Моцарелли"
+  ],
+  [
+    "MOMO"
+  ],
+  [
+    "Грузинский Бульвар"
+  ],
+  [
+    "BRAN BEAR (остров)"
+  ],
+  [
+    "2Mimor"
+  ],
+  [
+    "KEDMA (остров)"
+  ],
+  [
+    "Леонардо"
+  ],
+  [
+    "Harry Cooper"
+  ],
+  [
+    "A Secret Knowledge"
+  ],
+  [
+    "ARENA"
+  ],
+  [
+    "Аптека АЛОЭ",
+    "Аптека Алоэ"
+  ],
+  [
+    "SOKOLOV Premium",
+    "SOKOLOV premium"
+  ],
+  [
+    "CVC Китайская кухня"
+  ],
+  [
+    "Карамелли"
+  ],
+  [
+    "Гастрономический Рынок"
+  ],
+  [
+    "Mimimoda"
+  ],
+  [
+    "Huawei"
+  ],
+  [
+    "М-РИЗОН"
+  ],
+  [
+    "ГЛАВТАБАК"
+  ],
+  [
+    "Anna Verdi"
+  ],
+  [
+    "ELINICE"
+  ],
+  [
+    "Rumia"
+  ],
+  [
+    "Neo-Climat"
+  ],
+  [
+    "GOOD CHINA"
+  ],
+  [
+    "MAVELTY"
+  ],
+  [
+    "MARIONE"
+  ],
+  [
+    "Anvirelle"
+  ],
+  [
+    "GamePark"
+  ],
+  [
+    "Emilia dell’Oro"
+  ],
+  [
+    "Чебурешная BY MIRONOV"
+  ],
+  [
+    "ICEBERG"
+  ],
+  [
+    "Stars Coffee",
+    "STARS COFFEE"
+  ],
+  [
+    "Trend Island"
+  ],
+  [
+    "Шеле"
+  ],
+  [
+    "Бижутерия \"Barhat\""
+  ],
+  [
+    "Bloomstore"
+  ],
+  [
+    "Casemarket (остров)"
+  ],
+  [
+    "Cocos Moscow"
+  ],
+  [
+    "ENSO"
+  ],
+  [
+    "Cinnabon",
+    "CINNABON"
+  ],
+  [
+    "Перчаточка"
+  ],
+  [
+    "Island Soul"
+  ],
+  [
+    "Liu Jo"
+  ],
+  [
+    "Coffeeshop Company"
+  ],
+  [
+    "Cofix"
+  ],
+  [
+    "Адамас"
+  ],
+  [
+    "Наша"
+  ],
+  [
+    "Tara Jarmon"
+  ],
+  [
+    "SOKOL COFFEE"
+  ],
+  [
     "Ювелирочка"
   ],
   [
-    "ЮНИСТРИМ"
+    "Варяг Спортпарк"
   ],
   [
-    "ЮНИСТРИМ ДЕНЕЖНЫЕ ПЕРЕВОДЫ"
+    "Chaika"
   ],
   [
-    "Ювелирные"
+    "Веломарка (Временно закрыто)"
   ],
   [
-    "Ювелирный"
-  ],
-  [
-    "Ювелирцентр"
-  ],
-  [
-    "Юность"
-  ],
-  [
-    "Я ем Гоу"
-  ],
-  [
-    "Янтарь России"
+    "ТИТАН GS"
   ],
   [
     "Японская лапшичная Токио Рамен"
   ],
   [
+    "Pinko"
+  ],
+  [
+    "ПИНСКДРЕВ"
+  ],
+  [
+    "Плов City"
+  ],
+  [
+    "Eleganzza Piece of Art"
+  ],
+  [
+    "Marc Cain"
+  ],
+  [
+    "MARKETPLACE"
+  ],
+  [
+    "СТОЛПЛИТ"
+  ],
+  [
+    "Karaca Home"
+  ],
+  [
+    "X.O."
+  ],
+  [
+    "Pan Club"
+  ],
+  [
+    "FISSMAN"
+  ],
+  [
+    "BOFT 3 этаж рядом со Спортмастер"
+  ],
+  [
+    "Розничная"
+  ],
+  [
+    "Twinset"
+  ],
+  [
+    "Шторы"
+  ],
+  [
+    "ELIS"
+  ],
+  [
+    "BURGER KING",
+    "Burger King"
+  ],
+  [
+    "AutoJack&LimoLady"
+  ],
+  [
+    "JOLIDON"
+  ],
+  [
+    "ДЖУМАНДЖИ"
+  ],
+  [
+    "PROFILDOORS"
+  ],
+  [
+    "Danza"
+  ],
+  [
+    "Сasada"
+  ],
+  [
+    "Аптеки «36,6»"
+  ],
+  [
+    "BACCARAT chocolatier"
+  ],
+  [
+    "ГАЛАТЕЯ"
+  ],
+  [
+    "БУТИК DE LUNETTES"
+  ],
+  [
+    "LUTA"
+  ],
+  [
+    "Mobile Case"
+  ],
+  [
+    "ISTAMBUL"
+  ],
+  [
+    "Flower Bar"
+  ],
+  [
+    "LUSIO",
+    "Lusio"
+  ],
+  [
+    "DPAM"
+  ],
+  [
+    "Present & Simple"
+  ],
+  [
+    "Оренбургский пуховый платок ORENSHAL"
+  ],
+  [
+    "BRUN'S"
+  ],
+  [
+    "МегаФон",
+    "Мегафон"
+  ],
+  [
+    "Чехольчик"
+  ],
+  [
+    "SERGINNETTI",
+    "Serginnetti"
+  ],
+  [
+    "Мир радиоигр"
+  ],
+  [
+    "Новый"
+  ],
+  [
+    "34Play"
+  ],
+  [
+    "НеоФарм"
+  ],
+  [
+    "Nail Bar Море"
+  ],
+  [
+    "Иджеван"
+  ],
+  [
+    "Cofix (остров)"
+  ],
+  [
+    "Obba"
+  ],
+  [
+    "MANI Bubble Tea"
+  ],
+  [
+    "Стильные"
+  ],
+  [
+    "Правда кофе"
+  ],
+  [
+    "VELVERDE"
+  ],
+  [
+    "Вдохновение"
+  ],
+  [
+    "Hot Dog Bulldog"
+  ],
+  [
+    "IRIS"
+  ],
+  [
+    "СОНУМ"
+  ],
+  [
+    "Demix"
+  ],
+  [
+    "8 МАРТА"
+  ],
+  [
+    "Location Vape Shop"
+  ],
+  [
+    "Мишель"
+  ],
+  [
+    "Велокофе"
+  ],
+  [
+    "Fluide Fit"
+  ],
+  [
+    "Elle Land"
+  ],
+  [
+    "Mavi"
+  ],
+  [
+    "SMP RACING ESPORTS"
+  ],
+  [
+    "Aline"
+  ],
+  [
+    "Quickly"
+  ],
+  [
+    "ДОДО ПИЦЦА"
+  ],
+  [
+    "Merry Perry"
+  ],
+  [
+    "Дятьково Design"
+  ],
+  [
+    "VIVA MODA"
+  ],
+  [
+    "ЦУМ Outlet"
+  ],
+  [
+    "Дом Попугаев"
+  ],
+  [
+    "GUESS | Marciano by GUESS"
+  ],
+  [
+    "Аксессуарная №1"
+  ],
+  [
+    "PA \"Lemon\""
+  ],
+  [
+    "Триал-Спорт"
+  ],
+  [
+    "SABOO",
+    "Saboo"
+  ],
+  [
+    "ФОРТ БОЯРД"
+  ],
+  [
+    "Чао пицца"
+  ],
+  [
+    "М. ВИДЕО"
+  ],
+  [
+    "МосКальян"
+  ],
+  [
+    "COZY HOME"
+  ],
+  [
+    "ГОРЗДРАВ"
+  ],
+  [
+    "OMMA. Korean food"
+  ],
+  [
+    "NSP (Nike Special Project)"
+  ],
+  [
+    "Футбольная форма"
+  ],
+  [
+    "Gatti"
+  ],
+  [
+    "Stella Shop"
+  ],
+  [
+    "iORO"
+  ],
+  [
+    "Less"
+  ],
+  [
+    "Krutyshka"
+  ],
+  [
+    "Ателье Орликов"
+  ],
+  [
+    "Surf Coffee"
+  ],
+  [
+    "Dream.Tea"
+  ],
+  [
+    "Donutto"
+  ],
+  [
+    "Пункт"
+  ],
+  [
+    "Мясо и Рыба"
+  ],
+  [
+    "Korean Butik"
+  ],
+  [
+    "FHO ВЬЕТНАМСКОЕ КАФЕ"
+  ],
+  [
+    "Scalpers"
+  ],
+  [
+    "Brusnika"
+  ],
+  [
+    "You Wanna"
+  ],
+  [
+    "Alexander Bogdanov"
+  ],
+  [
+    "Royal Rabbit"
+  ],
+  [
+    "Инфостойка"
+  ],
+  [
+    "RICE"
+  ],
+  [
+    "Colin's",
+    "Colin’s"
+  ],
+  [
+    "Тилли Стилли"
+  ],
+  [
+    "Rafam"
+  ],
+  [
+    "ЛИНИИ"
+  ],
+  [
+    "LAU"
+  ],
+  [
+    "Линзмастер"
+  ],
+  [
+    "SELFMADE"
+  ],
+  [
+    "Зефирный флорист"
+  ],
+  [
+    "BIBLIOTEKA AROMATOV"
+  ],
+  [
+    "OVS Kids"
+  ],
+  [
+    "ВОЛЬТ-СИТИ"
+  ],
+  [
+    "Всёсмарт"
+  ],
+  [
+    "Баклажан"
+  ],
+  [
+    "Школа балета Азбука Балета"
+  ],
+  [
+    "ЦВЕТ ДИВАНОВ"
+  ],
+  [
+    "Альфа мануфактура"
+  ],
+  [
+    "Aurora Siberica"
+  ],
+  [
+    "de bon ton"
+  ],
+  [
+    "bronoskins",
+    "Bronoskins"
+  ],
+  [
+    "Лето"
+  ],
+  [
+    "АЙКРАФТ"
+  ],
+  [
+    "Крупнейшая"
+  ],
+  [
+    "Gabrielli"
+  ],
+  [
+    "Lazurit"
+  ],
+  [
+    "Swarovski"
+  ],
+  [
+    "STYLINT"
+  ],
+  [
+    "Киберпуля"
+  ],
+  [
+    "Клад Мармелад киоск"
+  ],
+  [
+    "Феникс"
+  ],
+  [
+    "Bon-Bon Berry"
+  ],
+  [
+    "MARKA"
+  ],
+  [
+    "PitersonI"
+  ],
+  [
+    "Wrap me"
+  ],
+  [
+    "ЧАЙХОНА"
+  ],
+  [
+    "Caterina Leman"
+  ],
+  [
+    "ЦЕРКОВНАЯ ЛАВКА"
+  ],
+  [
+    "РЕАЛ БРОНЗА"
+  ],
+  [
+    "SALVATORE BERSANI"
+  ],
+  [
+    "MÍDITI"
+  ],
+  [
+    "UVI"
+  ],
+  [
+    "Корейский вайб"
+  ],
+  [
+    "ДОМ БЫТА"
+  ],
+  [
+    "Азбука Фермы"
+  ],
+  [
+    "ANTE KOVAC"
+  ],
+  [
+    "Эрион Катания"
+  ],
+  [
+    "Карельская форель"
+  ],
+  [
+    "СОТЕКОМ"
+  ],
+  [
+    "MOLECULE"
+  ],
+  [
+    "О!Эскимо"
+  ],
+  [
+    "ДОКТОР СЛОН"
+  ],
+  [
+    "Taksim"
+  ],
+  [
+    "Дом"
+  ],
+  [
+    "Т-БАНК банкомат"
+  ],
+  [
+    "Respect (Северное здание)"
+  ],
+  [
+    "MobiAccess"
+  ],
+  [
+    "Орматек"
+  ],
+  [
+    "OnePriceCoffee"
+  ],
+  [
+    "Книжный Лабиринт"
+  ],
+  [
+    "Gipfel"
+  ],
+  [
+    "Оптик сити"
+  ],
+  [
+    "Lorani"
+  ],
+  [
+    "FASHION HOUSE"
+  ],
+  [
+    "Tommy's Friends"
+  ],
+  [
+    "Восточный экспресс"
+  ],
+  [
+    "Yamaguchi (Южное здание)"
+  ],
+  [
+    "Etre accessories"
+  ],
+  [
+    "Группа"
+  ],
+  [
+    "ECRU"
+  ],
+  [
+    "Rostic's",
+    "Rostic’s",
+    "Rostics"
+  ],
+  [
+    "Sunlight КИОСК"
+  ],
+  [
+    "Conso"
+  ],
+  [
+    "The Бык"
+  ],
+  [
+    "Веселая затея"
+  ],
+  [
+    "2MOOD Café"
+  ],
+  [
+    "Турецкий"
+  ],
+  [
+    "KIDSBIK Детская обувь"
+  ],
+  [
+    "All We Need"
+  ],
+  [
+    "Grundig"
+  ],
+  [
+    "ТОЧКА СБОРКИ"
+  ],
+  [
+    "Гармония Флора"
+  ],
+  [
+    "The Men's Club"
+  ],
+  [
+    "Твой Дом Кафе"
+  ],
+  [
+    "ChaLa Бабл Ти"
+  ],
+  [
+    "Рестораны"
+  ],
+  [
+    "KüchenLand Home"
+  ],
+  [
+    "ЭККО"
+  ],
+  [
+    "ADLI"
+  ],
+  [
+    "Ploveberry"
+  ],
+  [
+    "The Case"
+  ],
+  [
+    "ФОРМУЛА КИНО PRIME"
+  ],
+  [
+    "MON BON"
+  ],
+  [
+    "Enevoo"
+  ],
+  [
+    "Путешествие.ру"
+  ],
+  [
+    "Soho Dolce"
+  ],
+  [
+    "Таксим"
+  ],
+  [
+    "Replay"
+  ],
+  [
+    "Sun Kiss"
+  ],
+  [
+    "Q-Store"
+  ],
+  [
+    "Raketa"
+  ],
+  [
+    "ГАЗПРОМБАНК банкомат"
+  ],
+  [
+    "Новая"
+  ],
+  [
+    "МАКУХИН"
+  ],
+  [
+    "JOKI JOYA"
+  ],
+  [
+    "Luisa Spagnoli"
+  ],
+  [
+    "Белорусские"
+  ],
+  [
+    "Eberhart"
+  ],
+  [
+    "Rostiс's"
+  ],
+  [
+    "Кофемания Bez Tarelok"
+  ],
+  [
+    "Автосервис InAuto"
+  ],
+  [
+    "Теремок"
+  ],
+  [
+    "Перекрёсток"
+  ],
+  [
+    "La Trevi"
+  ],
+  [
+    "TORRO GRILL"
+  ],
+  [
+    "Cheesemania"
+  ],
+  [
+    "Marchelas"
+  ],
+  [
+    "Mario Mikke"
+  ],
+  [
+    "By Malene Birger"
+  ],
+  [
+    "МУ-МУ"
+  ],
+  [
+    "Swatch"
+  ],
+  [
+    "Bootwood"
+  ],
+  [
+    "BRandICE"
+  ],
+  [
+    "FUN&SUN"
+  ],
+  [
+    "UVI JEWELLERY"
+  ],
+  [
+    "Farrini"
+  ],
+  [
+    "Российская"
+  ],
+  [
+    "Redmond Smart Home"
+  ],
+  [
+    "БУТИК РУССКОГО МАСТЕРСТВА №1"
+  ],
+  [
+    "UDC"
+  ],
+  [
+    "МЕБЕЛЬРУМ (пункт выдачи)"
+  ],
+  [
+    "LIMÉ Man"
+  ],
+  [
+    "Tondo Jewelry"
+  ],
+  [
+    "Xiaomi (остров)"
+  ],
+  [
+    "Eko-vostok"
+  ],
+  [
+    "12STOREEZ"
+  ],
+  [
+    "Ios&Android Service"
+  ],
+  [
+    "CANDY CAT"
+  ],
+  [
+    "COLIZEUM"
+  ],
+  [
+    "5 KapмаNов"
+  ],
+  [
+    "ТЕХНИКУМ"
+  ],
+  [
+    "KRAKATAU"
+  ],
+  [
+    "Rendez-Vous",
+    "Rendez-vous"
+  ],
+  [
+    "RIGHT HOPS"
+  ],
+  [
+    "Je T'aime"
+  ],
+  [
+    "Весёлая затея"
+  ],
+  [
+    "Osteria Mario"
+  ],
+  [
+    "Anta Sports"
+  ],
+  [
+    "Пан Круассан"
+  ],
+  [
+    "French Bakery SeDelice"
+  ],
+  [
+    "SAFINA"
+  ],
+  [
+    "Коза Море"
+  ],
+  [
+    "Ассортимент"
+  ],
+  [
+    "Lite"
+  ],
+  [
+    "Via Vittorio"
+  ],
+  [
+    "STYLISTE"
+  ],
+  [
+    "Diamant"
+  ],
+  [
+    "VASIF KASUMOV"
+  ],
+  [
+    "VV"
+  ],
+  [
+    "ДИК"
+  ],
+  [
+    "Fashion travel"
+  ],
+  [
+    "Бобрик Добрик"
+  ],
+  [
+    "Броня 360°"
+  ],
+  [
+    "ZNS"
+  ],
+  [
+    "ElitZakolka"
+  ],
+  [
+    "ХИНКАЛЬНАЯ"
+  ],
+  [
+    "WoolStreet"
+  ],
+  [
+    "Face Fit"
+  ],
+  [
+    "ОГОНЬКИ"
+  ],
+  [
+    "ЕДА ТУТ"
+  ],
+  [
+    "Codered"
+  ],
+  [
+    "Viva La Vita"
+  ],
+  [
+    "Слепая курица"
+  ],
+  [
+    "Kixbox"
+  ],
+  [
+    "Etam"
+  ],
+  [
+    "OLYMP"
+  ],
+  [
+    "URBANTIGER"
+  ],
+  [
+    "Thai Food"
+  ],
+  [
+    "EССО"
+  ],
+  [
+    "Слепая курица shoes"
+  ],
+  [
+    "Издательство Clever"
+  ],
+  [
+    "КОМFОРТ ОБУВЬ"
+  ],
+  [
+    "Aeronautica Militare"
+  ],
+  [
+    "BOSS Menswear"
+  ],
+  [
+    "Рыбная мануфактура"
+  ],
+  [
+    "Just Brand"
+  ],
+  [
+    "DESIGN SPACE"
+  ],
+  [
+    "MIELE"
+  ],
+  [
+    "Lavstyle"
+  ],
+  [
+    "Мияги"
+  ],
+  [
+    "Yamaguchi"
+  ],
+  [
+    "КУХНИ ГАРМОНИЯ"
+  ],
+  [
+    "Mezzatorre"
+  ],
+  [
+    "Carl’s Junior"
+  ],
+  [
+    "Желтая Витрина"
+  ],
+  [
+    "Kiko Milano"
+  ],
+  [
+    "ZINGAL RICHE PREMIUM"
+  ],
+  [
+    "Trailhead"
+  ],
+  [
+    "Ваш Размер"
+  ],
+  [
+    "Kappa"
+  ],
+  [
+    "OnePriceCoffee (2 этаж)"
+  ],
+  [
+    "Фабрика мебели «8 марта»"
+  ],
+  [
+    "MK"
+  ],
+  [
+    "Dream-aero"
+  ],
+  [
+    "X-mobile"
+  ],
+  [
+    "ANYPASTA"
+  ],
+  [
+    "Tsleep Premium Bedrooms"
+  ],
+  [
+    "PhoBo"
+  ],
+  [
+    "Boardriders"
+  ],
+  [
+    "Эльдорадо.ru"
+  ],
+  [
+    "WOЛК"
+  ],
+  [
+    "Плавательный.рф"
+  ],
+  [
+    "МОСВИТ"
+  ],
+  [
+    "ЭТО КУХНИ"
+  ],
+  [
+    "Bronoskins (остров)"
+  ],
+  [
+    "AppleService"
+  ],
+  [
+    "МИР КОРЕЙСКИХ ТОВАРОВ"
+  ],
+  [
+    "MIUZ Diamonds (Северное здание)"
+  ],
+  [
+    "Metta"
+  ],
+  [
+    "A|X Armani Exchange"
+  ],
+  [
+    "ProMobile"
+  ],
+  [
+    "ЮНИСТРИМ"
+  ],
+  [
+    "Вкусно — и точка (Южное здание)"
+  ],
+  [
+    "Konplott"
+  ],
+  [
+    "Glenfield"
+  ],
+  [
+    "Снежная Королева"
+  ],
+  [
+    "SOME PEOPLE"
+  ],
+  [
+    "Твои полы"
+  ],
+  [
+    "Terranova"
+  ],
+  [
+    "KEDDO"
+  ],
+  [
+    "ТОРТЫ НА ЗАКАЗ"
+  ],
+  [
+    "Белорусская косметика"
+  ],
+  [
+    "Lapin House"
+  ],
+  [
+    "DIMSUM&amp;CO"
+  ],
+  [
+    "Orange Elephant"
+  ],
+  [
+    "Women’Secret"
+  ],
+  [
+    "Carlo Pazolini"
+  ],
+  [
+    "MAUNFELD"
+  ],
+  [
+    "SUSHI"
+  ],
+  [
+    "Центральная"
+  ],
+  [
+    "Furla"
+  ],
+  [
+    "Yammi mix"
+  ],
+  [
+    "I-access"
+  ],
+  [
+    "BOUTIQUE №13"
+  ],
+  [
+    "KUPITPODAROK.RU"
+  ],
+  [
+    "Soda"
+  ],
+  [
+    "HB / HAPPY BABY"
+  ],
+  [
+    "НАТАХТАРИ"
+  ],
+  [
+    "ОН И ОНА"
+  ],
+  [
+    "Для"
+  ],
+  [
+    "Smartdevice"
+  ],
+  [
+    "Zafferano"
+  ],
+  [
+    "Мята PLATINUM"
+  ],
+  [
+    "Button Blue"
+  ],
+  [
+    "LU enchantée"
+  ],
+  [
+    "Mascotte"
+  ],
+  [
+    "Питер Тайм"
+  ],
+  [
+    "Chakra"
+  ],
+  [
+    "РИВ ГОШ",
+    "Рив Гош"
+  ],
+  [
+    "Les Benjamins"
+  ],
+  [
+    "Respect Premium"
+  ],
+  [
+    "Траектория"
+  ],
+  [
+    "Представляем"
+  ],
+  [
+    "Lady Sharm"
+  ],
+  [
+    "ОЧКАРИК"
+  ],
+  [
+    "Roman Holidays"
+  ],
+  [
+    "НОГОТОК"
+  ],
+  [
+    "udcкафе"
+  ],
+  [
+    "ЗОВ | Кухни Беларуси"
+  ],
+  [
+    "ВО ИМЯ РОЗЫ"
+  ],
+  [
+    "Авиатренажер Dream Aero"
+  ],
+  [
+    "KUPPERSBERG"
+  ],
+  [
+    "Hoff (пункт выдачи)"
+  ],
+  [
+    "СЛАДКИЕ ЗАКРОМА"
+  ],
+  [
+    "Yves Rocher"
+  ],
+  [
+    "VERY NEAT",
+    "Very Neat"
+  ],
+  [
+    "АПРИОРИ DELUXE"
+  ],
+  [
+    "Wrangler"
+  ],
+  [
+    "Gamma D'ORO"
+  ],
+  [
+    "AMA AROMA"
+  ],
+  [
+    "EVOLA style"
+  ],
+  [
+    "Bubble's Team"
+  ],
+  [
+    "Слепая курица department store"
+  ],
+  [
+    "Ресейл Маркет"
+  ],
+  [
+    "Diamond District"
+  ],
+  [
+    "Beyond"
+  ],
+  [
+    "Парфюмерия Gamma DORO"
+  ],
+  [
+    "Acer"
+  ],
+  [
+    "Беларускi Лён"
+  ],
+  [
+    "Igan Designer"
+  ],
+  [
+    "Humanist"
+  ],
+  [
+    "Case:Store"
+  ],
+  [
+    "Сталос"
+  ],
+  [
+    "Торговая галерея «Дубровка»"
+  ],
+  [
     "Японские ножи Тоджиро"
   ],
   [
-    "Ярмарка \"Твоя лавка\""
+    "BELLA BELLUCCI"
+  ],
+  [
+    "vigge cafe"
+  ],
+  [
+    "Dragonfly"
+  ],
+  [
+    "KIKI"
+  ],
+  [
+    "Слепая"
+  ],
+  [
+    "Kristina & Milan"
+  ],
+  [
+    "Lassie"
+  ],
+  [
+    "ПОЛЫ 24"
+  ],
+  [
+    "Мамито"
+  ],
+  [
+    "AVIATOR SNKRS"
+  ],
+  [
+    "LN Family"
+  ],
+  [
+    "Pompa"
+  ],
+  [
+    "Blizhe"
+  ],
+  [
+    "NANO CLEAN"
+  ],
+  [
+    "Зенит"
+  ],
+  [
+    "3Z ОПТИКА"
+  ],
+  [
+    "STAR HIT CAFE"
+  ],
+  [
+    "Eterna"
+  ],
+  [
+    "Usual Suspects"
+  ],
+  [
+    "Sport By Smartdevice"
+  ],
+  [
+    "Семейный парк развлечений Атмосфера"
+  ],
+  [
+    "SkoBeLev"
+  ],
+  [
+    "Boft - cервис печати фотографий"
+  ],
+  [
+    "BAO BEI"
+  ],
+  [
+    "Бабагануш"
+  ],
+  [
+    "YOUSTORE"
+  ],
+  [
+    "Российский"
+  ],
+  [
+    "EL ROSSO"
+  ],
+  [
+    "SAVAGE"
+  ],
+  [
+    "O`STIN kids"
+  ],
+  [
+    "Macrocosm"
+  ],
+  [
+    "Сербский Роштиль"
+  ],
+  [
+    "Сеть"
+  ],
+  [
+    "Flower Project"
+  ],
+  [
+    "Petit Pas"
+  ],
+  [
+    "Kidsbik"
+  ],
+  [
+    "Bruns Coffee"
+  ],
+  [
+    "EMBODY"
+  ],
+  [
+    "LERAN"
+  ],
+  [
+    "LUMIERE"
+  ],
+  [
+    "TWOOL"
+  ],
+  [
+    "Юность"
+  ],
+  [
+    "Kedma"
+  ],
+  [
+    "SEVEN LAB"
+  ],
+  [
+    "La prima"
+  ],
+  [
+    "Zames"
+  ],
+  [
+    "Север-Метрополь"
+  ],
+  [
+    "Toys Pro"
+  ],
+  [
+    "Аптека 36.6 (1 этаж)"
+  ],
+  [
+    "Smoklike"
+  ],
+  [
+    "AllTime.ru"
+  ],
+  [
+    "GRAF"
+  ],
+  [
+    "AMIRYO"
+  ],
+  [
+    "Garda Decor"
+  ],
+  [
+    "nininono"
+  ],
+  [
+    "VOLЯ WEAR"
+  ],
+  [
+    "Салон мужского белья Х.О."
+  ],
+  [
+    "Coccinelle"
+  ],
+  [
+    "Cinderella"
+  ],
+  [
+    "S-parfum"
+  ],
+  [
+    "N.O.M.I"
+  ],
+  [
+    "Bunny shop"
+  ],
+  [
+    "PhoBo (Северное здание)"
+  ],
+  [
+    "Club"
+  ],
+  [
+    "Токио Рамен"
+  ],
+  [
+    "АВТОБЫСТРО"
+  ],
+  [
+    "King Wokroll"
+  ],
+  [
+    "Tiki Toy (остров)"
+  ],
+  [
+    "Finn Flare"
+  ],
+  [
+    "BY.BORSCH"
+  ],
+  [
+    "Русская избушка"
+  ],
+  [
+    "АМИ КОВРЫ"
+  ],
+  [
+    "Tiflani"
+  ],
+  [
+    "Sweet Lavka"
+  ],
+  [
+    "Tobaccer"
+  ],
+  [
+    "TELE 2"
+  ],
+  [
+    "Alessandro Manzoni"
+  ],
+  [
+    "Moveli"
+  ],
+  [
+    "FREEDOM STORE"
+  ],
+  [
+    "Hard Case Store"
+  ],
+  [
+    "Комфорт"
+  ],
+  [
+    "Фабрика Счастья"
+  ],
+  [
+    "Гудман"
+  ],
+  [
+    "Primaverina"
+  ],
+  [
+    "Zeiss"
+  ],
+  [
+    "TISSOT"
+  ],
+  [
+    "Шоколадная Фабрика СЧАСТЬЕ"
+  ],
+  [
+    "Гипермаркет"
+  ],
+  [
+    "PIZHON"
+  ],
+  [
+    "А4KidsCity"
+  ],
+  [
+    "Fusion Menu"
+  ],
+  [
+    "D1913"
+  ],
+  [
+    "Контейнер RE:BOOKS"
+  ],
+  [
+    "Passý"
+  ],
+  [
+    "Roberto Bravo"
+  ],
+  [
+    "Boardriders by Quiksilver"
+  ],
+  [
+    "Exotica"
+  ],
+  [
+    "ПЕРСОНА"
+  ],
+  [
+    "Urban Vibes"
+  ],
+  [
+    "4 Измерение"
+  ],
+  [
+    "Sisley"
+  ],
+  [
+    "F3 Studio"
+  ],
+  [
+    "L`Occitane"
+  ],
+  [
+    "Грузинские каникулы"
+  ],
+  [
+    "UNOde50"
+  ],
+  [
+    "33 Пингвина"
+  ],
+  [
+    "Мобильные аксессуары и ремонт"
+  ],
+  [
+    "Швили"
+  ],
+  [
+    "Испанский"
+  ],
+  [
+    "CAMICISSIMA"
+  ],
+  [
+    "БАГРАТИОН"
+  ],
+  [
+    "Компания Ами Ковры"
+  ],
+  [
+    "7 сезонов"
+  ],
+  [
+    "Robinzon"
+  ],
+  [
+    "Ushatava"
+  ],
+  [
+    "Pho Asian kitchen"
+  ],
+  [
+    "Бахетле"
+  ],
+  [
+    "SHU"
+  ],
+  [
+    "Салон мебели ЗОВ"
+  ],
+  [
+    "Kapika"
+  ],
+  [
+    "NONNACOLLECTION"
+  ],
+  [
+    "ВОИН"
+  ],
+  [
+    "Ювелирцентр"
+  ],
+  [
+    "ХРУСТ"
+  ],
+  [
+    "Фрикадельня"
+  ],
+  [
+    "EKONIKA"
+  ],
+  [
+    "Belle you"
+  ],
+  [
+    "Panacea Jewelry Lab"
+  ],
+  [
+    "Джинсовый"
+  ],
+  [
+    "Evigi"
+  ],
+  [
+    "Bolshoy"
+  ],
+  [
+    "Li-ning"
+  ],
+  [
+    "Scandale Maniére"
+  ],
+  [
+    "Favorite Time"
+  ],
+  [
+    "NAIPACHE"
+  ],
+  [
+    "Hoff Home"
+  ],
+  [
+    "ЭZо Грузинская кухня"
+  ],
+  [
+    "EKONIKA (Скоро открытие)"
+  ],
+  [
+    "Dефиле"
+  ],
+  [
+    "ERGONOVA (Северное здание)"
+  ],
+  [
+    "ROYAL SPIRIT"
+  ],
+  [
+    "Fitness Formula"
+  ],
+  [
+    "DARWIN (остров)"
+  ],
+  [
+    "KABUKI café & lounge"
+  ],
+  [
+    "Romanova"
+  ],
+  [
+    "BAASPLOA"
+  ],
+  [
+    "YSOU"
+  ],
+  [
+    "New Yorker"
+  ],
+  [
+    "Миша Фишер Зеленая Точка"
+  ],
+  [
+    "Jeans Dean"
+  ],
+  [
+    "ЧемоданPRO (TUMI)"
+  ],
+  [
+    "HANOIAN"
+  ],
+  [
+    "Миша Фишер в Яффо"
+  ],
+  [
+    "Easy Spot"
+  ],
+  [
+    "Indefini"
+  ],
+  [
+    "Gloria Jeans"
+  ],
+  [
+    "AVVA"
+  ],
+  [
+    "Laete"
+  ],
+  [
+    "Zimaletto"
+  ],
+  [
+    "Pazolini"
+  ],
+  [
+    "Интерьерные решения ARISTO"
+  ],
+  [
+    "SMART DEVICE"
+  ],
+  [
+    "gf.italia"
+  ],
+  [
+    "Бронницкий ювелир"
+  ],
+  [
+    "6 сортов"
+  ],
+  [
+    "Piccolo"
+  ],
+  [
+    "United Colors of Benetton"
+  ],
+  [
+    "Balabala"
+  ],
+  [
+    "Ритмика"
+  ],
+  [
+    "Суши-маркет"
+  ],
+  [
+    "CoffeeVan"
+  ],
+  [
+    "SELA",
+    "Sela"
+  ],
+  [
+    "Iro"
+  ],
+  [
+    "BATIK"
+  ],
+  [
+    "1001 DRESS"
+  ],
+  [
+    "Сеть кафе тбилисской кухни \"Батони\""
+  ],
+  [
+    "ÉCLATA"
+  ],
+  [
+    "Estelle A-Store"
+  ],
+  [
+    "Dreams by Alena Akhmadullina"
+  ],
+  [
+    "Воскресение"
+  ],
+  [
+    "BML"
+  ],
+  [
+    "ARTLUSTRA"
+  ],
+  [
+    "Step by Step"
+  ],
+  [
+    "RUBY"
+  ],
+  [
+    "Dim"
+  ],
+  [
+    "Сеть Семейных"
+  ],
+  [
+    "Casio",
+    "CASIO"
+  ],
+  [
+    "Roni's DONUTS"
+  ],
+  [
+    "Dyshop"
+  ],
+  [
+    "Monsheri"
+  ],
+  [
+    "Вай Мэ!"
+  ],
+  [
+    "Столото"
+  ],
+  [
+    "LISE CHARMEL"
+  ],
+  [
+    "Билайн"
+  ],
+  [
+    "Цех 85"
+  ],
+  [
+    "День"
+  ],
+  [
+    "Цветной"
+  ],
+  [
+    "Crockid"
+  ],
+  [
+    "Vostorg (остров)"
+  ],
+  [
+    "Шоколадница"
+  ],
+  [
+    "Dolce Milk"
+  ],
+  [
+    "Швейцарский"
+  ],
+  [
+    "D - TWENTYONE"
+  ],
+  [
+    "Georgian House"
+  ],
+  [
+    "Y&M"
+  ],
+  [
+    "CAMEL ACTIVE"
+  ],
+  [
+    "СИН"
+  ],
+  [
+    "Expert Professional"
+  ],
+  [
+    "Hanswood"
+  ],
+  [
+    "DNS гипер"
+  ],
+  [
+    "Pho Bo"
+  ],
+  [
+    "Season Style (остров)"
+  ],
+  [
+    "MIUZ Diamonds (Южное здание)"
+  ],
+  [
+    "Урюк"
+  ],
+  [
+    "Quiksilver"
+  ],
+  [
+    "Respect (Южное здание)"
+  ],
+  [
+    "BJORN LARSEN"
+  ],
+  [
+    "Zest Coffee & Wine"
+  ],
+  [
+    "Аквапарк Питрелэнд"
+  ],
+  [
+    "Буквоед"
+  ],
+  [
+    "ЛАЗЕРТАГ"
+  ],
+  [
+    "Международный"
+  ],
+  [
+    "СТОЛЫ И СТУЛЬЯ"
+  ],
+  [
+    "MODI"
+  ],
+  [
+    "AQUA PLAZA"
+  ],
+  [
+    "Petra"
+  ],
+  [
+    "LAPARET"
+  ],
+  [
+    "NOVA Bubble Tea"
+  ],
+  [
+    "Shake Up"
+  ],
+  [
+    "TI TREND ISLAND"
+  ],
+  [
+    "Saffrоn"
+  ],
+  [
+    "Thunderobot"
+  ],
+  [
+    "Парфюмерный дом EMMI"
+  ],
+  [
+    "Beauty Professional"
+  ],
+  [
+    "Белый барашка"
+  ],
+  [
+    "Бренд Melburg"
+  ],
+  [
+    "ASKENT"
+  ],
+  [
+    "Императорский фарфор"
+  ],
+  [
+    "Академия Бриллиантов"
+  ],
+  [
+    "Уйгурка"
+  ],
+  [
+    "Sunlight (скоро открытие)"
+  ],
+  [
+    "ТУРБОТЕННИС"
+  ],
+  [
+    "Brow & Go"
+  ],
+  [
+    "MänerBlick"
+  ],
+  [
+    "ORAORA"
+  ],
+  [
+    "KuchenLand"
+  ],
+  [
+    "CLARINS SPA"
+  ],
+  [
+    "CANDY"
+  ],
+  [
+    "МАКОНТИ"
+  ],
+  [
+    "Детский мир"
+  ],
+  [
+    "Ив Роше"
+  ],
+  [
+    "Вкусно — и точка (Северное здание)"
+  ],
+  [
+    "Забыли Сахар"
+  ],
+  [
+    "Поке Хаус"
+  ],
+  [
+    "KOFOOD"
+  ],
+  [
+    "SUSHI BOOFFET"
+  ],
+  [
+    "Stratopacks"
+  ],
+  [
+    "Elka.bio"
+  ],
+  [
+    "divan.ru"
+  ],
+  [
+    "BOFT 2 этаж рядом с TOPTOP"
+  ],
+  [
+    "Шаурмангал"
+  ],
+  [
+    "Incanto",
+    "INCANTO"
+  ],
+  [
+    "Тайм Авеню"
+  ],
+  [
+    "Piquadro"
+  ],
+  [
+    "ЗОЛОТОЙ ПРИИСК"
+  ],
+  [
+    "Adelove"
+  ],
+  [
+    "One Price Coffee (1 этаж)"
+  ],
+  [
+    "NOMINATION"
+  ],
+  [
+    "Colette Adony"
+  ],
+  [
+    "ФУД СИТИ"
+  ],
+  [
+    "AllTime Casio"
+  ],
+  [
+    "Перекресток"
+  ],
+  [
+    "Страсть"
+  ],
+  [
+    "CHERRY MOSCOW"
+  ],
+  [
+    "VR PASS"
+  ],
+  [
+    "Быстрая"
+  ],
+  [
+    "Hi Tea"
+  ],
+  [
+    "3-15"
+  ],
+  [
+    "АРЕНА 300"
+  ],
+  [
+    "Chaihana the way"
   ],
   [
     "пУХовик’ру"
+  ],
+  [
+    "Akhmadullina Dreams"
+  ],
+  [
+    "HiDar hookah Shop"
+  ],
+  [
+    "EIGHTEEN 1811 ONE ONE"
+  ],
+  [
+    "Большая кухня"
+  ],
+  [
+    "Широчайший"
+  ],
+  [
+    "Легендарная"
+  ],
+  [
+    "MYTORI"
+  ],
+  [
+    "MAG Jeans"
+  ],
+  [
+    "NEROlab"
+  ],
+  [
+    "Oomph"
+  ],
+  [
+    "Спортмастер PRO"
+  ],
+  [
+    "MR. SUMKIN"
+  ],
+  [
+    "СИНЕМА ПАРК"
+  ],
+  [
+    "REDBOX"
+  ],
+  [
+    "Luisa Wang"
+  ],
+  [
+    "Мундштук"
+  ],
+  [
+    "Люди ИКС"
+  ],
+  [
+    "О Эскимо"
+  ],
+  [
+    "Drinkit"
+  ],
+  [
+    "БУМБАСТИК"
+  ],
+  [
+    "Grusha Diamonds"
+  ],
+  [
+    "SWG Светодиодное освещение"
+  ],
+  [
+    "СБЕРБАНК БАНКОМАТ"
+  ],
+  [
+    "IStudio"
+  ],
+  [
+    "Kuchenland Home"
+  ],
+  [
+    "МТС"
+  ],
+  [
+    "ИНТЕРЬЕР-КУПЕ"
+  ],
+  [
+    "Gate31"
+  ],
+  [
+    "EXPRESS РЕМОНТ"
+  ],
+  [
+    "VUA-LYA"
+  ],
+  [
+    "Black Star Burger"
+  ],
+  [
+    "ARISTO"
+  ],
+  [
+    "Almond"
+  ],
+  [
+    "Салон женского белья «Золотая Стрекоза»"
+  ],
+  [
+    "Dragon Bubble Tea"
+  ],
+  [
+    "МореКофеОкеан by Erwin"
+  ],
+  [
+    "Mollis"
+  ],
+  [
+    "Мехико"
+  ],
+  [
+    "ЭSTET"
+  ],
+  [
+    "D&F"
+  ],
+  [
+    "Togas"
+  ],
+  [
+    "Formula Coffee"
+  ],
+  [
+    "JOLY WOO"
+  ],
+  [
+    "Hidar"
+  ],
+  [
+    "БАРБЕРШОП 13 by TIMATI"
+  ],
+  [
+    "WRAP ME упаковка подарков"
+  ],
+  [
+    "Premium Device"
+  ],
+  [
+    "Котофей"
+  ],
+  [
+    "LAMODA SPORT URBAN"
+  ],
+  [
+    "UMI UMI"
+  ],
+  [
+    "Kardo"
+  ],
+  [
+    "ZOOMRACING"
+  ],
+  [
+    "SPA ПитерЛэнд"
+  ],
+  [
+    "SneakerBox"
+  ],
+  [
+    "MODI (Cкоро открытие)"
+  ],
+  [
+    "S Parfum"
+  ],
+  [
+    "City of dream"
+  ],
+  [
+    "Мне УльтраФиолетово"
+  ],
+  [
+    "Mudo"
+  ],
+  [
+    "HOLLYWOOD"
+  ],
+  [
+    "МАССАЖНЫЕ КРЕСЛА"
+  ],
+  [
+    "BUSINESS LINE"
+  ],
+  [
+    "Kanzler"
+  ],
+  [
+    "Miss CHIC"
+  ],
+  [
+    "COATS"
+  ],
+  [
+    "kIOSk"
+  ],
+  [
+    "ЭПЛ Даймонд"
+  ],
+  [
+    "PickPoint"
+  ],
+  [
+    "Ergonomika"
+  ],
+  [
+    "Marmelo сладости для детей и взрослых"
+  ],
+  [
+    "2MOOD"
+  ],
+  [
+    "Alanya Steak House"
+  ],
+  [
+    "Street Beat"
+  ],
+  [
+    "MEUCCI"
+  ],
+  [
+    "AHAROMA.RU"
+  ],
+  [
+    "Pasta Cup & Pinsa"
+  ],
+  [
+    "Проект"
+  ],
+  [
+    "MARCCAIN"
+  ],
+  [
+    "БАНКЕТНЫЙ ЗАЛ"
+  ],
+  [
+    "The Candy Bar"
+  ],
+  [
+    "КРАСКИ.РУ"
+  ],
+  [
+    "TatiKa"
+  ],
+  [
+    "Passion Beauty"
+  ],
+  [
+    "Studio 29"
+  ],
+  [
+    "Lamoda Sport Kids"
+  ],
+  [
+    "Velvetin Jewellery (остров)"
+  ],
+  [
+    "Bestwatch.ru Retail Project"
+  ],
+  [
+    "Мотостоянка и мотопаркинг"
+  ],
+  [
+    "Шоколадная Фабрика"
+  ],
+  [
+    "Интим-бутик «Черная кошка»"
+  ],
+  [
+    "Хлебник"
+  ],
+  [
+    "XC"
+  ],
+  [
+    "Poison Drop"
+  ],
+  [
+    "D&P Perfumum"
+  ],
+  [
+    "Тир"
+  ],
+  [
+    "Хочу Пури"
+  ],
+  [
+    "RUNWAY BEAUTY"
+  ],
+  [
+    "OPOMO"
+  ],
+  [
+    "ZAMM"
+  ],
+  [
+    "KRASIVO365"
+  ],
+  [
+    "КОКО Шаурма"
+  ],
+  [
+    "NiceOne"
+  ],
+  [
+    "Marou"
+  ],
+  [
+    "Клад Мармелад"
+  ],
+  [
+    "Bizhu"
+  ],
+  [
+    "BADEN"
+  ],
+  [
+    "Brerra"
+  ],
+  [
+    "ВООБРАЖУЛЯ"
+  ],
+  [
+    "SEVINGIN"
+  ],
+  [
+    "Lavarice"
+  ],
+  [
+    "T2"
+  ],
+  [
+    "Лабиринт"
+  ],
+  [
+    "РАДУГА ЦВЕТА"
+  ],
+  [
+    "Подружка"
+  ],
+  [
+    "Etre"
+  ],
+  [
+    "MBT"
+  ],
+  [
+    "Вкусвилл"
+  ],
+  [
+    "Haier"
+  ],
+  [
+    "Mr.Mish"
+  ],
+  [
+    "lady & gentleman CITY",
+    "LADY & GENTLEMAN CITY"
+  ],
+  [
+    "ТОТО"
+  ],
+  [
+    "HATSUN (остров)"
+  ],
+  [
+    "ТВОЕ"
+  ],
+  [
+    "Компания"
+  ],
+  [
+    "TELE2(остров)"
+  ],
+  [
+    "Eve&Esther"
+  ],
+  [
+    "SOCIAL MARKET"
+  ],
+  [
+    "Pho Street"
+  ],
+  [
+    "TopTop.ru"
+  ],
+  [
+    "Annuko"
+  ],
+  [
+    "RONI green house"
+  ],
+  [
+    "Белый Кролик"
+  ],
+  [
+    "United Colors"
+  ],
+  [
+    "EKONIKA pop-up"
+  ],
+  [
+    "SeGeT"
+  ],
+  [
+    "Счастливый взгляд"
+  ],
+  [
+    "S Parfum & Cosmetics"
+  ],
+  [
+    "The Бык (скоро открытие)"
+  ],
+  [
+    "noskinoski"
+  ],
+  [
+    "Премиальная"
+  ],
+  [
+    "Эстель Адони"
+  ],
+  [
+    "Gerard Darel"
+  ],
+  [
+    "M.B. Décor"
+  ],
+  [
+    "JAMMIA"
+  ],
+  [
+    "NO ONE UOMO"
+  ],
+  [
+    "FARШ",
+    "#FARШ"
+  ],
+  [
+    "FLOWER STORY"
+  ],
+  [
+    "Reiker"
+  ],
+  [
+    "IL Патио"
+  ],
+  [
+    "Karatov"
+  ],
+  [
+    "Matteo Malichelli"
+  ],
+  [
+    "D'S DAMAT"
+  ],
+  [
+    "Uno Soul"
+  ],
+  [
+    "Cosmomedica"
+  ],
+  [
+    "Cпортивный"
+  ],
+  [
+    "VЛАVАШЕ"
+  ],
+  [
+    "Планета фейерверков"
+  ],
+  [
+    "Крупный"
+  ],
+  [
+    "День сурка"
+  ],
+  [
+    "Бронницкий ювелир (остров)"
+  ],
+  [
+    "Simplewine"
+  ],
+  [
+    "MYBOX МАРКЕТ"
+  ],
+  [
+    "Кухни Мария"
+  ],
+  [
+    "Europolis"
+  ],
+  [
+    "Lady&gentleman CITY"
+  ],
+  [
+    "Mr.Doors"
+  ],
+  [
+    "Армянские деликатесы"
+  ],
+  [
+    "AllTime"
+  ],
+  [
+    "ALEX КЕРАМИКА"
+  ],
+  [
+    "Римские Каникулы (остров)"
+  ],
+  [
+    "GRIOL"
+  ],
+  [
+    "Ocean Muse"
+  ],
+  [
+    "Золотое Яблоко"
+  ],
+  [
+    "Agent Provocateur"
+  ],
+  [
+    "СкороМама"
+  ],
+  [
+    "Лёксик"
+  ],
+  [
+    "ANDERSSEN"
+  ],
+  [
+    "Мамина пицца"
+  ],
+  [
+    "LIONESS"
+  ],
+  [
+    "Baby Loft"
+  ],
+  [
+    "Tokio Ramen"
+  ],
+  [
+    "MOON ДИВАНЫ"
+  ],
+  [
+    "Моне"
+  ],
+  [
+    "Oldos"
+  ],
+  [
+    "Respect"
+  ],
+  [
+    "Charmstore"
+  ],
+  [
+    "CULT"
+  ],
+  [
+    "Sarto Reale"
+  ],
+  [
+    "Салон"
+  ],
+  [
+    "BRW"
+  ],
+  [
+    "Батутный парк Piterland"
+  ],
+  [
+    "САНТЕХНИКА ОНЛАЙН"
+  ],
+  [
+    "Guess"
+  ],
+  [
+    "DORSS"
+  ],
+  [
+    "M. Manzoni"
+  ],
+  [
+    "Moriki Doriki"
+  ],
+  [
+    "EFOR"
+  ],
+  [
+    "Туалет"
+  ],
+  [
+    "ПЕДИКЮР EXPRESS"
+  ],
+  [
+    "Olso"
+  ],
+  [
+    "Химчистка Apetta"
+  ],
+  [
+    "ARYA"
+  ],
+  [
+    "Marc & André"
+  ],
+  [
+    "Рыбная Мануфактура №1"
+  ],
+  [
+    "Ummami"
+  ],
+  [
+    "Планета Суши"
+  ],
+  [
+    "Подаркин"
+  ],
+  [
+    "Lucky Bear"
+  ],
+  [
+    "КУХНИ VIERA"
+  ],
+  [
+    "Divan BOSS"
+  ],
+  [
+    "Lumberjack"
+  ],
+  [
+    "Виртуальная реальность"
+  ],
+  [
+    "Мармел Шоу"
+  ],
+  [
+    "КОНЦЕПЦИЯ ЗДОРОВЬЯ"
+  ],
+  [
+    "Pedant"
+  ],
+  [
+    "Chokoberry"
+  ],
+  [
+    "Семейный"
+  ],
+  [
+    "Diesel"
+  ],
+  [
+    "Оптимальное"
+  ],
+  [
+    "Итальянская лавка"
+  ],
+  [
+    "Victoria Tretyak"
+  ],
+  [
+    "KP EXCLUSIVE"
+  ],
+  [
+    "БЕРЕГИ"
+  ],
+  [
+    "АТЕЛЬЕ СЕРЖ"
+  ],
+  [
+    "Theta"
+  ],
+  [
+    "21Shop"
+  ],
+  [
+    "Nikko"
+  ],
+  [
+    "NATURAPURA"
+  ],
+  [
+    "ЮВЕЛИРНЫЙ САЛОН"
+  ],
+  [
+    "ВОЛШЕБСТВО ДЕРЕВА"
+  ],
+  [
+    "Мебельрум"
+  ],
+  [
+    "Game park"
+  ],
+  [
+    "УРБАНИСТ"
+  ],
+  [
+    "SEKVOYA"
+  ],
+  [
+    "Apple Box"
+  ],
+  [
+    "НИЯМА"
+  ],
+  [
+    "Империя Фэн Шуй"
+  ],
+  [
+    "MELLE"
+  ],
+  [
+    "Coffee Combo"
+  ],
+  [
+    "MANERA"
+  ],
+  [
+    "TO BE ONE"
+  ],
+  [
+    "Anna Pekun"
+  ],
+  [
+    "Marc & Andre"
+  ],
+  [
+    "Белорусские кухни «ЗОВ»"
+  ],
+  [
+    "Мосигра"
+  ],
+  [
+    "LIME"
+  ],
+  [
+    "VR Games"
+  ],
+  [
+    "My Nymph"
+  ],
+  [
+    "Супермаркет Перекресток"
+  ],
+  [
+    "Milnali"
+  ],
+  [
+    "PRO ТАБАК"
+  ],
+  [
+    "BELWEST"
+  ],
+  [
+    "Befree"
+  ],
+  [
+    "СабФреш"
+  ],
+  [
+    "DECORAZZA"
+  ],
+  [
+    "Tommy Jeans"
+  ],
+  [
+    "Барьер"
+  ],
+  [
+    "Aldo"
+  ],
+  [
+    "BULVAR"
+  ],
+  [
+    "SuperStep"
+  ],
+  [
+    "ЧемоданPRO"
+  ],
+  [
+    "FUNDAY"
+  ],
+  [
+    "La Nature"
+  ],
+  [
+    "Магазин обуви Euromarca"
+  ],
+  [
+    "MIXX"
+  ],
+  [
+    "GRASSE PERFUMERIE"
+  ],
+  [
+    "FunnySocks"
+  ],
+  [
+    "GAISSINA"
+  ],
+  [
+    "DRIFT KIDS"
+  ],
+  [
+    "СушиСтор"
+  ],
+  [
+    "СТАРЫЙ ЛЕКАРЬ"
+  ],
+  [
+    "Fable"
+  ],
+  [
+    "Libellulas"
+  ],
+  [
+    "Сыроварня"
+  ],
+  [
+    "Гаджет"
+  ],
+  [
+    "ЛенОптика"
+  ],
+  [
+    "Технопарк"
+  ],
+  [
+    "MADIA IUSUPOVA"
+  ],
+  [
+    "Oohm home"
+  ],
+  [
+    "РАЙФФАЙЗЕН БАНК  БАНКОМАТ"
+  ],
+  [
+    "Скоро мама"
+  ],
+  [
+    "ОГОГО Обстановочка!"
+  ],
+  [
+    "Детский парк развлечений \"Опушка\""
+  ],
+  [
+    "Summer Love"
+  ],
+  [
+    "MAD WAVE"
+  ],
+  [
+    "ЗЛАТОГРАД"
+  ],
+  [
+    "Sneaker Box"
+  ],
+  [
+    "Cacharel"
+  ],
+  [
+    "Аптека РИГЛА"
+  ],
+  [
+    "LC WAIKIKI"
+  ],
+  [
+    "VASSA&amp;Co"
+  ],
+  [
+    "To Be Blossom"
+  ],
+  [
+    "Dr. Koffer"
+  ],
+  [
+    "Williams Et Oliver"
+  ],
+  [
+    "SANETTA"
+  ],
+  [
+    "Pierre Cardin"
+  ],
+  [
+    "FRHT"
+  ],
+  [
+    "CR"
+  ],
+  [
+    "OILIO"
+  ],
+  [
+    "Двери Гранит"
+  ],
+  [
+    "Doner House"
+  ],
+  [
+    "inni"
+  ],
+  [
+    "Tezenis"
+  ],
+  [
+    "РУЧКА.РУ"
+  ],
+  [
+    "ВьетКафе"
+  ],
+  [
+    "TEACHA"
+  ],
+  [
+    "Универмаг «ТЕЛЕГРАФ»"
+  ],
+  [
+    "LIME MAN"
+  ],
+  [
+    "U.S. Polo Assn. (AR Fashion)"
+  ],
+  [
+    "Времена"
+  ],
+  [
+    "Тилли-Стилли"
+  ],
+  [
+    "Кафе Фритто"
+  ],
+  [
+    "SVYATAYA"
+  ],
+  [
+    "Fiore Bags"
+  ],
+  [
+    "Natura Siberica"
+  ],
+  [
+    "Salmo"
+  ],
+  [
+    "O'PRIME"
+  ],
+  [
+    "Емка"
+  ],
+  [
+    "SELA moms & monsters"
+  ],
+  [
+    "Premiumdevice"
+  ],
+  [
+    "Аленка"
+  ],
+  [
+    "Unisof"
+  ],
+  [
+    "Cheesemania Pizza&Pasta"
+  ],
+  [
+    "FUN&SUN PREMIUM"
+  ],
+  [
+    "Season Style"
+  ],
+  [
+    "ДОМАРКЕТ"
+  ],
+  [
+    "Lamoda Sport Outlet"
+  ],
+  [
+    "OGAWA"
+  ],
+  [
+    "Individ"
+  ],
+  [
+    "Копирка"
+  ],
+  [
+    "Fun Socks"
+  ],
+  [
+    "Сувениры"
+  ],
+  [
+    "Nikasport"
+  ],
+  [
+    "wandu"
+  ],
+  [
+    "Оптика Фаворит"
+  ],
+  [
+    "oodji"
+  ],
+  [
+    "Mesh'n'flesh"
+  ],
+  [
+    "VR-park"
+  ],
+  [
+    "StarHit Cafe"
+  ],
+  [
+    "Falconeri"
+  ],
+  [
+    "Мобильные аксессуары AT DEVICES"
+  ],
+  [
+    "LiveWishes"
+  ],
+  [
+    "Твой дом"
+  ],
+  [
+    "КИНОАКАДЕМИЯ ЛИК"
+  ],
+  [
+    "TOTTI KIDS"
+  ],
+  [
+    "Marc O’Polo"
+  ],
+  [
+    "El Tempo"
+  ],
+  [
+    "KARI KIDS"
+  ],
+  [
+    "ADAMAS"
+  ],
+  [
+    "Мастерская упаковки"
+  ],
+  [
+    "Högl"
+  ],
+  [
+    "Гамарджоба Генацвале"
+  ],
+  [
+    "Parfume Oil"
+  ],
+  [
+    "Вареничная №1"
+  ],
+  [
+    "Modeno"
+  ],
+  [
+    "NORTON"
+  ],
+  [
+    "DO.BRO COFFEE"
+  ],
+  [
+    "Sunsolo киоск"
+  ],
+  [
+    "НИКА"
+  ],
+  [
+    "Ювелирные"
+  ],
+  [
+    "SKAND"
+  ],
+  [
+    "Hallyu"
+  ],
+  [
+    "NO ONE DONNA"
+  ],
+  [
+    "Crazy Cart"
+  ],
+  [
+    "BROW UP"
+  ],
+  [
+    "ATAMI"
+  ],
+  [
+    "Coffee Up Down"
+  ],
+  [
+    "gelati italiani"
+  ],
+  [
+    "Отличительная"
+  ],
+  [
+    "Matvienko"
+  ],
+  [
+    "Франклинс Бургер"
+  ],
+  [
+    "STILL HOME"
+  ],
+  [
+    "ЗАПОВЕДНАЯ ПОЛЯНА"
+  ],
+  [
+    "BabyLoft"
+  ],
+  [
+    "DAVITA"
+  ],
+  [
+    "ROLLS & BOWLS"
+  ],
+  [
+    "АТРАКЦИОН \"ЛИФТ\""
+  ],
+  [
+    "Massimo Renne"
+  ],
+  [
+    "ICleaning"
+  ],
+  [
+    "My Kim"
+  ],
+  [
+    "Остерия Марио"
+  ],
+  [
+    "DeepHouse"
+  ],
+  [
+    "Bocconcino"
+  ],
+  [
+    "Компания You Comf"
+  ],
+  [
+    "ЛЭТУАЛЬ City of Dreams"
+  ],
+  [
+    "TESORO"
+  ],
+  [
+    "Техно Ёж"
+  ],
+  [
+    "Продуктовый"
+  ],
+  [
+    "Renato Shavali"
+  ],
+  [
+    "Море Море"
+  ],
+  [
+    "Красная Машина"
+  ],
+  [
+    "VR MIR"
+  ],
+  [
+    "Polaris"
+  ],
+  [
+    "HUGO"
+  ],
+  [
+    "ZUMITA"
+  ],
+  [
+    "AURORA"
+  ],
+  [
+    "Поэт и кот"
+  ],
+  [
+    "MorphoClo"
+  ],
+  [
+    "ХИМЧИСТКА КОНТРАСТ"
+  ],
+  [
+    "ГЕСТИЯ ШТОРЫ"
+  ],
+  [
+    "Goldtex Premium Textile"
+  ],
+  [
+    "Синнабон"
+  ],
+  [
+    "Baseus"
+  ],
+  [
+    "МИЛТИ"
+  ],
+  [
+    "Baskin Robbins"
+  ],
+  [
+    "КВАРТАЛ ДИВАНОВ"
+  ],
+  [
+    "Бренд Strellson"
+  ],
+  [
+    "SolarX"
+  ],
+  [
+    "LISA&LEO"
+  ],
+  [
+    "Априори"
+  ],
+  [
+    "Istanbul"
+  ],
+  [
+    "COOK HOUSE"
+  ],
+  [
+    "MO"
+  ],
+  [
+    "Кондитерская и кафе NIQA"
+  ],
+  [
+    "Sun Fusion"
+  ],
+  [
+    "Моремания"
+  ],
+  [
+    "Anta"
+  ],
+  [
+    "PANCO"
+  ],
+  [
+    "Silver Spoon"
+  ],
+  [
+    "Diplomat"
+  ],
+  [
+    "BELLA VITA"
+  ],
+  [
+    "Кофемания"
+  ],
+  [
+    "Damat Tween"
+  ],
+  [
+    "AILI"
+  ],
+  [
+    "Age of innocence"
+  ],
+  [
+    "АВТОМОЙКА СЕНАТОР-АВТО"
+  ],
+  [
+    "Beauty Boutique"
+  ],
+  [
+    "Tefal"
+  ],
+  [
+    "Lee Cooper"
+  ],
+  [
+    "AksCam"
+  ],
+  [
+    "OXXO"
+  ],
+  [
+    "Мастерская деревянных изделий Masterskaya_Nhome"
+  ],
+  [
+    "S Parfum&Cosmetics"
+  ],
+  [
+    "ЮНИСТРИМ ДЕНЕЖНЫЕ ПЕРЕВОДЫ"
+  ],
+  [
+    "Korea market"
+  ],
+  [
+    "ЛотС"
+  ],
+  [
+    "BIGMENOV"
+  ],
+  [
+    "Зоозавр"
+  ],
+  [
+    "Мармеладный капитан"
+  ],
+  [
+    "BAON"
+  ],
+  [
+    "Авторские букеты MONTE LUXE"
+  ],
+  [
+    "Великоросс"
+  ],
+  [
+    "Double Bubble Tea"
+  ],
+  [
+    "APERITIVO BAR"
+  ],
+  [
+    "Современная"
+  ],
+  [
+    "Винотека Simple Wine"
+  ],
+  [
+    "SABBIA"
+  ],
+  [
+    "AR Fashion"
+  ],
+  [
+    "Re Kids"
+  ],
+  [
+    "SARTO REALE DIAMOND"
+  ],
+  [
+    "Kepler"
+  ],
+  [
+    "Эльдорадо"
+  ],
+  [
+    "PROFICARE"
+  ],
+  [
+    "АНГСТРЕМ"
+  ],
+  [
+    "Ромбаба"
+  ],
+  [
+    "MASSA mebel"
+  ],
+  [
+    "CINEMA PARK DELUXE"
+  ],
+  [
+    "ACCESSORIES FRANT"
+  ],
+  [
+    "МотиТайм"
+  ],
+  [
+    "Песочный парк «Бухта»"
+  ],
+  [
+    "Raganella Princess"
+  ],
+  [
+    "LIMÉ"
+  ],
+  [
+    "Royal Rabbit (Временно закрыт)"
+  ],
+  [
+    "TaksimMaydan"
+  ],
+  [
+    "2scoop"
+  ],
+  [
+    "Lifework"
+  ],
+  [
+    "LC Waikiki"
+  ],
+  [
+    "MEBEL BRANDS"
+  ],
+  [
+    "ДОМ БЫТА.COM"
+  ],
+  [
+    "Up Food (остров)"
+  ],
+  [
+    "Gresso"
+  ],
+  [
+    "Scandale Maniere"
+  ],
+  [
+    "Фактура"
+  ],
+  [
+    "YOKO"
+  ],
+  [
+    "KŌUN"
+  ],
+  [
+    "Мята Lounge"
+  ],
+  [
+    "HealthStore"
+  ],
+  [
+    "ЛЕПИМ и ВАРИМ"
+  ],
+  [
+    "Affliction"
+  ],
+  [
+    "Havvs"
+  ],
+  [
+    "Итальянская"
+  ],
+  [
+    "Галата"
+  ],
+  [
+    "Fluffy Fluffy"
+  ],
+  [
+    "ESTIMA"
+  ],
+  [
+    "JNBY"
+  ],
+  [
+    "Selfie Nails & Beauty Club"
+  ],
+  [
+    "EYFEL"
+  ],
+  [
+    "MOREMI"
+  ],
+  [
+    "ARLIGENT"
+  ],
+  [
+    "MERÉ"
+  ],
+  [
+    "Киберфокс"
+  ],
+  [
+    "Forte Bello"
+  ],
+  [
+    "Strobbs"
+  ],
+  [
+    "Мидийное"
+  ],
+  [
+    "SHARM"
+  ],
+  [
+    "ZEISS VISION CENTER"
+  ],
+  [
+    "Комфортная"
+  ],
+  [
+    "Ювелирный"
+  ],
+  [
+    "Восточный Караван (остров)"
+  ],
+  [
+    "Телебутик"
+  ],
+  [
+    "Bebakids"
+  ],
+  [
+    "Askomi"
+  ],
+  [
+    "585 ЗОЛОТОЙ"
+  ],
+  [
+    "Katya Erokhina"
+  ],
+  [
+    "Teahiro"
+  ],
+  [
+    "ВТБ БАНКОМАТ"
+  ],
+  [
+    "Царство сумок"
+  ],
+  [
+    "ФОРМУЛА КИНО"
+  ],
+  [
+    "Чабрец"
+  ],
+  [
+    "Soul in the Bowl"
   ]
 ]

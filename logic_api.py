@@ -16,7 +16,7 @@ from dotenv import load_dotenv
 # Подгружаем переменные окружения (аналогично config.py)
 BOT_ENV = os.getenv("BOT_ENV", "prod")
 if BOT_ENV == "test":
-    load_dotenv(".env_test")
+    load_dotenv(".env.test")
 else:
     load_dotenv(".env")
 

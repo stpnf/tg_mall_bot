@@ -3,8 +3,8 @@ from dotenv import load_dotenv
 
 BOT_ENV = os.getenv("BOT_ENV", "prod")
 if BOT_ENV == "test":
-    load_dotenv(".env_test")
-    print("Загружен .env_test")
+    load_dotenv(".env.test")
+    print("Загружен .env.test")
 else:
     load_dotenv(".env")
     print("Загружен .env")
